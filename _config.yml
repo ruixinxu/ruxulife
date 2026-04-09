@@ -18,7 +18,8 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   "http://ruxulife.com"
+url:       		   "https://ruxulife.com"
+baseurl:           ""
 #url:       		   "localhost:4000"
 
 
@@ -69,6 +70,9 @@ highlighter: rouge
 markdown:    kramdown
 paginate:    8
 paginate_path: "page:num"
+
+plugins:
+  - jekyll-paginate
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title

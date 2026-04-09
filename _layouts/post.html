@@ -18,7 +18,7 @@
           <span class="lang-zh">{{ page.date | date: "%Y年%m月%d日" }}</span>
           <span class="lang-en">{{ page.date | date: "%b %d, %Y" }}</span>
           {% if page.categories.size > 0 %}
-            · {% for cat in page.categories %}<a href="{{ site.url }}/categories/index.html#{{ cat }}">{{ cat | capitalize }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+            · {% for cat in page.categories %}<a href="{{ site.url }}{{ site.baseurl }}/categories/index.html#{{ cat }}">{{ cat | capitalize }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
           {% endif %}
           {% if site.readtime %}
             {% if site.wpm %}
@@ -42,7 +42,7 @@
       <div class="post-tags">
         <span class="lang-zh">标签：</span>
         <span class="lang-en">Tags:</span>
-        {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+        {% for tag in page.tags %}<a href="{{ site.url }}{{ site.baseurl }}/tags/index.html#{{ tag | cgi_encode }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
       </div>
       {% endif %}
 
