@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "关于朴树"
+title_en: "About Pu Shu"
 date:   2007-12-02 20:12:01
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 我喜欢朴树，从很早之前，有很多人知道。
 
@@ -68,3 +71,69 @@ by: MuMu
 在《名声大震》的最后一场比赛里，他说他要唱一首他妈妈最喜欢的歌。《那些花儿》的音乐响起，朴树站在钢琴边说：“弹钢琴的是小玲姐”。台下是如雷般的掌声。熟悉的旋律响起，那些过往的时光就像电影胶片一样在脑海里倒流，尽管我们回不去了，但是身边依旧有朴树的音乐陪伴。他拿到了那场比赛的冠军。
 
 后来听说朴树去西藏和尼泊尔采风了，回京后朴树长时间沉浸在西藏那圣洁纯真的情境中不能自拔，于6月份再次进藏。采风归来的朴树，脸上荡漾着洗礼过来的纯净笑容。相信这一次我们等待的时间不会太长了。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I’ve liked Pu Shu for a very long time. A lot of people know that.
+
+So when everyone secretly watched the **Top Chinese Music Awards and he came out to sing during evening study hall, they’d call out for me to look up; when he came to Jinan, they’d ask whether I wanted to go; when _Life Like Summer Flowers_ had just come out, classmate Qiezi saw his huge poster in a music store and saved it for me**.
+
+During the “Same Song” event for the 50th anniversary of BUPT in 2005, he came out to sing too. I jumped from the fourth row of Section B onto the platform runway by stepping on chairs—I had originally meant to walk there from the aisle, but that fierce security guard dragged me back—so I had no choice but to go over the chairs. Pu Shu was only a little over a meter away from me. I saw him shake hands with people below the stage, and say sorry to the ones he couldn’t reach. Very polite. But in the end I was only a fake fan, so I just stood there watching this guy...
+
+I’m a fake fan because I’m only obsessed with _I Go to 2000_, while I’ve never even listened all the way through to _Life Like Summer Flowers_.
+
+I remember that when I was still a kid, I once discussed every song in _I Go to 2000_ with another kid who was determined to grow up to be a military strategist. We went through them one by one like treasured family possessions, listing our feelings about each track, as if every single one had been engraved into us. But now I no longer have that state of mind. Hearing them again, they really do feel only like old friends, and they make me miss things.
+
+I remember one line from the sleeve text: “Not speaking / only silent / this unhappy life / my 9-watt desk lamp.”
+
+So I used it as my signature, but then I wasn’t sure about it, so I Baidu’d it (which shows just how bored I was), and unexpectedly found an essay about him, signed by MuMu.
+
+This “MuMu” was obviously a much realer fan than fake-fan me, and wrote quite well, so I’m reposting it here. If you’re too lazy to read it, just click back to the previous page.
+
+
+Remembering while waiting — Pu Shu
+
+MuMu
+
+Pu Shu is a sensitive child. It is precisely because of that sensitivity that he can write the subtleties of life into his songs and move our hearts. Pu Shu is also a willful child. It is precisely because of that willfulness that after all these years he has released only two albums. At the same time, he is a child with dreams and persistence. It is precisely because of those dreams and that persistence that we are able to hear good music from him.
+
+A child like Pu Shu usually surprises us when we least expect it, even if the waiting can be very long. But what does that matter? Some people simply make it possible for us to remember while waiting. Because we believe.
+
+
+Taking _Those Flowers_ into the year 2000
+
+1996 was Pu Shu’s darkest year. Around that time, he dropped out of school and spent his days tinkering with music at home. But music couldn’t put food on the table; nobody recognized the songs he wrote, and Pu Shu was too embarrassed to ask his family for money. It was then that he met Gao Xiaosong. After listening to Pu Shu’s demo, Gao, with the instinct of a music producer, sensed that Pu Shu would become the next “Lao Lang.” Later, Pu Shu appeared in Gao Xiaosong’s film _When Flowers Bloom_, playing the male lead. The movie not only helped make Zhou Xun and Pu Shu famous, but also featured the song Pu Shu sang for its ending theme—_Those Flowers_. That was in 1999.
+
+For Pu Shu, 1999 was a crucial year. In that year, he released his first solo album, _I Go to 2000_; he acted in Gao Xiaosong’s first youth film, _When Flowers Bloom_; and he signed with Warner Music, one of the world’s five major record companies, becoming its first mainland Chinese singer in the Asia-Pacific region. After being remixed and accompanied by a newly filmed music video for the latest single, _I Go to 2000_ was grandly released overseas in the first half of 2000.
+
+I still vividly remember the shock of hearing _I Go to 2000_ for the first time: “Not speaking / only silent / this ordinary life / this unhappy life / my 9W desk lamp.” The first image the lyrics call up is an old, shabby building. Was Pu Shu in some dim room of that building, beneath his 9-watt lamp, quietly writing songs, quietly releasing his thoughts, quietly giving voice to his loneliness? His voice carried a slight rasp. With that slightly husky voice he sang _New Boy_, _Mama, Me_, _Those Flowers_, _Journey_, _Don’t, Please Don’t_... and also _Call_ and _In the Fields of Hope_. In that high-school era of youthful restlessness and gloom, he sang out our own feelings, even if those feelings were so sad.
+
+At last the year 2000 arrived. We had awaited 2000 with such anticipation, as if in 2000 we really could “put on new clothes / cut a new hairstyle / relax a little / Windows 98 / dress up beautifully / eighteen is heaven / our lives are sweet as candy every day.” In February 2000, Pu Shu was invited to appear on CCTV’s Spring Festival Gala for the Year of the Dragon, performing the already much-played _Birch Forest_. He became an overnight sensation. His songs had already won countless awards on radio stations around the country, but the reach and influence of the Spring Festival Gala undoubtedly gave his career a huge boost. That spring after the New Year, Pu Shu’s _Birch Forest_ was everywhere on the streets. Overnight there were so many more “New Boys,” and we began to miss “Those Flowers.”
+
+“That laughter makes me think of my flowers / quietly blooming for me in every corner of my life / I once thought I would stay by their side forever / today we have drifted away into the vast sea of people / they’ve all grown old, haven’t they / where are they now? Luckily, I / was once there when they bloomed...”
+
+
+In the sunlight, for you, my best years
+
+
+In the blink of an eye, 2000 had been gone for a long time. After experiencing both fame and emotional upheaval, Pu Shu was finally reborn through fire. In November 2003, he released _Life Like Summer Flowers_. If nearly four years had passed for some other singer, people might long have forgotten them. But not Pu Shu. He has a magic that makes people wait for him and keep watch for him. Because the blossoms of _I Go to 2000_ never faded.
+
+The moment the melody of _Life Like Summer Flowers_ began, we knew the wait had been worthwhile. By then Windows 98 was already obsolete, and we were no longer eighteen either, and he began to sing _Only Fools Are Sad_. By this point Pu Shu no longer carried the impulsiveness of youth. No longer frivolous, no longer reckless, no longer rejecting the realities of the world. In his own words: “Now I’m just a lump of clay—people can shape me however they want, as long as that hard core is still there, that core is something no one can ever change. Maybe that is what growing up is!”
+
+The price of growing up was the struggle inside Pu Shu’s music. With something close to an ascetic kind of fervor, he tried to approach the pure realm described by Tagore: “Let life be as splendid as summer flowers and death as tranquil as autumn leaves.” The lyrics and melodies on the album were still all written and composed by Pu Shu himself. With utterly abundant inner force, he pursued a beauty that was almost ethereal and desperate, and with his astonishing explosiveness and control, he gave us the dazzling _Life Like Summer Flowers_.
+
+Thankfully, he succeeded. With _Life Like Summer Flowers_, he swept the major music awards and became, in 2004, a true trophy magnet, taking his place as the top male singer in mainland pop. And yet Pu Shu is still a singer set apart from the ordinary. He hates publicity, hates socializing, hates falseness. He only wants to make his own music. He has never cared whether he becomes popular. He only wants to be himself, to show everyone a real Pu Shu—without packaging, without pretension.
+
+When Pu Shu’s music comes straight at us, we suddenly realize that his sadness is no longer so overwhelming. Just as he sings in _I Love You, Goodbye_: “As if it were fated / that summer burning like fire / that alluring summer dance / you danced toward my side...” The open-hearted attitude toward love described in that song deeply attracted Sammi Cheng. In Cantonese she sang: “Let the story happen again / let my life be filled with regrets / life goes on / the dance never truly stops / only by making mistake after mistake / can the story become wonderful...”
+
+The dance never stops, but Pu Shu fell silent once more. Not until 2007 did he appear on the stage of Hunan TV’s _Mingsheng Dazhen_, quietly singing _Sunny_, _Why_, _Rock DJ_ amid all the noise, making people think of a return to simplicity.
+
+In the final round of _Mingsheng Dazhen_, he said he wanted to sing a song his mother loved most. The music of _Those Flowers_ began, and Pu Shu stood by the piano and said, “The one playing piano is Sister Xiaoling.” Thunderous applause rose from the audience. As the familiar melody sounded, all those past years flowed backward in the mind like film strips. Even though we can never go back, Pu Shu’s music is still here beside us. He won the championship that night.
+
+Later I heard that Pu Shu went to Tibet and Nepal for inspiration. After returning to Beijing, he remained immersed for a long time in that sacred and innocent Tibetan atmosphere and couldn’t pull himself free, so in June he went into Tibet again. After returning from that trip, his face carried the pure smile of someone newly washed and blessed. I believe this time our wait won’t be too long.
+
+</div>

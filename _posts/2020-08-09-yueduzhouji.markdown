@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "阅读周记"
+title_en: "Reading Weekly Notes"
 date:   2020-08-09 17:28:00
 categories: ruxu-reading
 tags: [ruxu-reading]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 借书对于驱动我阅读特别有效。主要原因有两个：第一，Deadline就是生产力，好几次都是赶在借阅时间到期前飞速读完；第二，在还书之前（尤其是在遇到特别喜欢的内容时），总想着留些笔记，主要为了实现借阅利益的最大化，这也促使自己对阅读的内容进行梳理。现在下一期的借阅包裹已经在手边了，我蠢蠢欲动想打开看瞧瞧，但是上一期的读书笔记还没写完，“没有完成上一期笔记就不可以开下一期！”唉，强迫症的自己真是让人抓狂。
 
@@ -67,3 +70,69 @@ by: mumu
 《包法利夫人》 福楼拜
 《战争与和平》列夫托尔斯泰
 《卡拉马佐夫兄弟》陀思妥耶夫斯基
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Borrowing books is extremely effective at pushing me to read. There are two main reasons. First, deadlines are productivity. More than once I have raced through a book right before it was due. Second, before returning a book—especially when I really love it—I always want to leave myself some notes, partly to maximize the “value” of borrowing it, and partly because note-taking helps me sort out what I’ve read. The next borrowed package is already sitting beside me, and I’m dying to open it, but I still haven’t finished the notes from the previous batch. “No opening the next package before finishing the last notes!” Sigh. My compulsive self can be unbearable.
+
+## Dior by Dior
+
+<figure>
+<a href="{{ site.url }}/images/dior.jpg"><img src="{{ site.url }}/images/dior.jpg" height="600"></a>
+</figure>
+
+This slim little book is Christian Dior’s fashion notebook. He offers professional insights and practical advice on every element of dress. It was first published in the 1950s, yet his thoughts on fabric, design, and accessories still feel completely relevant more than sixty years later. Dior believed that elegance is the right combination of personality, nature, care, and simplicity. Above all, care matters most. Dress carefully; groom yourself carefully. What surprised me most is that Dior, founder of one of the world’s iconic luxury brands, still insisted that luxury is the opposite of elegance. Elegance may be bold, but it should never be luxurious in the vulgar sense. Extravagance is bad taste. Better to make mistakes in simplicity than indulge in wasteful display.
+
+After Dior died in 1957, Yves Saint Laurent became Dior’s chief designer at only twenty-one. He was born in French Algeria—the setting of Camus’ _The Plague_. When the Algerian War broke out in 1960, he was drafted into the army. Whether because of his introverted temperament or because he was gay, he later declared a mental breakdown and was hospitalized. That marked his break with Dior, and he went on to found YSL. Much later, of course, that gave us the ever-sold-out lipstick famously associated with Cheon Song-yi.
+
+## Like Father, Like Son
+
+<figure>
+<a href="{{ site.url }}/images/rufuruzi.jpg"><img src="{{ site.url }}/images/rufuruzi.jpg" height="600"></a>
+</figure>
+
+I cried a complete mess reading _Like Father, Like Son_. It is obviously fictional, and the plot and characters feel carefully arranged, yet it still moved me deeply. Two boys are found to have been switched at birth just before starting elementary school. In preparation for returning each child to his biological family, the two families begin to spend time together. One father is an architect too busy with work to spend time with his child; the other is a small shop owner who jokes around with his kid every day and even repairs electric toys. The difference in class, family atmosphere, and parenting style creates a chain of events that forces both families into reflection. The emotions formed through raising a child—especially a child’s love for his father—remain equally pure in either household. Stories like this about family are always an easy way to hit my emotional weak spot, but I have to admit Hirokazu Kore-eda is exceptionally good at telling them. Last year I watched _Shoplifters_ and _Our Little Sister_. His films rarely rely on sharp dramatic conflict; instead, inner emotions and family bonds are revealed gently through expressions, gestures, and dialogue. Very East Asian, very Ang Lee.
+
+I didn’t know it had been adapted into a film while I was reading. After finishing the book, I watched the film trailer and cried all over again.
+
+## Reading Is a Portable Shelter
+
+<figure>
+<a href="{{ site.url }}/images/yuedubinan.jpg"><img src="{{ site.url }}/images/yuedubinan.jpg" height="600"></a>
+</figure>
+
+This collection of essays on reading by Somerset Maugham is both fun and packed with substance. Maugham believed that pleasure is the first principle of reading, and that writers—novelists in particular—should not treat themselves as lecturers whose job is to transmit knowledge.
+
+In the essay “What Sort of People Write What Sort of Books,” Maugham shares all kinds of personal details about great writers, and they are delicious to read almost like gossip. Jane Austen, Stendhal, Dickens, Flaubert, Balzac, and Dostoevsky no longer appear as cold names from literary history; under Maugham’s pen they become ordinary people struggling through the ups and downs of life. Many great works, too, were not flashes of divine inspiration but products of necessity—long stretches of labor forced out by life itself. These literary giants often explored the flaws of human nature in their writing, while in real life they were often prisoners of that same human nature.
+
+<figure>
+<a href="{{ site.url }}/images/renxingjiasuo.jpg"><img src="{{ site.url }}/images/renxingjiasuo.jpg" height="600"></a>
+</figure>
+
+Putting these behind-the-scenes stories alongside Maugham’s _Of Human Bondage_ is especially interesting, because you can see where many novelistic situations came from. _Of Human Bondage_ is Maugham’s autobiographical novel. It is a thick book, but surprisingly easy to read; finishing such a long book so quickly is oddly satisfying. In it, the scene where Philip studies painting in Paris and wonders whether he should continue seeking out a great master comes from young Balzac once sending his own script to a professor, even receiving almost the same reply. Philip pays for Mildred and his frivolous roommate to travel to Paris; Dostoevsky paid to help the woman he loved, Maria Isaeva, finish preparations for her wedding to another man. Philip and Dostoevsky also share a similar masochistic streak: the more the women they adore belittle and torment them, the deeper their obsession grows. Maugham even has Philip’s first love mention Maupassant’s frivolity.
+
+Maugham’s reflections on beauty and goodness in these essays also echo beautifully in _Of Human Bondage_.
+
+In Philip’s poorest days, when he is homeless and drifting, he goes to museums to take comfort in art. In the essays, Maugham describes his own feelings like this:
+
+“What is one’s reaction in front of a great work of art? I know what mine is: a feeling of exhilaration mingled with joy, at once rational and emotional, a happiness that gives me some strength and frees me, for a moment, from the bondage of human nature. At the same time I feel myself in a tender mood full of human sympathy. I therefore feel steady, inwardly calm, and spiritually detached. If art can be a consolation, that is enough. The world is full of incomparable evil, and if human beings can occasionally seek refuge in the works of art handed down through the ages, that is a fine thing. Yet this is not escape; it is drawing new strength in order to face evil.”
+
+Maugham believed kindness is the most admirable of emotions. In _Of Human Bondage_ he gives Philip a happy ending: he ends up with the kind Sally. When I first read that ending it felt abrupt, and Philip clearly did not love Sally in the same way, but the essays offer some explanation. Maugham sees kindness as humor’s answer to the absurdity and sadness of fate. Unlike beauty, kindness can approach perfection without becoming tiresome, and it may even be greater than love, because its light does not fade with time. Seen that way, perhaps there is no better ending than to be with someone kind who truly loves you.
+
+This is also a wonderful book for making me want to read more. Many titles are classics, but to an engineering girl who has not read enough, they still felt like a treasure trove:
+
+_Essays of Montaigne_  
+_Wilhelm Meister_ by Goethe  
+_Tom Jones_ by Fielding  
+_Pride and Prejudice_ by Jane Austen  
+_David Copperfield_ by Dickens  
+_The Red and the Black_ by Stendhal  
+_Madame Bovary_ by Flaubert  
+_War and Peace_ by Leo Tolstoy  
+_The Brothers Karamazov_ by Dostoevsky
+
+</div>

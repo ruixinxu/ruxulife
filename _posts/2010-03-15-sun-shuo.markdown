@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "SUN说"
+title_en: "Sun Says"
 date:   2010-03-15 22:28:25
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 By: MuMu+Sun+Sure
+
+<div class="lang-zh" markdown="1">
 
 木“读phd好好有好多时间来积累进步而我眼巴巴就要毕业了啥也没干”
 
@@ -53,3 +56,54 @@ sun“sure很尊重知识产权”
 
 
 特此纪念本日生辰的传奇孙
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Mu: “Doing a PhD is so nice—you have so much time to accumulate things and improve, while I’m about to graduate and have done nothing at all.”
+
+Sun: “People always magnify what they can’t have.”
+
+
+
+Mu: “I rush around every day and still don’t even know what I’m busy with.”
+
+Sun: “People stay like that until they die.”
+
+
+
+Sun: “I think all of theirs seem pretty reliable. Yours is the only one that doesn’t seem very reliable.”
+
+Mu: “I think I’ve already figured it out, haven’t I?”
+
+Sun: “It seems like you’ve never really figured anything out...”
+
+Mu, deeply embarrassed.
+
+
+
+Sure: “Have I lost weight?”
+
+Sun: “All I can say is that your head hasn’t gotten smaller, so the proportion just keeps getting bigger.”
+
+
+
+Sure: “My mom said...”
+
+Sun: “Sure really respects intellectual property.”
+
+
+
+When Mu saw Qing arrive late in a black trench coat looking especially cool, she shouted, “You look so manly, so manly!”
+
+Qing looked aggrieved: “Sorry, I already ran all the way here.”
+
+Mortified Mu silently resolved to practice spoken English...
+
+
+Commemorating the legendary Sun on this birthday of his.
+
+</div>

@@ -1,89 +1,63 @@
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="{{ site.url }}/assets/js/scripts.min.js"></script>
-<script type="text/javascript" src="{{ site.url }}/assets/js/waypoints.min.js"></script>
-<script type="text/javascript" src="{{ site.url }}/assets/js/script.js"></script>
-<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
-<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
-<script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
-
-<script type="text/javascript">
-
-/*      Slides       */
-
-$("a#slide").click(function(){
-    $("#sidebar,body,a#slide,#fade").addClass("slide")
-});
-
-$("#fade,#header,#posts-container").click(function(){
-    $("#sidebar,body,a#slide,#fade").removeClass("slide")
-});
-
-$("a#click-filter").click(function(){
-    $("#slide-filter").slideToggle("medium");
-    $("#slide-pages").slideOut("medium");
-});
-
-$("a#click-pages").click(function(){
-    $("#slide-pages").slideToggle("medium");
-    $("#slide-filter").slideOut("medium");
-});
-
-/*      End-Slides      */
-
-</script>
-
-{% if site.search %}
-<!-- Jekyll Simple Search option -->
+{% if site.google_analytics %}
 <script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : '{{ site.url }}/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
-
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".icon-remove-sign"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
-    });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', '{{ site.google_analytics }}', 'auto');
+  ga('send', 'pageview');
 </script>
 {% endif %}
-{% if site.google_analytics %}
-<!-- Asynchronous Google Analytics snippet -->
 <script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
-  _gaq.push(['_trackPageview']);
+  (function () {
+    var root = document.documentElement;
+    var body = document.body;
+    var storageKey = 'ruxu-site-language';
+    var defaultLang = 'zh';
+    var siteTitle = {
+      zh: '如许阅读',
+      en: 'Ruxu Reading'
+    };
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    function updateMeta(selector, value) {
+      var node = document.querySelector(selector);
+      if (node && value) {
+        node.setAttribute('content', value);
+      }
+    }
+
+    function setLang(lang) {
+      var pageTitle = lang === 'en' ? (body.dataset.pageTitleEn || body.dataset.pageTitleZh || '') : (body.dataset.pageTitleZh || '');
+      var pageDescription = lang === 'en' ? (body.dataset.pageDescriptionEn || body.dataset.pageDescriptionZh || '') : (body.dataset.pageDescriptionZh || '');
+
+      root.setAttribute('data-lang', lang);
+      localStorage.setItem(storageKey, lang);
+
+      document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+        var active = button.getAttribute('data-set-lang') === lang;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+
+      if (pageTitle) {
+        document.title = pageTitle + ' – ' + siteTitle[lang];
+      } else {
+        document.title = siteTitle[lang];
+      }
+
+      updateMeta('meta[name="description"]', pageDescription);
+      updateMeta('meta[property="og:title"]', pageTitle || siteTitle[lang]);
+      updateMeta('meta[property="og:description"]', pageDescription);
+      updateMeta('meta[property="og:site_name"]', siteTitle[lang]);
+    }
+
+    document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+      button.addEventListener('click', function () {
+        setLang(button.getAttribute('data-set-lang'));
+      });
+    });
+
+    setLang(localStorage.getItem(storageKey) || defaultLang);
   })();
 </script>
-{% endif %}
 {% if page.comments %}{% include disqus_comments.html %}{% endif %}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "chucky jokes"
+title_en: "Chucky Jokes"
 date:   2011-11-03 10:43:00
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 1.
 
@@ -63,3 +66,65 @@ chucky无辜状：我就喜欢这样小小的感觉！
 chucky：我就喜欢这样极限的感觉！
 
 然后就传来一阵慌乱只见chucky抓起包飞奔而去
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+1.
+
+At 9:30 in the morning, Samimimao walked past awkward Mumu like a movie star.
+
+He stretched out his hand like a total gentleman and said hi, and the air instantly froze.
+
+Awkward Mumu was so dazzled she completely lost control of herself.
+
+Seeing this, chucky said faintly from behind: You need to hold it together around married men like this, hold it together!
+
+2.
+
+On Halloween morning, seeing the newly decorated cubicles and the bosses dressed up with extreme professionalism,
+
+awkward Mumu panicked: What do I do, what do I do, I didn’t prepare anything, what do I do, what can I use to scare people?
+
+chucky: Scaring people should still be left to the boys.
+
+Awkward Mumu: Why? Girls are supposed to be reserved, is that it?
+
+chucky: Yes.
+
+Awkward Mumu: But, but... that word does not exist in my dictionary.
+
+chucky: ...
+
+3.
+
+Working late. An Zhi was leaving and came over to say goodbye: Ruixin, it’s so late, be careful on your way home!
+
+chucky: Right. If you run into a cute little boy, hold it together.
+
+Awkward Mumu struck a dramatic pose: Don’t worry. My heart belongs only to Samimimao!
+
+Chucky burst out laughing and then said with a straight face: This is not corny at all~ it is seriously too funny.
+
+4.
+
+LY pointed at chucky, who was all curled up in front of his laptop, and said: You look so cramped sitting there.
+
+chucky, with an innocent face: I just like this tiny cozy feeling!
+
+Awkward Mumu: ...
+
+5.
+
+One day chucky had to catch a train home, but was still working away with admirable dedication.
+
+Awkward Mumu: Aren’t you leaving yet? If you don’t go now, you’ll miss your train!
+
+chucky: I just like this feeling of living on the edge!
+
+Then chaos erupted, and all we saw was chucky grabbing his bag and sprinting away.
+
+</div>

@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "关于目送"
+title_en: "On Watching You Go"
 date:   2009-10-29 23:22:59
 categories: ruxu-reading
 tags: [ruxu-reading]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 我没有读书的习惯，几乎从不主动去读书。
 
@@ -24,3 +27,25 @@ by: MuMu
 不知道是不是有很多人，遇到困难时候，脑海自然浮现“天将降大任于斯人”便精神重新抖擞。而小时候听到的那么多年的童话和寓言，是我心底里最初的美好，在并不那么流畅的成长过程中给我最源头的力量，让我成为现在的我。
 
 感谢老妈。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I never really had the habit of reading, and I almost never took the initiative to read books on my own.
+
+When I was little, all kinds of storybooks were read aloud to me by my mother before bed, all the way until I finished elementary school. I’ve always been lazy, ever since I was small.
+
+When I see the software guys and academic guys around me reading everything from C++ templates to all kinds of papers with such relish and satisfaction, I feel ashamed of myself. I’ve had that feeling too: in sophomore year, right before finals, when I finally read through that thin analog electronics textbook in one go, I was shocked to realize that all semester long I had never actually understood what I was studying. At that moment I suddenly understood that books contain a kind of systematized knowledge Google can’t give you... It’s just that without pressure, I would absolutely never go read a book.
+
+I saw a junior repost _Watching You Go_ on Xiaonei, and it was the kind of writing I could actually keep reading. There are many truths we know without necessarily understanding them, and even if we understand them, we may still not be able to live by them. About _Watching You Go_, about “Back View,” I always feel deep regret about the self I was four or five years ago.
+
+When Lung Ying-tai rode to school in her father’s cheap little truck, and when Zhu Ziqing headed north carrying the oranges his father had bought for him, they were probably about my age now, weren’t they? I don’t know whether I have already grown mature and clear-headed. When I look back again thirty years from now, will I also laugh at the person I am now for being “too clever”?
+
+I wonder whether there are many people who, when they meet difficulty, naturally think of “When Heaven is about to place a great responsibility on a person...” and feel their spirits lift again. And all those fairy tales and fables I heard through childhood were the earliest beauty inside me. Through a not-so-smooth growing-up process, they gave me strength at the very source and made me who I am now.
+
+Thank you, Mom.
+
+</div>

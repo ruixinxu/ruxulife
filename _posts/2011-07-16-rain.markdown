@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "雨 打雷"
+title_en: "Rain, Thunder"
 date:   2011-07-16 22:28:01
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,4 +10,16 @@ tags: [ruxu-life]
 comments: true
 share: true
 ---
+<div class="lang-zh" markdown="1">
+
 于是就把窗子关上，拉上窗帘，闷是稍有些的，但是这样至少世界都安静了。说下雨是天与地的交媾，创造了万物。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+So I shut the window and drew the curtains. It was a little stuffy, but at least the whole world became quiet. They say rain is the union of heaven and earth, the act that gave birth to all things.
+
+</div>

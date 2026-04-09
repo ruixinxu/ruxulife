@@ -1,4 +1,4 @@
-title:            ruxubooks
+title:            如许阅读
 description:      "问渠那得清如许 为有源头活水来"
 logo:             book.png
 disqus_shortname: ruxubooks
@@ -51,22 +51,22 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 首页
     url: /
     external: true
     icon: home
-  - title: Categories
+  - title: 分类
     url: /categories
-  - title: Tags
+  - title: 标签
     url: /tags
-  - title: Ruixin who?
+  - title: 关于我
     url: /ruixinxu
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Singapore
 future:      true
 highlighter: rouge
-markdown:    markdown
+markdown:    kramdown
 paginate:    8
 paginate_path: "page:num"
 

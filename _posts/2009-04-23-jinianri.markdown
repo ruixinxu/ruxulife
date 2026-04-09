@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "纪念日"
+title_en: "Anniversary"
 date:   2009-04-23 21:36:58
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 纪念
 
@@ -40,3 +43,41 @@ by: MuMu
 多久了
 
 六年
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Commemoration
+
+It rained.
+
+The ground got wet.
+
+There was more water on the ground.
+
+It seeped underground.
+
+It touched the underground wires.
+
+The wiring hadn’t been inspected for a long time.
+
+The insulating outer layer had split.
+
+It met the water that had seeped down.
+
+It connected to the metal lamppost.
+
+The lamppost became live.
+
+And MuMu hugged it.
+
+So I got electrocuted.
+
+How long has it been?
+
+Six years.
+
+</div>

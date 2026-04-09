@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "一只抱大腿的电灯泡的西藏十五日游"
+title_en: "A Fifteen-Day Tibet Trip as a Third Wheel Clinging to the Experts"
 date:   2013-10-08 17:29:00
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 西藏，被全国人民放在心口尖儿上很多年了，周围总有好友不断表达对她的向往：三年前，美栅离开北京时信誓旦旦和我约定要一同进藏，后来的某一天接到她的电话，大致是说等不到我于是和花哥哥们同去了…两年多前，汪汪和学敏都在迷恋藏地密码，也曾在2208听他们谈论过自己的西藏计划，汪汪赴法之前把整套的藏地密码都留给了我，我把他们小心翼翼的捆好，过去两年把他们从西四环搬到北二环又搬到南三环，但却从没翻过一页-_-!!…还有文艺男青年信誓旦旦“要和心爱的人一同去看看西藏圣洁的天空”以及文艺女青年“在西藏遇到了极品渣男前任”之类的桥段都在我身边一一上演…
 
@@ -197,3 +200,198 @@ to be added
 ### 关于游记
 
 我不是旅游达人，作为一个毫无责任心的弱弱的抱大腿的灯泡儿，我一直在等我们队长和其他靠谱队员的游记，心里小算盘儿打着到时候点个大大的赞然后分享之就好啦，直到GR同学有天给我讲了“著名的发生在纽约的一件社区凶杀案件”，我才下定决心开始动笔。“故事发生在一个非常文明的高端小区，28户住户，在同一时间，目睹了一个杀人犯用刀杀死一个女孩。历时30多分钟，在这个过程女孩一直大声呼救，其中没有一个人打电话报警。因为大家都觉得别人会报警。”“dont let me die”她最后补了一句，所以才有了这篇流水记，如果我啰啰嗦嗦这么一大堆恰好给你的出行带来一点点帮助的话，那也不枉费GR一片苦口婆心了。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Tibet has been cherished in the hearts of people all across the country for many years, and friends around me have always been expressing their longing for it. Three years ago, when Meizha left Beijing, she solemnly promised that we would enter Tibet together. Then one day later she called to say, more or less, that she could not wait for me anymore and had gone with Brother Hua and the others... More than two years ago, Wangwang and Xuemin were both obsessed with _The Tibet Code_, and I had heard them discuss their Tibet plans in Room 2208. Before Wangwang left for France, he left the entire set of _The Tibet Code_ with me. I carefully tied the books up and spent the next two years moving them from the West Fourth Ring to the North Second Ring and then to the South Third Ring, yet I never opened a single volume -_-!! ... I have also watched, one after another, all those literary-young-man scenes of “I want to go see Tibet’s holy sky with the one I love,” and literary-young-woman scenes like “I met my awful jerk ex in Tibet,” playing out all around me...
+
+But I myself had never been that determined, nor had I truly prepared anything for a Tibet trip, until this August, when I received an invitation from the HM couple: enter Tibet from September 6 to September 22. At that time I was in America working day and night. Even though I was completely enchanted by warm Uncle AC, the endless meetings, endless feedback to revise, and sleep-deprived body still made me want to run away. So I eagerly agreed to join the HM couple and became a third wheel clinging to other people’s expertise.
+
+Later, I proved with my actions just how unreliable I was. I overslept both train-ticket release times, printed two copies of travel notes only two hours before boarding, still could not count how many days we would be traveling once I got on the train, had never even heard of a “border pass,” had no sleeping bag, brought only one padded coat and no down jacket at all, and knew only Potala Palace and Mount Everest among the sights... Looking back now, the only actually useful preparation I made before departure was taking Meizha’s advice and starting rhodiola capsules a week in advance. During the more than ten days I spent in Tibet, I had no altitude sickness whatsoever. I do not know whether the capsules really worked or whether I simply consume too little oxygen in daily life because I am such a homebody. Anyway, I set off in this muddled way...
+
+## On the Road
+
+There were three of us leaving from Beijing for a total of fifteen days: four days on trains going in and out of Tibet, two days resting and acclimating in Lhasa, and nine days traveling through Nyingchi, Shannan, Shigatse, Everest, and Namtso. Per-person cost: a bit over 7,000 RMB.
+
+The rough itinerary was as follows (detailed itinerary in the appendix):
+
+9.6 D0: Depart Beijing West on T27 at 8 p.m., sleep on the train.
+
+9.7 D1: On the train from Beijing to Lhasa, sleep on the train.
+
+9.8 D2: On the train, arrive in Lhasa at 4 p.m., visit Barkhor Street, stay in Lhasa.
+
+9.9 D3: Lhasa, reserve Potala Palace tickets, visit Jokhang Temple, stay in Lhasa.
+
+9.10 D4: Lhasa, visit Potala Palace and the Tibet Museum, stay in Lhasa.
+
+9.11 D5: Depart Lhasa for Nyingchi, pass Songtsen Gampo’s birthplace, the black-necked crane reserve in the mid-Yarlung Tsangpo valley, Mila Pass, and Kading Valley, stay in Bayi.
+
+9.12 D6: View Lulang Forest and Namcha Barwa from afar, eat stone-pot chicken, enter Yarlung Tsangpo Grand Canyon, stay in Zhibai.
+
+9.13 D7: Hike in the canyon, stay in Lang County.
+
+9.14 D8: Lang County - Jiacha - Zetang, stay in Zetang.
+
+9.15 D9: Visit Yamdrok Lake and Manla Reservoir, stay in Shigatse.
+
+9.16 D10: Depart Shigatse for Everest Base Camp, mail postcards, stay at Everest Base Camp.
+
+9.17 D11: Descend from Everest back to Shigatse, pass Tashilhunpo Monastery, buy Tibetan knives, stay in Shigatse.
+
+9.18 D12: Depart Shigatse for Namtso, stay at Namtso.
+
+9.19 D13: Return from Namtso to Lhasa, buy Tibetan medicine, stay in Lhasa.
+
+9.20 D14: Take T28 back to Beijing a little after 1 p.m.
+
+9.21 D15: On the train back to Beijing; encounter a traffic accident in Qinghai in the morning.
+
+9.22 D16: Arrive safely in Beijing by train at 9 a.m., shower and go to work [>.<]
+
+
+### On the Train
+
+We went in soft sleeper and came back in hard sleeper. We booked online twenty days in advance at www.12306.cn.
+
+Forty-three hours, nearly two days and two nights: this was the longest train ride I had ever taken. There seemed to be oxygen supplied on the way, and I felt no discomfort at all. On the way there, I was so excited and full of anticipation that even a small dirt mound along the tracks seemed beautiful. Xiao Nan, the photographer traveling with us, kept shooting nonstop. On the way back, after we had already seen towering mountains and grand rivers, nobody had any desire left to photograph the little puddles along the route. How fickle human beings are! As a food lover, what I especially remember is the old yogurt sold on the Xining platform, with barley and black rice in it. Five yuan a cup, very tasty, though a bit too sweet.
+
+
+### Lhasa (Barkhor Street, Jokhang Temple, Potala Palace, Lhasa Museum)
+
+Barkhor Street counted as our first stop in Lhasa. There are many forks in the road there, and it is very easy to get lost. Fortunately, there is a police station every few hundred meters, so asking for directions is very convenient. The street is full of stalls selling Tibetan ornaments, Tibetan knives, aprons, prayer wheels, and all sorts of little items that claim to come from Nepal. It is lively at night too, but I was not particularly obsessed with any of that, so I did not linger. Personally, I think simply strolling along the street and looking at the Tibetan-style buildings is already interesting enough. The famous Magy Amye restaurant is right there on Barkhor Street. Legend says it was the place where Tsangyang Gyatso met Magy Amye. Baidu says he wrote his famous poem _On That Eastern Mountain Top_ there: “On that lofty eastern mountaintop rises a bright moon; the face of the maiden not yet wed keeps appearing before my eyes.” In Tibetan, “unmarried maiden” is “Magy Amye.”
+
+Jokhang Temple costs 85 yuan. If you walk all the way to the end of Barkhor Street, you reach Jokhang Square. There are many pilgrims prostrating themselves at the entrance. They say the whole city of Lhasa was built around Jokhang Temple. We went in the afternoon, and the sunlight was beautiful. When we climbed to the second floor, sunlight shone on the golden roof — it was stunning. The temple was thick with incense. The first time I felt short of breath in Tibet was inside Jokhang; perhaps the yak-butter lamps were burning too strongly.
+
+Potala Palace costs 200 yuan and requires advance reservation. The reservation office is on the west side of the main entrance, while the actual entrance is on the east side. We went around 8 a.m. the previous day. I heard that after 9:30 there would definitely be no tickets left. We got reservation tickets for 12:30 p.m. the next day. You can ask nearby travel agencies in advance what time you should line up in the morning. Agencies can also reserve tickets for you, but will charge about 150 yuan extra. While lining up, we met several boys traveling on their own. Later we even took them out for sweet tea. A bunch of us chatted about zodiac signs at Canggu Temple, and when one person kept asking, “What sign are you?” a man nearby finally could not take it anymore and said, “I’m made of meat!” Hahaha. From afar, the Potala Palace looked less grand than I had imagined. But once I actually started climbing, it was still exhausting — two steps and I would be panting. In the end I could only inch upward like a snail.
+
+On the west side of the Potala Palace there is a white stupa, and opposite it is the Yaowang Mountain viewing platform. After 8 p.m., you can go up for 2 yuan to see the Potala Palace at night. If you keep walking west along the palace, you will come to a yogurt shop where we had thick yak yogurt and a plate of yak-meat fried-sauce noodles so large it was almost the size of a washbasin. Across the road east of the palace is the Lhasa post office, where you can buy postcards and get tons of commemorative stamps. South of the post office, across the road, there is a Baiyi supermarket where you can buy almost all daily necessities and food, and they accept credit cards.
+
+Lhasa Museum is free and closed on Mondays. In the museum we met a Tibetan young man. When I first saw him, he was explaining the scriptures on display to some Taiwanese visitors ahead of us. I thought he was a museum guide, but after shamelessly asking, I learned that he was actually a Tibet University student visiting on his own. I immediately latched onto him and peppered him with questions the whole way. He was very patient and told us that besides Chinese and English, he had studied twelve forms of Tibetan script. When we saw a Tibetan instrument that looked a bit like a matouqin, he said he could play one at home. He seemed calm, deeply knowledgeable, and quietly impressive.
+
+### Nyingchi (Lulang Forest, Namcha Barwa, Yarlung Tsangpo Grand Canyon, Kading Valley)
+
+Nyingchi is known as Tibet’s “Little Jiangnan.” Its altitude is lower than Lhasa’s, and it is lush and beautiful, so it is often the first stop after entering Tibet. Basum Lake and Lulang Forest are both very famous scenic spots in Nyingchi, which everyone in our group except me knew. Our driver said there was also Kading Valley. Though not as famous as Basum, it was very beautiful and cheap — the ticket was only 20 yuan. Considering that we would still visit Yamdrok Lake and Namtso later, we decided to skip Basum and head straight for Kading Valley. Looking back, that was a wise decision (at least for someone like me who does not particularly care for water). There were of course Buddhist carvings inside Kading Valley too, but I have only a shallow affinity with such things. What I really loved was the big waterfall there. The drop was said to be several hundred meters, and the walkway was built very close, extending all the way to the foot of the waterfall. You could actually walk through the water. It was exhilarating.
+
+Baidu says, “Lulang Forest is a woodland hidden among clouds and mist, famed as ‘a place that makes you not miss home.’ The whole site is like a poem or painting, ringed by snowy mountains. The valley is full of dense woods, and among them are neat meadows that look almost artificially trimmed. Many homes are built in this heavenly forest of mountains and waters, with winding streams all around and countless wildflowers in bloom. It is simply paradise on earth.” We did not go to the official viewing platform. Instead, our driver stopped at several good vantage points for the photographers in the group to take pictures. The mountainside forests were indeed magnificent, though we did not see any flowers.
+What amazed me most was still Namcha Barwa. The team leader and his wife said it is the most beautiful mountain in the world. At 7,782 meters, it is an unclimbed virgin peak. It is also called the “Shy Maiden Peak” because its summit is veiled by clouds year-round and rarely reveals itself. But it was very generous with us and accompanied us with a clear view all day long. Xiao Nan pressed the shutter from morning till night.
+
+The Yarlung Tsangpo Grand Canyon costs 290 yuan, including admission, shuttle bus, and one meal. The scenic area is huge. Even after passing the ticket gate, you still have to drive for a long time. Tourist vehicles are allowed in only after 6 p.m. Then we drove in fits and starts, and by the time we reached the sunset viewpoint it was about 8 p.m., just in time to see the golden glow of the setting sun on the mountain. That night we stayed at Baqing Farm below Zhibai Village. Sitting in the courtyard, directly facing Namcha Barwa, we could look up into a vast sky. Even I, a severely nearsighted person without glasses, could distinguish the Milky Way and the stars of the Cowherd and Weaver Girl. The next morning, everyone got up after 7 to wait for sunrise. The sun dawdled and refused to appear, until after 8, when it suddenly leapt out from behind the triangular point of Namcha Barwa’s main peak, blazing so brightly that it was impossible to look at directly. In the morning, we did a short hike inside the canyon and saw a bend in the Yarlung Tsangpo. There were many walnut and peach trees on the mountain. We cracked walnuts under the trees to eat, and Xiao Nan even knocked down a lot of wild peaches with stones. They were small and wrinkled-looking, but sweet and tart and quite flavorful.
+Also, the little watermelons in Nyingchi were delicious — crisp and sweet, and sold by the roadside near Bayi.
+
+### Yamdrok Lake and Manla Reservoir
+
+It seemed that each of us had our own private obsession: Xiao Nan with Namcha Barwa, me with Everest, the team leader with the Yarlung Tsangpo, and HM with Yamdrok Lake. I heard that _Painted Skin 2_ was filmed there, and after watching it, HM never stopped thinking about the breathtaking scenery. Yamdrok is one of the three holy lakes in the hearts of Tibetans (the other two are Namtso and Mapam Yumtso). “Yamdrok Yumtso literally means ‘the jade lake on the upper pasture.’ In Tibetan hearts it is seen as ‘the turquoise earring dropped by a goddess,’ because from no single angle can you see its entire form. Only on a map or from the air do you discover with surprise that it looks like an earring embedded on the mountain’s ear. Under the sun at different times of day, it displays layer upon layer of blue, like a dream.” Our driver took us to see the lake from different angles all along the road. At the first mountaintop viewpoint, hail suddenly started falling, and we froze to death. Later, once we drove deeper into the scenic area, the sky cleared and the sun shone onto the water, reflecting rich colors. Sadly, with my poor eyesight and no glasses, I could not really see them...
+
+Every time MJ sees beautiful and silent scenery, he repeats Marguerite’s phrase: “Great scenery speaks in silence.” Tibet also has many understated wonders. Manla Reservoir, not far from Yamdrok, is one of them. The water there is calm and tranquil, green in a pure and gentle way, like a pool of turquoise — delicate, refined, and utterly uninterested in competing with the world.
+
+### Mount Everest
+
+At first, we had not planned to go to Everest at all. We worried our bodies would not handle the altitude of over five thousand meters. And in Lhasa, people kept telling us that conditions at Everest were harsh, the road was terrible, lodging was poor, and as for the scenery, “it’s not even that scenic — nowhere near as nice as Nyingchi.” But going to Everest was a small wish of mine. I was not afraid of the difficult journey or the hard conditions (although when someone told me there were fleas in the Everest tents, I did feel a jolt of alarm). I was not hoping to see some world-shaking magnificent wonder. I simply wanted to go there. Even if Everest were hidden by clouds and I saw nothing at all, I would still be satisfied. Whether I go or not is my business; whether he lets me see him or not is his business. Even so, as a weak, dependent, clingy third wheel with no independent survival ability, I did not have the courage to fly solo. So when everyone discussed the route before departure and put Everest only on the backup list, I did not complain. I thought perhaps I did not have enough fate with it this year, and could always come back next year. But who knew that the day before we left Lhasa, we received news that the Tongmai road had collapsed, suddenly giving us two extra days. The team leader, the driver, and the other three discussed it in Bayi and decided to use those two days to go to Everest. On top of that, the driver was especially familiar with Everest — “going to Everest is like going home” — so I was overjoyed.
+
+Because the road to Everest is so bad, the car cannot go very fast. Our driver said that people usually leave Shigatse for Everest around 7 a.m. to catch the golden sunset at base camp. But I did not have a border pass. By the time our driver helped us urgently get one in Shigatse and rent down jackets, it was almost 11 a.m. before we set out. We rushed past Dingri and climbed from the front side of the mountain, winding up hairpin roads and rattling over washboard tracks. The driver was afraid we would miss the sunset glow, so he sped up on one section and ended up destroying one shock absorber. The whole way there were almost no trees. As far as the eye could see, there were twisting mountain roads of yellow dirt and washboard ridges, dust flying up behind the car, the sky hanging very low, clouds seeming close enough to touch, and now and then a few eagles circling overhead. The driver said, “Look at that eagle gliding so low. If it were a crow, it would be flapping nonstop.” Compared with Nyingchi’s softness, I loved in my bones the bare emptiness on the road to Everest. It felt more rugged, more worthy of Tibet.
+
+Everest was kind to us that day too. Around four or five in the afternoon, it emerged with all its mountain brothers. The driver said Everest is a sacred mountain that can “wash the soul clean” and that you can “make wishes here without having to repay them.” So I hung prayer flags and stacked mani stones, though I did not actually make a wish — being able to see Everest already counted as a dream come true.
+The ticket to Everest cost 180 yuan, and a car’s entrance fee was 400. There is one checkpoint at the scenic area entrance and another closer to base camp. We arrived too late, and the ticket inspectors at the second checkpoint had already gone off duty... We reached base camp after 8 p.m., just in time for the golden sunset, and the clouds politely moved aside. Later I posted photos on my Moments, and AJL hit the nail on the head: “Your equipment is way too crappy. Is that tiny little triangle really Everest?!”
+
+At Everest Base Camp, I slept in a Tibetan tent for the first time. There is only lighting electricity there, so at night the tent is completely dark, but it was much warmer than I had expected. When we went in, yak dung was burning for heat (which is how I learned that dried yak dung has no smell at all), and there were no fleas! The owner and his wife were Tibetan and had just had a baby, less than half a year old, unbelievably cute. The moment we sat down, they brought out butter tea. Some people in our group could not get used to it, but I thought it tasted great. The landlady also served each of us a bowl of egg noodles. There were quilts and yak blankets inside the tent. At night I slept wrapped in my sleeping bag plus two quilts and two yak blankets. Heavy, yes, but not cold at all. When I woke in the middle of the night, the darkness around me felt so pure it was dreamlike. I could hardly believe I was really that close to Everest.
+
+There is a post office at base camp, but its opening hours seem rather free-spirited. We arrived after 8 p.m., and it was already closed. The next morning we waited until after 9, and it still had not opened, so we had no choice but to ask the tent owner’s wife to mail our postcards for us. So for anyone planning to mail postcards from Everest, I suggest bringing your postcards and stamps in advance, so you do not end up hurrying on the road and missing the chance while waiting for the post office to open.
+
+
+### Namtso
+
+Namtso costs 120 yuan. I am not particularly fond of lakes to begin with, and after having seen Namcha Barwa, Yamdrok, and Everest, plus the thought that the vacation was about to end, I was already starting to feel melancholy. By the time we got to Namtso, I could hardly summon much excitement. Baidu says, “Namtso means ‘Heavenly Lake’ in Tibetan. To the south lies the permanently snow-covered Nyenchen Tanglha range. To the north and west are plateau hills. The vast lakeshore is surrounded by grasslands rich in water and pasture. The lake water is clear, reflecting the snowy mountains around it, with beautiful scenery.” What I remember now is only that the scenic area was quite large and that we drove for a while inside it. Unlike Yamdrok, the lake is not irregular but roughly round. I only sat by the shore for a while at dusk, watching the sun slowly sink. Looking straight across, the lake merged into the sky in the distance, with no visible edge. The water slapped against the shore, making it feel vaguely like the sea rather than a lake. Many tourists were taking photos by the water. Namtso was very cold, and I sat wrapped in a down jacket watching them strike all kinds of poses. It seemed that when the sun was just about to disappear, it was the perfect time for silhouette shots. Soon the sun was gone, and I got up to leave. Lodging at Namtso consists of prefabricated cabins. After I returned to Beijing, a tall-rich-handsome colleague told me they took one look at Namtso and immediately left because they thought the cabins would not survive the night. I had also assumed it would be freezing, but with an electric blanket, sleeping in my clothes, plus quilts and my down jacket, I did not feel cold at all.
+
+## Other Notes
+
+### Transportation
+
+There are buses directly from Lhasa railway station to the city. A taxi from the station to downtown is about 30 yuan, but the taxis outside the station charge per person. Taxis within Lhasa city are basically 10 yuan. Lhasa is not big. If you are not in a hurry and your body can handle it, you can just stroll around and enjoy the sunshine of the “city of sunlight.”
+
+Outside Lhasa, chartering a car cost about 4 yuan per kilometer when we went (Toyota 4500). I heard that counted as off-season, partly because Xi Jinping’s anti-corruption and mass-line campaigns had made public-spending travelers disappear. Next year, the Year of the Horse, there will be one hundred thousand pilgrims circling the holy mountain, and the following Year of the Sheep will be a big year for circling the lakes, so both will be peak travel seasons. Prices will probably rise to 7 or 8 yuan.
+
+### Food
+
+Because Tibetan food intimidated us a little, aside from drinking butter tea and sweet tea at Canggu Temple, eating Tibetan noodles and Tibetan steamed buns, and trying stone-pot chicken in Lulang, we basically ate Sichuan food the rest of the time... There is a lot of Sichuan food in Tibet. Along the streets of tourist areas and in every corner of Lhasa and Shigatse, it is everywhere. If you really cannot think of what to eat, I suggest wandering along Deji Road in Lhasa, or Everest Road in Shigatse.
+
+### Accommodation
+
+As a tourist city, hotel prices in Lhasa fluctuate a lot with the season. First, to save money, and second, to gather more travel information, our first choice was still hostels. There are many in Lhasa, the most famous probably being Pingtso and Dongcuo. Hostels generally do not accept advance reservations; you can only call the same day to ask if there is space. For our first few days in Lhasa, we stayed at the Chen’ai Luoding hostel near Jokhang Temple. It was less famous than Pingtso or Dongcuo, slightly cheaper, and conditions were decent, with a private bathroom and breakfast included (though we did not manage to eat breakfast even once...). We also met some interesting people there: a northwestern guy who had cycled into Tibet and gotten a two-tone sunburned face, a post-90s girl who had been hitchhiking around for over a month, a Guangdong boy cutting class, a real-estate guy who had quit his job... Their energy, spontaneity, and ease always made me feel that I was truly getting old. The age of throwing yourself into things recklessly and defenselessly seemed to have passed me by before I had even lived it. That is why I do not actually like hostels. Even though this issue would exist whether or not I met such people, shutting myself in my cocoon still makes me feel a little better... All right, off topic.
+
+Outside Lhasa, most of our accommodations were arranged by the driver (except for Baqing Farm in Zhibai inside the canyon, which the team leader had booked in advance). The conditions were much better than anything we would have found ourselves, and the prices were somehow about the same as hostels in Lhasa. I can barely remember the names of the hotels we stayed in around Bayi, Shannan, and Shigatse... But I remember the Everest and Namtso accommodations very clearly. At Everest Base Camp, I slept in a Tibetan tent for the first time. There is only lighting electricity, so it gets pitch-black at night, but it was much warmer than I had imagined. Dried yak dung was burning when we went in (which was how I learned that dried yak dung truly does not smell), and with a sleeping bag, two quilts, and two yak blankets, I was a little weighed down but not cold at all. Waking in the middle of the night, I felt that pure darkness all around me and could hardly believe I was really at Everest Base Camp. At Namtso, it was my first time staying in a prefab cabin. There was an electric blanket, and I slept in my clothes with quilts and a down jacket and was not cold either.
+
+On the last night before leaving, we stayed at Fulante, also arranged by the driver. It was right beside the Potala Palace, conveniently located, and very good value.
+
+### Tickets
+
+Overall, Tibet’s scenic spot tickets feel rather expensive. I heard that only student IDs and senior IDs are useful, while military IDs are not. Local IDs may be exceptions.
+
+Sometimes the driver also had ways of helping buy cheaper tickets, or skip them, or take you to places where there is no ticket but you can still see the scenery.
+
+### Border Pass
+
+“You do not need a border pass to enter Tibet and go to Lhasa, but if you want to go to border areas or controlled areas such as Zhangmu, Everest, or Medog, you need to apply for one in advance at your registered hometown, usually through the police station or the exit-entry bureau.” For specific instructions, see http://www.douban.com/group/topic/20047263/ .
+I did not get one in inland China, because of course I only learned that such a thing as a “border pass” existed after arriving in Lhasa. Fortunately, many travel agencies in Lhasa and Shigatse can also arrange one. You need your original ID card, and the cost is around 80–100 yuan. You can get it the next day or sometimes even the same day.
+
+### Carpooling
+
+After wandering around Lhasa for two days and basically acclimating, we wanted to go beyond the city. Lhasa has many travel agencies, and some even set up counters inside hostels. We first looked at their multi-day routes and prices. Roughly speaking, there were tours including tickets, lodging, food, and shopping stops; pure sightseeing tours without shopping stops but still including tickets, lodging, and food; and bare-bones tours including only transportation and road costs, with no tickets, lodging, food, or shopping. Group tours are usually somewhat cheaper, but the routes and timing are fixed, so you do not have much freedom. And they were either too long or too short for us, so in the end we decided to find people to share a car with.
+
+The notice boards in youth hostels are filled every day with people recruiting others to share cars. We stared at the board at Chen’ai Luoding for a long time and found that anything interesting was either full or already expired, so we switched to Pingtso to try our luck. We had barely stood in front of the Pingtso board for a few moments when a man came out and posted a carpool notice. The route covered Nyingchi, Shannan, Yamdrok, and more. HM looked at the note and jumped up in delight: “This is exactly the route I want!” And that was how we met the team leader and his wife. He contacted the car and the driver, and that was how our days of clinging to other people’s capable thighs began.
+
+### The Driver
+
+The driver’s surname was Feng, given name Baogang — “Feng” as in Feng Xiaogang and “Baogang” as in Zhao Baogang. He even looked a bit like Jiang Wen. It was as if the world of film directors had secretly planted an undercover agent in Tibet. He startled me the first time we met, because he looked over our route and said, “I’ve never driven from here to here! And this part is impossible now, the road collapsed.” Then I had barely started trying to chat warmly with him when he kept shutting me down, and I felt that frustrating sense of being on totally different frequencies... But after a few days together, I can say responsibly that Master Feng is a good man: excellent driving skills, very familiar with the terrain, flexible and clever, and because he loves chili peppers, his eyesight is especially sharp too. He was not old, but had rich life experience: gymnastics, the army, dancing. He was frank and full of personality, and spoke in a very funny way, loving ABB-style reduplications like “outermost-outermost,” “little-card-card,” “tiny-bit-bit,” and “sugar-bean-bean” — hahaha. He was also thoughtful, carrying his own power bank to charge everyone’s devices (for places like Everest with only lighting power, a power bank is a lifesaver), reminding us at Namtso to hurry and get hot water, and even teaching us on the road how to photograph gesang flowers. What was most admirable was that he never bluffed. If he had been somewhere, he said so; if he had not, he said he had not. And he was not greedy for small profits. On the last day he took us to some food factory and warned us beforehand: “Just look around and come back out. Don’t buy anything. I’m only making the per-head referral fee.” Since time was tight and I thought I might not get another chance to buy things elsewhere, I bought a little yak meat anyway. When he saw it, he said, “Didn’t I tell you not to buy anything?” Later, after collecting his referral fee, he actually returned the kickback from my purchase to me and said, “I’ll take what I’ve rightly earned, but I don’t want what I haven’t.” In short, he is a trustworthy driver I would absolutely recommend. Just remember not to make him drink. Master Feng’s phone number: 13549000673. QQ: 37021285.
+
+
+## Appendix
+
+### Tibet Packing
+
+This was the HM couple’s packing list before departure, for reference:
+
+Documents: ID card + border pass
+
+Clothes: outdoor jacket (preferably one thick and one thin), long-sleeve T-shirts, quick-dry pants, fleece, jeans, sun hat, sneakers, swimsuit (in case of hot springs), down jacket, sunglasses.
+
+Food: instant noodles, bread, sausages, pickled mustard, fruit, all kinds of snacks, bottled water for the train. Candy + chocolate or stationery for children in Tibetan areas (or of course you can buy them at a Lhasa supermarket).
+
+Medicine: cold medicine, anti-inflammatory medicine (Smecta?), anti-diarrheal medicine, band-aids, cooling oil or medicated oil, rhodiola or altitude medicine (essential for preventing altitude sickness; supposedly you should start soaking and drinking rhodiola ten days before entering Tibet), Tylenol (to control headaches caused by altitude sickness), antipyretic analgesics (for altitude headaches), vitamin C, vitamin B2, thermometer.
+
+Electronics: phone, camera, charger, power bank, flashlight, e-reader.
+
+Daily supplies: sunscreen, lip balm, Swiss Army knife, water cup, umbrella, toiletries (toothpaste, toothbrush, facial cleanser, towel, shower gel, shampoo, comb, mirror, razor), skin cream, thermos, garbage bags, toilet paper.
+
+Cash: 2,500–3,000 yuan per week. Most restaurants and inns in Tibet do not support card payment (or maybe just because we did not go to fancy enough places?), though Baiyi supermarket in Lhasa does. Agricultural Bank, Bank of China, and Postal Savings are all common in Tibet, but out-of-town withdrawal fees are truly high, so bring a bit more cash depending on your own judgment.
+
+
+### Detailed Itinerary
+
+to be added
+
+
+### Related Travel Notes
+
+Mafengwo’s [Tibet road guide](http://www.mafengwo.cn/mdd/smap.php?mddid=10025)
+
+[72 Thrilling Hours in the Uninhabited Ali Region of Tibet](http://blog.sina.com.cn/s/blog_4855466e0101dwm9.html). Mei-jiejie, whom I met in Bellevue, recommended this to me when she heard I was going to Tibet. Although Ali was not part of our itinerary, the post gave me a solid psychological foundation and prepared me mentally for some of the issues we encountered along the way. Highly recommended.
+
+## Postscript
+
+### About My Everest Obsession
+
+Among the people traveling with me, I seemed to be the only one who had an “Everest obsession” (also the only one who did not know before leaving that Everest required a border pass -_-!). Everyone asked where that obsession came from. Well... obsessions are sometimes deep-rooted things buried for years for some people, while for others they may be just a flash of inspiration from a single moment. I clearly belong to the latter group, and if I explain it honestly, it inevitably sounds a bit too sentimental.
+
+When I agreed in August to the HM couple’s Tibet trip, I was completely bewitched by warm Uncle AC. One day about a week before I left, we were talking about dreams, and I asked him, “Do you still have any dreams?” He teased me: “Like a stripper club?” At that time I was talking every day about going to a stripper club and going skydiving. I finally fulfilled the first wish one weekend before leaving, and of course I was greatly disappointed. I said seriously, “A stripper club is not my dream. My dream is to be a mother and then share my experiences with my children. That’s why I want to try as many new things as possible before then, which is why I was curious about a stripper club. But yes, the result was disappointing.” He laughed and said, “I want to go to Mountain Everest.” I of course had no idea what that was... Seeing my blank look, he said, “Come on, you definitely know it. It’s the highest mountain, over eight thousand eight hundred meters, on the border between Tibet in China and Nepal.” Only then did I realize that the English name of Zhūmùlǎngmǎ was not actually “zhumulangma”... Then I got very excited and said, “Ah! I’m going to Tibet in September — I’ll go see Mountain Everest for you!” And that was how my Everest obsession came into being, although to this day I still do not know why he wanted to go to Everest in the first place...
+
+
+### About Writing This Travel Note
+
+I am not a seasoned travel expert. As a weak, irresponsible third wheel clinging to others, I had been waiting for the team leader and the other reliable teammates to write their travel notes so I could simply give them a huge like and share them. Then one day GR told me the famous story of a community murder in New York, and only then did I decide to start writing. “In a very civilized upscale neighborhood, twenty-eight households witnessed, at the same time, a murderer stabbing a girl to death. The whole thing lasted more than thirty minutes. Throughout it, the girl kept crying for help, and not one person called the police, because everyone thought someone else would.” “Don’t let me die,” she added at the end. And that is why this rambly travel log exists. If all this long-windedness of mine happens to bring you even a tiny bit of help for your own trip, then GR’s earnest persuasion will not have been wasted.
+
+</div>

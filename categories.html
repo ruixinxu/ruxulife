@@ -1,35 +1,39 @@
 ---
 layout: pageminimal
-title: Category Index
+title: 分类
+title_en: Categories
 permalink: /categories/index.html
-title: Category Index
-tags: [Categories]
-description: "An archive of posts sorted by categories."
-
+description: "按分类整理的文章归档。"
+description_en: "Archive of posts grouped by category."
 ---
 
-<ul class="tag-box inline">
-{% assign tags_list = site.categories %}  
+<div class="archive-intro">
+  <h1><span class="lang-zh">分类</span><span class="lang-en">Categories</span></h1>
+  <p><span class="lang-zh">按分类整理的文章归档。</span><span class="lang-en">Browse posts by category.</span></p>
+</div>
+
+<ul class="tag-box">
+{% assign tags_list = site.categories %}
   {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+    {% for tag in tags_list %}
+      <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>({{ site.tags[tag].size }})</span></a></li>
     {% endfor %}
   {% else %}
-    {% for tag in tags_list %} 
-      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
+    {% for tag in tags_list %}
+      <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>({{ tag[1].size }})</span></a></li>
     {% endfor %}
   {% endif %}
 {% assign tags_list = nil %}
 </ul>
 
-{% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}" style="color: #c91b26">{{ tag[0] | capitalize }}</h2>
+{% for tag in site.categories %}
+  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
   <ul class="post-list">
-    {% assign pages_list = tag[1] %}  
+    {% assign pages_list = tag[1] %}
     {% for post in pages_list %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+      <li><a href="{{ site.url }}{{ post.url }}"><span class="lang-zh">{{ post.title_zh | default: post.title }}</span><span class="lang-en">{{ post.title_en | default: post.title }}</span></a> <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span></li>
       {% endif %}
       {% endif %}
     {% endfor %}

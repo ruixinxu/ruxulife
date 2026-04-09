@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "阿狸说"
+title_en: "Ali Says"
 date:   2008-02-29 16:35:50
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 阿狸说
 
@@ -45,3 +48,46 @@ by: MuMu
 所以 我还是只能像以前一样活着
 
 尽管 我活在了蛋壳里
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Ali says
+
+One day, I really met an angel.
+
+So I made a wish.
+
+I wanted an eggshell,
+
+one where I could do my own things,
+
+and live on my own time.
+
+I admit that I am not brave enough,
+
+so I can only grow up inside an eggshell.
+
+
+
+
+Later, the angel really did give me an eggshell.
+
+But it was freaking huge. It wrapped the entire earth inside it.
+
+....
+
+...
+
+..
+
+.
+
+So I can still only live the way I used to.
+
+Even though I am living inside the eggshell.
+
+</div>

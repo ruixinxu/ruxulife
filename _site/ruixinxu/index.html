@@ -1,358 +1,188 @@
 <!DOCTYPE html>
-<html>
-<!--
-====================================================
-    __  ____  ______________  _______ ___    __ 
-   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
- / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
-/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
-                                                     
-====================================================
-Owner Name: Hossain Mohammad Faysal
-Profile: https://www.facebook.com/hmfaysal
-Version: 1.1
-Description: Awesome dude, awesome life
-====================================================
--->
+<html data-lang="zh">
 <head>
 <meta charset="utf-8">
-<title>Ruixin Xu &#8211; ruxubooks</title>
-<meta name="description" content="问渠那得清如许 唯有源头活水来">
-
-
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>关于我 &#8211; 如许阅读</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="爱书人，生活记录者。">
 
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Ruixin Xu">
-<meta property="og:description" content="问渠那得清如许 唯有源头活水来">
-<meta property="og:url" content="http://ruxubooks.com/ruixinxu/">
-<meta property="og:site_name" content="ruxubooks">
-<meta property="og:image" content="http://ruxubooks.com/images/img2.jpg">
+<meta property="og:title" content="关于我">
+<meta property="og:description" content="爱书人，生活记录者。">
+<meta property="og:url" content="http://127.0.0.1:4000/ruixinxu/">
+<meta property="og:site_name" content="如许阅读">
 
 
 
 
+<link rel="canonical" href="http://127.0.0.1:4000/ruixinxu/">
+<link href="http://127.0.0.1:4000/feed.xml" type="application/atom+xml" rel="alternate" title="如许阅读 Feed">
 
-<link rel="canonical" href="http://ruxubooks.com/ruixinxu/">
-<link href="http://ruxubooks.com/feed.xml" type="application/atom+xml" rel="alternate" title="ruxubooks Feed">
-
-
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    
-    <link rel="stylesheet" type="text/css" href="http://ruxubooks.com/assets/css/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" href="http://ruxubooks.com/assets/css/style.css" />
-
-<div class="search-wrapper">
-    <div class="search-form">
-        <input type="text" class="search-field" placeholder="Search...">
-        <i class="icon-remove-sign"></i>
-        <ul class="search-results post-list"></ul><!-- /.search-results -->
-    </div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->
-
+<!-- CSS -->
+<link rel="stylesheet" href="http://127.0.0.1:4000/css/main.css">
 
 
 
 <!-- Icons -->
-<!-- 16x16 -->
-<link rel="shortcut icon" href="http://ruxubooks.com/favicon.ico">
-<!-- 32x32 -->
-<link rel="shortcut icon" href="http://ruxubooks.com/favicon.png">
-<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://ruxubooks.com/images/apple-touch-icon-precomposed.png">
-<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://ruxubooks.com/images/apple-touch-icon-72x72-precomposed.png">
-<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://ruxubooks.com/images/apple-touch-icon-114x114-precomposed.png">
-<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://ruxubooks.com/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="shortcut icon" href="http://127.0.0.1:4000/favicon.ico">
+<link rel="shortcut icon" href="http://127.0.0.1:4000/favicon.png">
 
 </head>
-<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
-<div id="fade"></div>
-<a id="slide" class="animated fade"></a>
-<aside id="sidebar">
-    <nav id="navigation">
-    <h2>MENU</h2>
-    <hr>
-
-            <li>
-                    <a href="/">Home</a>
-                 </li>
-
-            <li>
-                    <a href="http://ruxubooks.com/categories">Categories</a>
-                 </li>
-
-            <li>
-                    <a href="http://ruxubooks.com/tags">Tags</a>
-                 </li>
-
-            <li>
-                    <a href="http://ruxubooks.com/ruixinxu">Ruixin who?</a>
-                 </li>
-            
-           <li><a href="http://ruxubooks.com/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-    </nav>
-    
-    
-</aside>
-
-<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url(http://ruxubooks.com/images/img2.jpg)" itemscope itemtype="http://schema.org/Organization">
-
-
-    <button class="menu-button animated fade dosearch">
-        <i class="icon-search"></i>
-    </button>
-
-
-    <div class="inner">
-        <div class="container">
-            <a class="brand" href="http://ruxubooks.com" role="banner" itemprop="url">
-
-                <img itemprop="logo" src="http://ruxubooks.com/images/book.png" alt="ruxubooks Logo" />
-
-            <h1 class="blog-title light" itemprop="name">
-                ruxubooks
-            </h1>
-                
-            </a>
-        </div>
-    </div>
-    
-    
-    <div class="decor-wrapper">
-        <svg id="header-decor" class="decor bottom" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-            <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba(255,255,255, .1)"></path>
-            <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba(255,255,255, .1)"></path>
-
-            <path class="medium left" d="M0 100 L50 50 L0 33.3" fill="rgba(255,255,255, .3)"></path>
-            <path class="medium right" d="M100 100 L50 50 L100 33.3" fill="rgba(255,255,255, .3)"></path>
-
-            <path class="small left" d="M0 100 L50 50 L0 66.6" fill="rgba(255,255,255, .5)"></path>
-            <path class="small right" d="M100 100 L50 50 L100 66.6" fill="rgba(255,255,255, .5)"></path>
-
-            <path d="M0 99.9 L50 49.9 L100 99.9 L0 99.9" fill="rgba(255,255,255, 1)"></path>
-
-            <path d="M48 52 L50 49 L52 52 L48 52" fill="rgba(255,255,255, 1)"></path>
-
+<body data-page-title-zh="关于我" data-page-title-en="About Me" data-page-description-zh="爱书人，生活记录者。" data-page-description-en="A book lover and a recorder of everyday life.">
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="http://127.0.0.1:4000/">
+      <span class="lang-zh">如许阅读</span>
+      <span class="lang-en">Ruxu Reading</span>
+    </a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
-    </div>
-    
+      </a>
+      <div class="trigger">
+        <a class="page-link" href="http://127.0.0.1:4000/categories">
+          <span class="lang-zh">分类</span>
+          <span class="lang-en">Categories</span>
+        </a>
+        <a class="page-link" href="http://127.0.0.1:4000/tags">
+          <span class="lang-zh">标签</span>
+          <span class="lang-en">Tags</span>
+        </a>
+        <a class="page-link" href="http://127.0.0.1:4000/ruixinxu">
+          <span class="lang-zh">关于我</span>
+          <span class="lang-en">About Me</span>
+        </a>
+      </div>
+      <div class="language-switch" aria-label="Language switch">
+        <button type="button" class="lang-switch is-active" data-set-lang="zh">中</button>
+        <button type="button" class="lang-switch" data-set-lang="en">EN</button>
+      </div>
+    </nav>
+  </div>
 </header>
-<div id="main" class="content" role="main" itemprop="mainContentOfPage">
-    <div class="container">
 
-        <div class="row">
-            <article class="page col-md-8 col-md-offset-2">
 
-		            
-		            
-		            
-                    <header class="post-header">
-                        
-                        <h1 class="post-title text-center hyper lighter bordered-bottom">Ruixin Xu</h1>
-                        
-                        <div class="post-info text-center small">
-                            
-                            &nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
-                        </div>
-                    </header>
-                    <div class="page-body" itemprop="description">
-                        <figure>
-  <img src="http://ruxubooks.com/images/bobreading.jpg" alt="Ruixin Xu" itemprop="image" class="post-avatar img-circle img-responsive" />
+<div class="page-content">
+  <div class="wrap">
+    <article class="post">
+      <header class="post-header">
+        <h1>关于我</h1>
+      </header>
+      <div class="post-content">
+        <figure>
+  <img src="http://127.0.0.1:4000/images/bobreading.jpg" alt="关于我" itemprop="image" class="post-avatar img-circle img-responsive" />
   <!--<figcaption>Ruixin Xu</figcaption>-->
 </figure>
 
-<p>Booklover</p>
+<div class="lang-zh"><p>爱书人，生活记录者。</p></div>
 
-<p>ruixin.xu@Gmail.com</p>
+<div class="lang-en"><p class="ai-generated-note">AI-generated translation.</p><p>A book lover and a recorder of everyday life.</p></div>
 
-                    </div>
-                    </footer>
-            </article>
-        </div>
-    </div>
+<p>ruxubooks@Gmail.com</p>
+
+      </div>
+    </article>
+  </div>
 </div>
-    
-<footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url(http://ruxubooks.com/images/img2.jpg)" >
 
-
-    <div class="inner">
-        <div class="container">
-
-            <ul class="social-icons">
-            
-            <li>
-                <a href="http://facebook.com/ruixin.xu2" data-toggle="tooltip" title="ruixinxu on Facebook" target="_blank">
-                    <i class="icon-facebook"></i>
-                </a>
-            </li>
-            
-            
-            <li>
-                <a href="https://www.linkedin.com/in/ruixinxu" data-toggle="tooltip" title="ruixinxu on LinkedIn" target="_blank">
-                    <i class="icon-linkedin"></i>
-                </a>
-            </li>
-            
-            
-            <li>
-                <a href="http://github.com/ruixinxu" data-toggle="tooltip" title="ruixinxu on Github" target="_blank">
-                    <i class="icon-github"></i>
-                </a>
-            </li>
-        </ul>
-            <div>
-                <a href="http://ruxubooks.com/ruixinxu/">ruixinxu</a> &copy; 2015 &bull; All rights reserved.
-            </div>
-            <ul class="menu-items">
-            
-            <li>
-                
-                    <a href="/"><i class="icon-home"></i></a>&nbsp;&bull;
-                 
-            </li>
-            
-            <li>
-                
-                    <a href="http://ruxubooks.com/categories">Categories</a>&nbsp;&bull;
-                 
-            </li>
-            
-            <li>
-                
-                    <a href="http://ruxubooks.com/tags">Tags</a>&nbsp;&bull;
-                 
-            </li>
-            
-            <li>
-                
-                    <a href="http://ruxubooks.com/ruixinxu">Ruixin who?</a>&nbsp;&bull;
-                 
-            </li>
-            
-            <!--<li><a href="http://ruxubooks.com/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>-->
-        </ul>
-        </div>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-col-1 column">
+      <ul>
+        <li>
+          <span class="lang-zh">如许阅读</span>
+          <span class="lang-en">Ruxu Reading</span>
+        </li>
+        <li><a href="mailto:ruxubooks@gmail.com">ruxubooks@gmail.com</a></li>
+      </ul>
     </div>
-    
-        <div class="decor-wrapper">
-            <svg id="footer-decor" class="decor top" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-
-                <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba(255,255,255, .1)"></path>
-                <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba(255,255,255, .1)"></path>
-
-                <path class="medium left" d="M0 0 L50 50 L0 66.6" fill="rgba(255,255,255, .3)"></path>
-                <path class="medium right" d="M100 0 L50 50 L100 66.6" fill="rgba(255,255,255, .3)"></path>
-
-                <path class="small left" d="M0 0 L50 50 L0 33.3" fill="rgba(255,255,255, .5)"></path>
-                <path class="small right" d="M100 0 L50 50 L100 33.3" fill="rgba(255,255,255, .5)"></path>
-
-                <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
-
-                <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
-
-            </svg>
-        </div>
-    
+    <div class="footer-col-2 column">
+      <ul>
+        <li><a href="https://github.com/ruixinxu">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/ruixinxu">LinkedIn</a></li>
+        <li><a href="https://facebook.com/ruixin.xu2">Facebook</a></li>
+      </ul>
+    </div>
+    <div class="footer-col-3 column">
+      <p class="text">
+        <span class="lang-zh">这里记录阅读、生活与旅行。</span>
+        <span class="lang-en">A small home for reading notes, life records, and travel stories.</span>
+      </p>
+    </div>
+  </div>
 </footer>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://ruxubooks.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://ruxubooks.com/assets/js/scripts.min.js"></script>
-<script type="text/javascript" src="http://ruxubooks.com/assets/js/waypoints.min.js"></script>
-<script type="text/javascript" src="http://ruxubooks.com/assets/js/script.js"></script>
-<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
-<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
-<script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
 
-<script type="text/javascript">
-
-/*      Slides       */
-
-$("a#slide").click(function(){
-    $("#sidebar,body,a#slide,#fade").addClass("slide")
-});
-
-$("#fade,#header,#posts-container").click(function(){
-    $("#sidebar,body,a#slide,#fade").removeClass("slide")
-});
-
-$("a#click-filter").click(function(){
-    $("#slide-filter").slideToggle("medium");
-    $("#slide-pages").slideOut("medium");
-});
-
-$("a#click-pages").click(function(){
-    $("#slide-pages").slideToggle("medium");
-    $("#slide-filter").slideOut("medium");
-});
-
-/*      End-Slides      */
-
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-39365944-7', 'auto');
+  ga('send', 'pageview');
 </script>
 
-
-<!-- Jekyll Simple Search option -->
 <script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : 'http://ruxubooks.com/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
+  (function () {
+    var root = document.documentElement;
+    var body = document.body;
+    var storageKey = 'ruxu-site-language';
+    var defaultLang = 'zh';
+    var siteTitle = {
+      zh: '如许阅读',
+      en: 'Ruxu Reading'
+    };
 
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".icon-remove-sign"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
+    function updateMeta(selector, value) {
+      var node = document.querySelector(selector);
+      if (node && value) {
+        node.setAttribute('content', value);
+      }
+    }
+
+    function setLang(lang) {
+      var pageTitle = lang === 'en' ? (body.dataset.pageTitleEn || body.dataset.pageTitleZh || '') : (body.dataset.pageTitleZh || '');
+      var pageDescription = lang === 'en' ? (body.dataset.pageDescriptionEn || body.dataset.pageDescriptionZh || '') : (body.dataset.pageDescriptionZh || '');
+
+      root.setAttribute('data-lang', lang);
+      localStorage.setItem(storageKey, lang);
+
+      document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+        var active = button.getAttribute('data-set-lang') === lang;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+
+      if (pageTitle) {
+        document.title = pageTitle + ' – ' + siteTitle[lang];
+      } else {
+        document.title = siteTitle[lang];
+      }
+
+      updateMeta('meta[name="description"]', pageDescription);
+      updateMeta('meta[property="og:title"]', pageTitle || siteTitle[lang]);
+      updateMeta('meta[property="og:description"]', pageDescription);
+      updateMeta('meta[property="og:site_name"]', siteTitle[lang]);
+    }
+
+    document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+      button.addEventListener('click', function () {
+        setLang(button.getAttribute('data-set-lang'));
+      });
     });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
-</script>
 
-
-<!-- Asynchronous Google Analytics snippet -->
-<script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-39365944-7']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    setLang(localStorage.getItem(storageKey) || defaultLang);
   })();
 </script>
 
-  
+
 </body>
 </html>

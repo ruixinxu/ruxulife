@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "暴走"
+title_en: "A Long Walk"
 date:   2009-01-17 02:45:34
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 赶年底见了很多人
 
@@ -52,3 +55,53 @@ by: MuMu
 直到最后在巴沟分别
 
 p.s.:特别特别喜欢万的“本木生活”
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I saw a lot of people toward the end of the year.
+
+The day before yesterday, most people’s mood indexes were dropping.
+
+So 2008 really did move with the times.
+
+Compared with that, it’s still great to have people looking out for you.
+
+It seems like every year before the New Year there’s always one day of wild walking.
+
+The starting point is always Jishuitan.
+
+Last year it was Da Huang, Chicken Essence + Yun, from Jishuitan to Houhai to Beihai.
+
+This year I walked with Hua from Xinjiekou to Huguosi, met up with Xiao Huo and chh, and went to Han Geng’s mom’s Mei X.
+
+The room was full of little middle-school girls, and I couldn’t help sighing that I was really getting old, getting old...
+
+Then we ran off to Qianmen. Classmate Xiao Bai, and that legendary Dangdang trolley car—compared with the one in Dalian, the cost-performance ratio was nowhere close...
+
+But today this direction-blind MuMu only just discovered that Dashilan is actually right on Qianmen Street -_-!!!
+
+We kept crossing through one underpass after another.
+
+Saw the full venting ball.
+
+Let my eyes sweep across Tiananmen Square.
+
+At last I made my way with A Hua to Xizhimen.
+
+And saw the newly refreshing North Railway Station.
+
+—The scene from two years ago, when Xiao Q and I headed there at dawn under the moon to buy tickets, still feels like yesterday.
+
+Saw Ya Ya and Mei Zha.
+
+This MuMu could hardly hide the excitement inside.
+
+Until finally we parted at Bagou.
+
+p.s.: I especially, especially love Wan’s “MuMu Life.”
+
+</div>

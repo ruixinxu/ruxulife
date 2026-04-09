@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "万说"
+title_en: "Wan Says"
 date:   2010-08-07 21:30:09
 categories: ruxu-life
 tags: [ruxu-life]
@@ -11,6 +12,20 @@ share: true
 ---
 By: MuMu+Wan
 
+<div class="lang-zh" markdown="1">
+
 “如果别人懂得像我们欣赏彼此一样欣赏我们就好了”
 
 。。。自信心严重丧失的木表示内流满面。。。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+“If only other people knew how to appreciate us the way we appreciate each other.”
+
+...Mu, whose confidence had collapsed badly, could only weep inwardly...
+
+</div>

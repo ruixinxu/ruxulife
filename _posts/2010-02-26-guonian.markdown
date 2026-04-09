@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "过年"
+title_en: "Celebrating the New Year"
 date:   2010-02-26 08:58:11
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,4 +10,16 @@ tags: [ruxu-life]
 comments: true
 share: true
 ---
+<div class="lang-zh" markdown="1">
+
 “是对各种社会角色的中断，使人返回赤子本源，有可能从源头上重新打量自己的生存。说到底，除了感激父母养育之恩，好像没有什么事情不可以暂停。”
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+“It is an interruption of all kinds of social roles, allowing a person to return to their childlike origin and perhaps reexamine their own existence from the source. In the end, aside from being grateful for our parents’ nurturing grace, there seems to be nothing that cannot be put on pause.”
+
+</div>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "柔软"
+title_en: "Softness"
 date:   2011-08-28 21:51:30
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 不忠 感情的疑惑善变 自相矛盾 心中所有的冲动不安像世界一样古老
 
@@ -35,3 +38,39 @@ by: mumu
 这就是生命的喜剧
 
 ————这是“柔软”的台词 部分是被删掉的了 我没去看过 估计即使看了以自己这样线性的大脑和思维也是无法理解的 就像当年的犀牛一样；也不是想拿文艺的皮儿来掩盖自己的流氓本质 像小涂讲这是盖不住的了-_-!!!只是觉得有些喜欢的调调儿在里面 记在这儿 一是让更多的人看到 二是以后自己找起来也方便
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Infidelity, the confusion and fickleness of love, self-contradiction — all the impulses and restlessness in the heart are as old as the world.
+
+If someone meets the one right person, at the right time, in the right place,
+
+it is not because their morals are more complete. It is because they are luckier.
+
+Should the lucky laugh at those who were less lucky?
+
+Or are they unfortunate too, and so want to turn that misfortune into a law of the world?
+
+They see me as an outsider
+
+only because I cannot be bothered to hide my contempt.
+
+How brave you are. Do you know why I like you?
+
+You understand how unpredictable life is, and yet you still hold on to optimism and begin again from the start.
+
+I have always wanted to find a man like you,
+
+so that I could keep some faith in people.
+
+But look at you — in my hands, you are about to become a woman.
+
+That is the comedy of life.
+
+——These are lines from _Softness_. Some of them were apparently cut. I have not seen it myself, and I guess that even if I had, with a linear brain and way of thinking like mine, I probably still would not understand it — just like _Rhinoceros_ back then. Nor am I trying to use an artsy shell to cover up my rogue nature; as Xiao Tu says, that is impossible to hide anyway -_-!!! I just feel there are some tones in it that I really like, so I am writing them down here: first, so more people can see them; second, so it will be easier for me to find them later.
+
+</div>

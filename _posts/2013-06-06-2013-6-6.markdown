@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "2013-6-6"
+title_en: "2013-6-6"
 date:   2013-06-06 23:34:16
 categories: ruxu-life
 tags: [ruxu-life]
@@ -11,8 +12,24 @@ share: true
 ---
 by: MuMu
 
+<div class="lang-zh" markdown="1">
+
 我们都是太自私的人，谁都无法完全体会谁的痛苦，我不懂她们的，她们也不懂我的。尽管说者无心却点到人家的痛处，听得人于是委屈伤心流下泪来 (对不起额亘)
 
 从小时候起，被宠坏的孩子一直被拿来当作反面教材，教育要独立要自强要无所不能。长大之后才发现，天底下一物降一物，有人需要很多很多的爱，那自然就会有人给他很多很多，有人独立自强无所不能，那自然就不需要那么多柔情眷恋。
 
 明天是新一轮的高考，时间如果可以倒流，我宁愿从没离开过家。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+We are all too selfish. No one can fully understand another person’s pain. I do not understand theirs, and they do not understand mine. Even when the speaker means no harm, they may still touch someone’s sore spot, and the listener ends up hurt, aggrieved, and in tears. (Sorry, Egen.)
+
+Ever since childhood, spoiled children have always been used as cautionary examples, taught that one should be independent, resilient, and capable of everything. Only after growing up did I realize that in this world one thing always restrains another: if someone needs a great, great deal of love, then naturally there will be someone who gives them a great, great deal. And if someone is independent, resilient, and capable of everything, then naturally they do not need that much tenderness and attachment.
+
+Tomorrow is the start of another round of the college entrance exam. If time could flow backward, I would rather never have left home.
+
+</div>

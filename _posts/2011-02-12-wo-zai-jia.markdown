@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "窝在家"
+title_en: "Staying Home"
 date:   2011-02-12 12:05:20
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 By: MuMu
+
+<div class="lang-zh" markdown="1">
 
 1.早上老弟翻报纸：“泰国柬埔寨要打仗了”
 
@@ -62,3 +65,63 @@ $@#$￥%#)@
 我弟侧目：“老姐我好羡慕你啊，你好单纯。。。。”
 
 @#￥%#%#
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+1. In the morning my little brother was flipping through the newspaper: “Thailand and Cambodia are going to war.”
+
+Me: “Fight who?”
+
+He froze for a moment: “Thailand and Cambodia are two different countries!!!!”
+
+
+2. My classmates’ gathering overlapped with a family gathering, and during it my parents kept bombarding me with phone calls. When I got back that night, I talked it over with my brother.
+
+Brother: “That tofu was pretty good, don’t you think?”
+
+Me: “I got there late, I didn’t get any.”
+
+Brother: “Yeah, I thought they were so annoying, always calling you.”
+
+Me: “I think so too.”
+
+Brother: “At a classmates’ reunion they still wouldn’t let you have fun properly. It only happens once a year—how many once-a-years does youth even have!!”
+
+$@#$￥%#)@
+
+3. One of my mom’s coworkers was worried that her son’s puppy love was affecting his grades. She also has a little daughter who is five this year.
+
+My mom told her: “Let your daughter start school early. Starting early has lots of benefits. When my daughter was in high school she was so young she didn’t understand anything and only knew how to study...”
+
+I nearly sprayed out my food....
+
+My brother, from the side: “Sis, you’re too dumb. Why was I young too, but I knew everything?”
+
+@#$#%$#
+
+4. The TV was talking about leftover women.
+
+Me: “What if your sister gets left over?”
+
+Brother: “Then find a leftover man.”
+
+Me: “No way. I want a younger one. Do any of your classmates fit? Introduce one to your sister.”
+
+My brother, calm as ever: “They don’t like old ladies.”
+
+I exploded: “Who are you calling an old lady!!!”
+
+He stayed perfectly calm: “For other things, modesty is fine. For this, there’s no need to be modest.”
+
+
+5. I was watching _Gong_ at home and crying out about how moving it was.
+
+My brother glanced sideways at me: “Sis, I’m so envious of you. You’re so innocent....”
+
+@#￥%#%#
+
+</div>

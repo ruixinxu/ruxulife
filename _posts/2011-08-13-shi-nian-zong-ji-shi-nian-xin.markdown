@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "十年踪迹十年心"
+title_en: "Ten Years of Footprints, Ten Years of Heart"
 date:   2011-08-13 00:03:55
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 上周奶奶八十二岁大寿，全家又聚到一起，哥哥姐姐弟弟妹妹....
 
@@ -67,3 +70,68 @@ ZN：“所以。。。你别看了。。。去找些诗歌看看陶冶下情操
 。。。
 不管怎样近年来我对我家ZN的敬仰之情油然而生如滔滔江水连绵不绝，常常暗自后悔小时候没有对他好一点，不过每当我小心翼翼的试探
 “你还记得小时候我把你锁在门外的事情么”时，他一脸的茫然，我就邪恶的舒了口气，ZN今年要离家去住校，和十年前的我一样，看到今天的他想到十年前的自己，只觉十年踪迹十年心，尽管并不常见面，但“远远关心，远远分享”，这就是亲人吧。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Last week was Grandma’s eighty-second birthday, and the whole family gathered together again—older brothers, older sisters, younger brothers, younger sisters...
+
+When no one was around, I waited for my older sister to take out a red waist cord strung with a jade rabbit and a ruyi charm and tie it on me. She had meant to give it to me at New Year, but sadly hadn’t brought it then, so I had to wait until now to see it again.
+
+My two younger brothers, PF and ZN, mocked me together for not listening to Xu Song and not knowing _Socrates Has No Bottom_... I cautiously asked, “Do you guys like Mayday?” and, of course, got another round of disdain. -_-!!!
+
+PF sat across from me, his broad shoulders now fully blocking my view. Under the lamp he brought out his little secrets one page at a time, treasuring each of them. For a moment I felt dazed and thought it unbelievable—how had the little boy who used to cling to me and insist I carry him, and then burst into tears after I impatiently dropped him on the ground, suddenly grown up?
+
+And then there’s my ZN, who shocks me every single time:
+
+ZN: “I’ve been reading light novels lately.”
+
+Me: “What light novels?”
+
+ZN: “S dot M dot S.”
+
+Me: “No, I mean what *is* a light novel? Tell me about it~”
+
+ZN: “I don’t know either. I’m not telling you. Too evil~”
+
+Me: “...I’ve been making up for my cultural deficiencies lately! I’m reading essays!!!”
+
+ZN: “Mm, essays are good. Classical Chinese prose is written really well. Have you read _Ode to the Goddess of the Luo River_? It’s one of the most famous prose pieces describing women, maybe there are two of them? You know, the one with ‘graceful as a startled swan, winding as a roaming dragon’?”
+
+Me: “Nope... what’s that...”
+
+ZN: “Cao Zhi wrote it. In year xxx he went to xxx and came to the Luo River and wrote xxx. Actually, Cao Zhi’s most famous work isn’t ‘Seven-Step Verse.’ That one is only popular among kids who’ve only read *Three Hundred Tang Poems*. _Ode to the Goddess of the Luo River_ is much more famous...”
+
+Me: (No idea what to say...)
+
+Me: “What do you think of Zhuge Liang?”
+
+ZN: “An outstanding statesman. His military ability was relatively weaker.”
+
+Me: “Huh? Wasn’t he famously brilliant at commanding battles?”
+
+ZN: “Are you talking about *Romance of the Three Kingdoms* or actual history?”
+
+Me: “Isn’t *Romance of the Three Kingdoms* actual history?”
+
+ZN got mad and shouted, “No!!! *Romance of the Three Kingdoms* is a novel!! I’ve read *Records of the Three Kingdoms*. Zhuge Liang wasn’t that godlike. Didn’t Lu Xun say ‘too wise, almost demonic’? That’s about how the novel made Zhuge Liang too perfect.”
+
+Me: “Wow... you know so much... tell me more and educate me!!!”
+
+ZN: “Go read books yourself. Forget it, a little girl like you shouldn’t read this. It’s all men’s stories. In *Records of the Three Kingdoms* there aren’t even any women positively portrayed.”
+
+Me: “Huh? Not even the beauties? Diao Chan, the Two Qiaos, them?”
+
+ZN: “No. For Diao Chan it just says she was Dong Zhuo’s maid and had an affair with Lü Bu.”
+
+Me: “!!! How can it be like that!!!”
+
+ZN: “So... don’t read it... just go find some poetry and cultivate your sentiments...”
+
+...
+No matter what, in recent years my admiration for ZN has risen naturally like endless surging river water. I often secretly regret not treating him better when we were little. But whenever I cautiously test the waters by asking, “Do you remember that time in childhood when I locked you out of the house?” he just looks blank, and I let out an evil sigh of relief. This year ZN is leaving home to board at school, just like I did ten years ago. Seeing him today makes me think of myself ten years ago. It feels like ten years of footsteps, ten years of heart. Even though we don’t see each other often, we still “care from afar, share from afar.” That must be what family is.
+
+</div>

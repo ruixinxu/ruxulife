@@ -1,536 +1,872 @@
 <!DOCTYPE html>
-<html>
-<!--
-====================================================
-    __  ____  ______________  _______ ___    __ 
-   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
- / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
-/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
-                                                     
-====================================================
-Owner Name: Hossain Mohammad Faysal
-Profile: https://www.facebook.com/hmfaysal
-Version: 1.1
-Description: Awesome dude, awesome life
-====================================================
--->
+<html data-lang="zh">
 <head>
 <meta charset="utf-8">
-<title>Latest Posts &#8211; ruxubooks</title>
-<meta name="description" content="The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania.">
-<meta name="keywords" content="Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsylvania, doha, Qatar">
-
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>如许读书 &#8211; 如许阅读</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="问渠哪得清如许 唯有源头活水来">
 
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Latest Posts">
-<meta property="og:description" content="The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania.">
-<meta property="og:url" content="http://ruxubooks.com/index.html">
-<meta property="og:site_name" content="ruxubooks">
-<meta property="og:image" content="http://ruxubooks.com/images/img2.jpg">
+<meta property="og:title" content="如许读书">
+<meta property="og:description" content="问渠哪得清如许 唯有源头活水来">
+<meta property="og:url" content="http://127.0.0.1:4000/">
+<meta property="og:site_name" content="如许阅读">
 
 
 
 
+<link rel="canonical" href="http://127.0.0.1:4000/">
+<link href="http://127.0.0.1:4000/feed.xml" type="application/atom+xml" rel="alternate" title="如许阅读 Feed">
 
-<link rel="canonical" href="http://ruxubooks.com/">
-<link href="http://ruxubooks.com/feed.xml" type="application/atom+xml" rel="alternate" title="ruxubooks Feed">
-
-
-<!-- http://t.co/dKP3o1e -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    
-    <link rel="stylesheet" type="text/css" href="http://ruxubooks.com/assets/css/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" href="http://ruxubooks.com/assets/css/style.css" />
-
-<div class="search-wrapper">
-    <div class="search-form">
-        <input type="text" class="search-field" placeholder="Search...">
-        <i class="icon-remove-sign"></i>
-        <ul class="search-results post-list"></ul><!-- /.search-results -->
-    </div><!-- /.search-form -->
-</div><!-- ./search-wrapper -->
-
+<!-- CSS -->
+<link rel="stylesheet" href="http://127.0.0.1:4000/css/main.css">
 
 
 
 <!-- Icons -->
-<!-- 16x16 -->
-<link rel="shortcut icon" href="http://ruxubooks.com/favicon.ico">
-<!-- 32x32 -->
-<link rel="shortcut icon" href="http://ruxubooks.com/favicon.png">
-<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://ruxubooks.com/images/apple-touch-icon-precomposed.png">
-<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://ruxubooks.com/images/apple-touch-icon-72x72-precomposed.png">
-<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://ruxubooks.com/images/apple-touch-icon-114x114-precomposed.png">
-<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://ruxubooks.com/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="shortcut icon" href="http://127.0.0.1:4000/favicon.ico">
+<link rel="shortcut icon" href="http://127.0.0.1:4000/favicon.png">
 
 </head>
-<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
-<div id="fade"></div>
-<a id="slide" class="animated fade"></a>
-<aside id="sidebar">
-    <nav id="navigation">
-    <h2>MENU</h2>
-    <hr>
-
-            <li>
-                    <a href="/">Home</a>
-                 </li>
-
-            <li>
-                    <a href="http://ruxubooks.com/categories">Categories</a>
-                 </li>
-
-            <li>
-                    <a href="http://ruxubooks.com/tags">Tags</a>
-                 </li>
-
-            <li>
-                    <a href="http://ruxubooks.com/ruixinxu">Ruixin who?</a>
-                 </li>
-            
-           <!--<li><a href="http://ruxubooks.com/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>-->
-    </nav>
-    
-    
-</aside>
-
-<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url(http://ruxubooks.com/images/img2.jpg)" itemscope itemtype="http://schema.org/Organization">
-
-
-    <button class="menu-button animated fade dosearch">
-        <i class="icon-search"></i>
-    </button>
-
-
-    <div class="inner">
-        <div class="container">
-            <a class="brand light" href="http://ruxubooks.com" role="banner" itemprop="url">
-
-                <img itemprop="logo" src="http://ruxubooks.com/images/book.png" alt="ruxubooks Logo" />
-
-            <h1 class="blog-title light" itemprop="name">
-                ruxubooks
-            </h1>
-                
-            </a>
-            <h2 class="blog-description light bordered bordered-top" itemprop="description">
-                问渠那得清如许 唯有源头活水来
-            </h2>
-        </div>
-    </div>
-    
-    
-    <div class="decor-wrapper">
-        <svg id="header-decor" class="decor bottom" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-            <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba(255,255,255, .1)"></path>
-            <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba(255,255,255, .1)"></path>
-
-            <path class="medium left" d="M0 100 L50 50 L0 33.3" fill="rgba(255,255,255, .3)"></path>
-            <path class="medium right" d="M100 100 L50 50 L100 33.3" fill="rgba(255,255,255, .3)"></path>
-
-            <path class="small left" d="M0 100 L50 50 L0 66.6" fill="rgba(255,255,255, .5)"></path>
-            <path class="small right" d="M100 100 L50 50 L100 66.6" fill="rgba(255,255,255, .5)"></path>
-
-            <path d="M0 99.9 L50 49.9 L100 99.9 L0 99.9" fill="rgba(255,255,255, 1)"></path>
-
-            <path d="M48 52 L50 49 L52 52 L48 52" fill="rgba(255,255,255, 1)"></path>
-
+<body data-page-title-zh="如许读书" data-page-title-en="Ruxu Reading" data-page-description-zh="问渠哪得清如许 唯有源头活水来" data-page-description-en="Reading notes, life fragments, and travel journals.">
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="http://127.0.0.1:4000/">
+      <span class="lang-zh">如许阅读</span>
+      <span class="lang-en">Ruxu Reading</span>
+    </a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
-    </div>
-    
+      </a>
+      <div class="trigger">
+        <a class="page-link" href="http://127.0.0.1:4000/categories">
+          <span class="lang-zh">分类</span>
+          <span class="lang-en">Categories</span>
+        </a>
+        <a class="page-link" href="http://127.0.0.1:4000/tags">
+          <span class="lang-zh">标签</span>
+          <span class="lang-en">Tags</span>
+        </a>
+        <a class="page-link" href="http://127.0.0.1:4000/ruixinxu">
+          <span class="lang-zh">关于我</span>
+          <span class="lang-en">About Me</span>
+        </a>
+      </div>
+      <div class="language-switch" aria-label="Language switch">
+        <button type="button" class="lang-switch is-active" data-set-lang="zh">中</button>
+        <button type="button" class="lang-switch" data-set-lang="en">EN</button>
+      </div>
+    </nav>
+  </div>
 </header>
 
 
-
-<div id="main" class="content" role="main" itemprop="mainContentOfPage">
-    <div class="container">
-        <div class="row">
-            <div class="page-body" itemprop="description">
-            
-	
-		
-		
-		
-		
-		
-			
-	        
-	        
-	        
-	        
-	        <div class="row">
-	            <article class="post post col-md-8 col-md-offset-2">
-	               <header class="post-header">
-	               
-	                    
-	                    <h2 class="post-title text-center super lighter bordered-bottom">
-	                        <a href="http://ruxubooks.com/ruxu-life/%E5%AE%89%E5%90%89%E6%8B%89%E5%92%8C%E5%BE%90%E6%9C%A8%E6%9C%A8">安吉拉和徐木木</a>
-	                    
-	                    </h2>
-	                    <div class="post-info text-center small">
-	                        <time datetime="2015-06-27T12:43:00+08:00" class="post-time">27 Jun 2015</time>
-	                        in <span class="post-tags"><a href="http://ruxubooks.com/categories/index.html#ruxu-life" data-toggle="tooltip" title="Other posts from the Ruxu-life category" rel="tag">Ruxu-life</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
-	                    </div>
-	                </header>
-	                <div class="post-body bordered-bottom">
-	                
-	                
-	                    <p>by: Angela
-
-我今天白天还在神采飞扬的跟别人讲徐木木是如何雷厉风行的决定辞职去坡国创业，晚上还开心的去健了身，临睡前还在想心灵鸡汤，决定把“to be a better me &amp; 成为一个有趣的人”变成我的人生新理想，然后，我就想起了徐木木，想起她下周就要飞往坡国开启人生新篇章了。我这才意识到，这似乎是一个里程碑似的事件，类似大学毕业大家天各一方。
-木木是谁？我觉得闺蜜不合适，因为我们几乎很少花时间逛街美甲聊时尚，木木不懂这些；我们更多的时候，是在聊天，就是那种走心的心灵按摩似的聊天，这种聊天发生在我们一起吃饭时，散步时，看电影后，看话剧后。。。常常，因为话题没有聊完，互相送来送去，难舍难分。所以，我们的关系，大概是战友，伙伴，一路陪伴走过初入社会和职场的时光。
-第一次有印象的相遇，是在11年4月份的新员工offsite，她穿着一件红色丝绒外套，很大只，一头沙性头发自成造型。。。我才没有对她一见钟情
-之后，加了人人，看到她的空间经常更新，她写了篇日志 开天窗，我诧异到，这么大只的女生居然内心这么话痨，不应该是高冷透新类型的么？
-7月份入职后，我们这批新员工很兴奋很闹腾大概也很忐忑，建了一个新员工邮件群，时不时聚餐，k歌，开party，这个过程大概像一个算法不断收敛，收敛，渐渐趋于稳定，最终在这批新员工里，我们成为同一个小集团了。交集就此开始。有一次去三里屯k歌到半夜2点，我害怕一个人打车回家，就卖萌问她，我可以跟你回你家么？她目视前方眼神坚定的回答道，我可以打车送你回去。。。这答案完全出乎我意料，默默的在心里送了她顶“汉子”的帽子，而且是不解风情的汉子。
-木木是水瓶座，思维跳跃，思考的点往往出人意料，常常是，我说我杀人不眨眼，她却问我眼睛干不干。我们聊一个首席科学家70岁了看起来像40多岁，她却问他本科不可能学的计算机吧，第一台计算机1965年才出现呢？点点点
-木木是个不可思议的矛盾集合体。
-比如，她理性而又超感性，作为一名焊得了电路板，调得了代码的纯正工科女，她拥有女特工般清晰的思维，能在一团模糊中杀出一条路，然而，她第一次在toastmaster上演讲，居然说她的人生梦想是当妈妈，点点点
-再比如，她冷静而又抓狂，她常常面无表情一脸认真的坐在我对面，面对我的情绪而不顾，跟我讨论解决问题的方案，一转身她又一脸小女生模样说，安吉拉，我好烦躁，我该怎么办？
-还比如，她不靠谱而又值得信赖，她常常放我鸽子，定好的吃饭，看电影，说不来就不来，理由大概是，有另外一拨人找她，插句话，木木有很多朋友，但绝大多数都是弱连接，只有少数是强连接。然而，木木听了我无数次抱怨恐婚，陪我挑了婚纱，参加我的婚礼当我的伴娘，还跟另外一个姑娘一起送我份厚礼当我的强势娘家人。
-所以，木木对我而言，一直是一个神秘的乌发预测的黑盒子，我还是不知道她下一句话回事什么。
-在过去不长的日子里，我们一起做过许多事情，一起泡过温泉，捏过脚，看过海爬过山，跷班去看大雪后的故宫，去天津吃大饼鸡蛋，雾霾天暴走去地坛看银杏，带着草莓头盔去参加草莓音乐节，凌晨2点坐在jerry喝ying的mini后座上经过天安门，头发被往前吹成鬼。。。原来有这么多的故事，那些个困惑的，迷茫的，没心没肺的，青春激昂的，奋不顾身的，互相依靠的日子啊！
-木木问我，安吉拉，以后我们会不会渐行渐远？也许吧，朋友就像是人生旅途上的偶遇，总要分开旅行，我的下一个目的地是严寒，而你的则是酷暑，隔着太平洋的我们，也许会渐渐少了话题，然而我期望有一天，我们会再次相遇，带着过往所有分开旅行的回忆，试着互相分享，说不定我们还会互相喜欢。
-想说，be a good girl，be kind。你会幸运，幸福，会遇到他，会成为一个超棒的妈妈，拥有你梦想的一切。我坚信你会幸福，超幸福，对，幸福即所有祝福。
-然而，还是舍不得，地球上70亿人，而你那么独特，关键是，你拥有跟我的回忆呀。
-&hellip;</p>
-	                    <div class="text-center">
-	                    
-		                <a href="http://ruxubooks.com/ruxu-life/%E5%AE%89%E5%90%89%E6%8B%89%E5%92%8C%E5%BE%90%E6%9C%A8%E6%9C%A8" data-toggle="tooltip" title="Read more about 安吉拉和徐木木" class="more-link btn btn-danger btn-large">
-		                    <i class="icon-link"></i> read more...
-		                </a>
-		                
-		                </div>
-	                </div>
-	            </article>
-	        </div>
-			
-	
-		
-		
-		
-		
-		
-			
-	        
-	        
-	        
-	        
-	        <div class="row">
-	            <article class="post post col-md-8 col-md-offset-2">
-	               <header class="post-header">
-	               
-	                    
-	                    <h2 class="post-title text-center super lighter bordered-bottom">
-	                        <a href="http://ruxubooks.com/ruxu-life/be-happy-if-not-be-crazy">Be happy, if not, be crazy</a>
-	                    
-	                    </h2>
-	                    <div class="post-info text-center small">
-	                        <time datetime="2014-01-06T03:36:00+08:00" class="post-time">06 Jan 2014</time>
-	                        in <span class="post-tags"><a href="http://ruxubooks.com/categories/index.html#ruxu-life" data-toggle="tooltip" title="Other posts from the Ruxu-life category" rel="tag">Ruxu-life</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
-	                    </div>
-	                </header>
-	                <div class="post-body bordered-bottom">
-	                
-	                
-	                    <p>年中的时候，我以为今年会是我的ex年：ex的部门，ex的团队，ex的o老大还有ex的s。后来事实证明自己当初过于悲观了，老天爷还是很公平的，他在某个方面让你摔一跤一定会在另外一个方面补偿你。
-
-就像从未想过号称二十年来最大的一次重组会被我撞上一样，我也万万没有想到o老大会在最后一刻来了个大逆转——当所有人都以为他要留下的时候他却决定和我们一起离开。那是九月初在密云，大家爬山下来他把我们支回房间只留下DM的人说要说些事情，我和Devi还酸酸的觉得自己被排挤了，直到AGL眼睛红红地推门进来说：“Ruixin我嫉妒你，他要和你们一起走。”我一时以为自己听错了，等回过神来自己都要嫉妒自己了。当天晚上我们在山顶的亭子里面喝酒，周围的树丛里有萤火虫不时出没，DM的姑娘们哭得很伤心，AGL说：“虽然我从没有失恋过但是我觉得自己现在就像是失恋了一样。”
-
-我想我大概可以理解她的感受：有些事情尽管是在意料之中但当他真的突然来了还是会让人有些招架不住。一直以来我都认为随便两个人只要大三观差别不大，相处时间久了自然会有感情，不过一辈子的时间只有那么长，你能够和谁有这样的机会长时间相处就得看缘分了。我一直觉得我和s是很有缘的，要不怎么会在过去九年的时间里有那么多的交集。不过近来开始怀疑那么多年积攒下的大概也只是习惯而不是喜爱，不然的话万千个不可以也抵不过一个我愿意。
-
-我和mj探讨这个观点的时候正走在天津的西康路上，他看了十几年的散文，作梦也想去到天津百花文艺出版社看一看。他说现在对书里的内容已经不如以前那么喜欢但还是当作习惯在坚持。我说这又是何必呢，不喜欢的习惯停掉也罢。
-
-我给他讲我这一年去过的地方：四月的天津，五月的安徽，七月的西雅图，八月的青岛，九月的密云和西藏，十月的济南，十一月的博鳌，十二月的新加坡和一月的曼谷。他听完说 “你这样不行，太crazy了。”“我也不想…”还没等我说完他接着苦口婆心道“我明白。我知道你不好受，可是有些事情是躲不掉的，好的坏的都要去经历，应该给自己一段时间静下来去完整的做一些事情…”他从牛津回来后变得温和许多，不像之前那么容易暴躁，反倒是我话不投机就要撂挑子甩手走人，通常都是婚嫁有关的话题，而似乎我们每段对话都会不自觉得会收敛至此，于是我变得常常暴躁。
-
-后来我反思说自己不敢聊结婚生子是因为觉得那实在太难了，比我练马甲线、开大提琴演奏会都要难得多。这才意识到停掉习惯的后遗症开始发作——整个人变得特别不自信。zb似乎很早就看出来了，于是有段时间他经常和我讲：你很好。不要着急，如果不是对的那个人，两个人比一个人更寂寞。还有AC大叔，我说I fell I am not good enough的时候他反驳道no you are too young to know yourself。有信仰的GR在某天夜里给我和朱姐姐说上帝造人每个都不一样，我们却一直被教育要和大家一样，如果一直不自信总是听别人的话怎么能够成为你自己呢？
-
-另外一个症结就是父母。毛头说看到朋友成家后父母欣慰的样子自己觉得很愧疚，我也一样。前几天美栅推荐byr论坛上有个很感人的“写完这100条”，06级的小孩写和前任的点点滴滴，唯一戳中我泪点的是她说他们在一起的时候她妈妈哭了因为怕她受委屈，然后他们分开的时候她妈妈又哭了问她“真不可能了么？”我和美栅说这话说的和我妈一样一样的，只是我妈还多一句“我能为你们做些什么呢？”是我太敏感么？一听这话就觉得很心酸。其实分分合合都是很正常的好不好，你们何必入戏这么深，搞得我很不安很愧疚的样子。zw已经是两个孩子的妈妈了，家庭和睦事业有成，她和我讲她到现在还会做两个噩梦，一个是考试之前看书看不完，另一个就是分手了自己坐在路边担心怎么和她妈妈交代。你看这样的阴影是会伴随终身挥之不去的，所以尽管我明白他们的担心是对我的关心，可是自己还是有意对他们避而不谈。冬天的时候有一次和o老大讨论人该不该撒谎，我说有些时候善意的谎言是很有必要的，比如我爸妈问我最近怎样的时候我可能正遇到一些麻烦，但是我也会说一切都好因为即使讲了他们也做不了什么还会跟着担心。他想了想说Well then you lose an opportunity to build a closer relationship with your parents。我琢磨了一下似乎的确如此，而且自己的小伎俩好像也很容易被拆穿反而让他们更加担心。
-
-今年开始特别喜欢李宗盛（是的我总是这样后知后觉），冬天时候跑去首体听了他的现场之后感慨老男人真是太有魅力了，轻松戏谑游刃有余，毛头纠正我说不是所有老男人都那样因为那是李宗盛。自称“听了一辈子李宗盛”的GR讲如果拍电影的话他的歌是可以从头放到尾的，每一首歌都是一个故事。我表示不能同意更多，《爱情有什么道理》简直可以拿来做我的年度写照：
-
-其实一个人的生活也不算太坏
-
-偶尔有些小小的悲哀
-
-我想别人也看不出来
-
-其实孤单会使我伤怀
-
-也会试着让自己想得开
-
-对你不知道是已经习惯了还是爱
-
-当初所坚持的心情
-
-是不是还依然存在
-
-眼看这一季就要过去
-
-我的春天还没有来
-
-你为何不掉过头去
-
-让我自己去面对问题
-
-你尝试着不露痕迹
-
-告诉我爱情的道理
-
-你认为值得努力的
-
-是我俩之间的距离
-
-喔 这一季
-
-总算有些值得回忆
-
-过去这一年慢慢的摸到自己生活的节奏，也安然乐在其中。伤怀之后更加相信自己是一个什么样的人未来就会遇到一个什么样的人。
-
-其实仔细想想值得回忆的感动还是有许多的：比如室长和张老师的婚礼还有一起筹备的小伙伴们；比如批评我没有行动力的soul mate AGL；比如和棋子、GR、龙姐姐还有朱姐姐的重聚；比如在宏村被疯子抢粽子之后瞬间能量爆发的小惠平；比如出去玩的时候不断的问我饿不饿的AC大叔；比如在青岛拎着啤酒袋子差点赶不上火车的处女座男们；比如在纳木错被我发脾气还说要给我做好吃的师傅；比如在金海岸泳池边等我到最后的zb和d；比如带我去stripper club还和我分享自己和小d相识过程的yf；比如夜里和GR在顶楼泳池里 边听李宗盛边撒欢还把天上的飞机当流星许愿；比如在帕提亚水下慌张无措时候Addy伸过来的手臂…
-
-新的一年我想继续努力成为一个有意思的人。除了继续跑步大提马甲线争取把今年没跳成的伞跳掉之外，还想能有机会去到新的地方认识新的人。当然不行也没有关系，全套的读库已经摆在桌上，只要自己的世界在收敛之前可以越来越大那就很好了。
-&hellip;</p>
-	                    <div class="text-center">
-	                    
-		                <a href="http://ruxubooks.com/ruxu-life/be-happy-if-not-be-crazy" data-toggle="tooltip" title="Read more about Be happy, if not, be crazy" class="more-link btn btn-danger btn-large">
-		                    <i class="icon-link"></i> read more...
-		                </a>
-		                
-		                </div>
-	                </div>
-	            </article>
-	        </div>
-			
-	
-		
-		
-		
-		
-		
-			
-	        
-	        
-	        
-	        
-	        <div class="row">
-	            <article class="post post col-md-8 col-md-offset-2">
-	               <header class="post-header">
-	               
-	                    
-	                    <h2 class="post-title text-center super lighter bordered-bottom">
-	                        <a href="http://ruxubooks.com/ruxu-life/%E4%B8%80%E5%8F%AA%E6%8A%B1%E5%A4%A7%E8%85%BF%E7%9A%84%E7%94%B5%E7%81%AF%E6%B3%A1%E7%9A%84%E8%A5%BF%E8%97%8F%E5%8D%81%E4%BA%94%E6%97%A5%E6%B8%B8">一只抱大腿的电灯泡的西藏十五日游</a>
-	                    
-	                    </h2>
-	                    <div class="post-info text-center small">
-	                        <time datetime="2013-10-09T01:29:00+08:00" class="post-time">09 Oct 2013</time>
-	                        in <span class="post-tags"><a href="http://ruxubooks.com/categories/index.html#ruxu-life" data-toggle="tooltip" title="Other posts from the Ruxu-life category" rel="tag">Ruxu-life</a></span>&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
-	                    </div>
-	                </header>
-	                <div class="post-body bordered-bottom">
-	                
-	                
-	                    <p>屌丝拼团包车游，自驾高富帅可以跳过。 出发前 西藏，被全国人民放在心口尖儿上很多年了，周围总有好友不断表达对她的向往：三年前，美栅离开北京时信誓旦旦和我约定要一同进藏，后来的某一天接到她的电话，大致是说等不到我于是和花哥哥们同去了…两年多前，汪汪和学敏都在迷恋藏地密码，也曾在2208听他们谈论过自己的西藏计划，汪汪赴法之前把整套的藏地密码都留给了我，我把他们小心翼翼的捆好，过去两年把他们从西四环搬到北二环又搬到南三环，但却从没翻过一页-_-!!…还有文艺男青年信誓旦旦“要和心爱的人一同去看看西藏圣洁的天空”以及文艺女青年“在西藏遇到了极品渣男前任”之类的桥段都在我身边一一上演… 可是我自己并没有他们这般执着也从未为西藏之行真正做过什么准备，直到今年八月份收到hm夫妇的邀请——9月6日到9月22日进藏。那会儿我正在美利坚夜以继日的辛勤工作，虽然被AC大叔迷的神魂颠倒，但是开不完的会修不完的反馈睡不饱的身体还是让我觉得想逃离!于是屁颠颠儿的答应了hm夫妇，成为了一个抱大腿的电灯泡儿。 后来我以实际行动证明了自己的不靠谱：两次抢票时间都给睡过了，上火车之前两个小时才打印了两份攻略，到了火车上还数不清楚要玩几天，从来没有听说过“边防证”这个东西，没有睡袋，棉衣也只带了一件更别提羽绒服了，景点只知道布达拉宫和珠穆朗玛峰…现在回想起来，出发前我唯一做的有用的准备就是听从美栅的建议，提前一周开始吃红景天胶囊，后来入藏的十几天里面，丝毫没有高原反应，不知道是不是真的起了作用还是我自己本来平时就宅得很耗氧量太少。反正我就这样稀里糊涂的上路了… 在路上 我们一行3人从北京出发，历经15天：4天火车进藏出藏，2天在拉萨休整适应，9天游览林芝-山南-日喀则-珠峰-纳木错，人均消费7k+。 简单行程单如下（详细行程单见附录）： 9.6 D0 ：晚8点T27从北京西始发，宿火车。 9.7 D1 ：火车上，北京到拉萨，宿火车。 9.8 D2 ：火车上，下午4点到达拉萨，游八廓街，宿拉萨。 9.9 D3 ：拉萨，预约布宫门票，游大昭寺，宿拉萨。 9.10 D4 ：拉萨，参观布达拉宫，西藏博物馆，宿拉萨。 9.11 D5 ：拉萨出发到林芝，途径松赞干布出生地，雅江中游河谷黑颈鹤保护区，米拉山口，卡定沟，宿八一。 9.12 D6 ：远观鲁朗林海，南迦巴瓦峰，吃石锅鸡，进入雅鲁藏布江大峡谷，宿直白。 9.13 D7 ：大峡谷徒步，宿朗县。 9.14 D8 ：朗县-加查-泽当，宿泽当。 9.15 D9 ：游羊卓雍错，满拉水库，宿日喀则。 9.16 D10 ：日喀则出发到珠峰大本营，寄卡片，宿珠峰大本营。 9.17 D11 ：珠峰下山道日喀则，途径扎什伦布寺，买藏刀，宿日喀则。 9.18 D12 ：日喀则出发到纳木错，宿纳木错。 9.19 D13 ：纳木错回拉萨，买藏药，宿拉萨。 9.20 D14 ：下午1点多，T28火车回京。 9.21 D15 ：火车回京，早上过青海偶遇车祸。 9.22 D16 ：早九点火车顺利抵京，洗澡上班[&gt;.&lt;] 火车上 我们是软卧去，硬卧回。提前20天网上抢票，www.12306.cn。 43个小时，接近两天两夜，这是我坐过的最长时间的火车，途中貌似会供氧，没有任何不适。去的时候满心期待兴奋得不得了，觉得沿途一个小土坡都很美，同行摄影师小南一直在拍个不停，等到回来的时候，见过了大山大河，对沿途的小水洼大家都没有拍的欲望了，见异思迁的人类呀！作为吃货我尤其难忘西宁站台上兜售的带青稞和黑米的老酸奶，五块钱一杯，很好吃，虽然有些太甜了。 拉萨（八廓街，大昭寺，布达拉宫，拉萨博物馆） 八廓街大概算是我们到拉萨的第一站了。八廓街上岔路口很多极其容易迷路，好在每走几百米就有派出所，问路非常方便。街上有很多卖藏饰、藏刀、围裙、转经筒还有各种宣称尼泊尔来的小物件的摊位，晚上也很热闹，但是我对此并无大爱，所以也没多逗留。窃以为单在街上走一走，看看街边的藏式建筑就很有意思了。著名的“玛吉阿米”餐厅就在八廓街上，相传就是当年仓央嘉措与玛吉阿米相遇的地方，百度说他曾在此地写下著名的《在那东方的山顶上》，“在那东方高高的山顶上，升起一轮皎洁的月亮，未嫁娇娘的面容，时时浮现在我的眼前”。“未嫁娇娘”在藏语中便是“玛吉阿米”。 大昭寺，85元。八廓街一直走到头就是大昭寺广场，门口有很多磕长头的人。据说整个拉萨城就是以大昭寺为中心建出来的。我们去的时候是个下午，阳光很好，登上二楼，阳光照在金顶上，漂亮极了。寺里面香火极旺，我第一次感觉呼吸不畅就是在大昭寺里面，大概是酥油灯烧的太旺盛了。 布达拉宫，门票200元，需要预约。预约处在布达拉宫正门西侧，入口在东侧。我们是头一天早上8点左右到的，据说9点半之后就肯定没票了，领到第二天中午12点半的预约门票。可以提前向周围旅行社打听下早上大概要几点去排队，旅行社也可以代领预约票，但要另付150元左右。排队期间遇到几个自己跑出来玩的小男生，后来还带他们去喝甜茶，一群人在仓姑寺聊星座，在其中某位一再追问“你是啥座的？”的时候，旁边有位大哥大概实在受不了了“我是肉做的！”哈哈哈哈哈。布宫远观远没有我想象中的宏伟，但是真正爬起来还是挺吃力的走两步就气喘吁吁，最后只好蜗牛一般慢慢的挪上去。 布宫西边有个白塔，白塔对面有个药王山观景台，晚上八点之后可以花2块钱上去观赏布宫夜景。沿着布宫一直往西走可以看到一家酸奶坊，我们在那里吃到了浓稠的牦牛酸奶还有盘子像脸盆大的牦牛肉炸酱面。布宫东边马路对面的拉萨邮局可以买到明信片，而且可以盖N多的纪念章。邮局南边马路对面有个百益超市，可以买到几乎所有的日常用品和食品，而且可以刷信用卡。 拉萨博物馆，免费，周一闭馆。在博物馆遇到一个藏族小哥，遇到他的时候他正在给前面一些台湾客人讲解展台上的经文，我以为是博物馆的讲解员，后来厚脸皮问才知道是自己来玩儿的西藏大学的学生。果断扑上去抱大腿，一路逮着人家问东问西，他很好脾气得给我们讲他除了汉语和英语还学了十二种藏文，看到某个藏族乐器，像马头琴一样的，他说他自己在家也会弹，人很沉静感觉很渊博的样子。 林芝（鲁朗林海，南迦巴瓦峰，雅鲁藏布江大峡谷，卡定沟） 林芝号称西藏的“小江南”，海拔比拉萨要低，郁郁葱葱景色秀丽，通常被作为入藏后的第一站。巴松错和鲁朗林海都是林芝很有名的景点，除了我之外的其他队友都知道。师傅说有个卡定沟，虽然没有巴松错那么大的名气但是景色也很不错，而且门票便宜只要20元。考虑到后面几天还会去羊卓雍错和纳木错，我们决定放弃巴松错直奔卡定沟，后来想想还是很明智的（至少对于我这样的对水无爱的人来说）。卡定沟里面当然也有佛像，但是我实在佛缘浅薄，只对里面的大瀑布心水地很，瀑布落差据说有几百米，栈路修地很近，一直延伸到瀑布脚下，人可以从瀑布里穿过去，爽死了。 百度说“鲁朗林海是一处云山雾海里的森林，有‘叫人不想家的’的美誉，整个景点如诗如画，周边雪山林立，沟内森林葱笼，林间还有整齐如人工修剪般的草甸，许多民居修建在这山环水复的天上森林，周边溪流蜿蜒，有成千上万种野花竞相开放，简直就是人间天堂。”我们没去林海观景台，师傅找了几个视角不错的地方停下来给随队摄影师们拍照，漫山的林子倒也的确壮观，不过没有看到花。 最惊叹的还是南迦巴瓦峰，队长夫妇讲南迦巴瓦峰是世界最美山峰，海拔7782米，是个处女峰，至今没人攀登过。又称羞女峰，因为山顶常年被云笼罩，难得露出真容。但她却很给面子的伴了我们一整天，小南童鞋从早到晚快门按个不停。 雅鲁藏布江大峡谷，290元，含门票、电瓶车、一餐。大峡谷景区里面也很大，过了售票处还要开车好长时间，晚上6点之后旅游车才可以进入景区，然后一路走走停停开到日落金山观景台的时候就大概8点钟了，恰好可以看到日照金山。我们晚上夜宿直白村下的巴青农庄，坐在院子里面正对着南迦巴瓦峰，抬头星空辽阔，就连我这样不戴眼镜的大近视也能分辨得出银河和牛郎织女星。第二天7点多钟大家就爬起来等日出，太阳一直磨磨蹭蹭的不肯出来，直到8点多钟，突然一下子跃出了南迦巴瓦主峰的三角尖儿，光芒万丈让人无法直视。上午在峡谷景区小徒步了一阵子，看到了雅鲁藏布江的小拐弯。山上有很多核桃树和桃子树，我们在核桃树下砸核桃吃，小南还拿石头打下好多野桃子，样子小小的皱巴巴的，但是酸酸甜甜也蛮有滋味。 另外， 林芝的小西瓜很好吃，很脆很甜，在回八一镇附近的路边就有的卖。 羊卓雍错，满拉水库 我们一行似乎人人都有个自己的心结，像小南的南迦巴瓦，我的珠峰，队长的雅鲁藏布江，还有hm的羊卓雍错——据说画皮二是在这里取的景，看完之后hm同学就对这绝美的景色念念不忘了。羊卓雍错是藏族同胞心中的三大圣湖之一（另外两个是纳木错和玛旁雍错）。“羊卓雍措，字面的解释是‘上面牧场的碧玉之湖’。而她在藏人心目当中被看做是‘神女散落的绿松石耳坠’，因为无论你在哪个角度，都不能看到羊卓的全貌，只有在地图或是高空你才能惊喜的发现她犹如耳坠，镶嵌在山的耳轮之上。不同时刻阳光的照射，她会显现出层次极其丰富的蓝色，好似梦幻一般。”师傅一路带我们从不同角度看羊湖，最开始在某个山顶上看全景的时候，下起了冰雹，冻得要死。后来开到景区里面，天空放晴，太阳照到水面上，映射出丰富的色彩，可惜我眼拙有没戴眼镜完全没看出来… MJ每次看到绝丽而沉默的风景都会重复玛格丽特的话“伟大的风景默默无语”，在西藏也有很多低调的惊艳，羊湖旁边不远的满拉水库就是。那水面沉静安详，绿得纯粹温润，像一潭绿松石，清丽脱俗又一副与世无争的样子。 珠穆朗玛峰 最最开始我们本没打算去珠峰，担心五千多米的海拔身体吃不消，再加上在拉萨听人讲珠峰条件艰苦，路很难走，住宿条件也不好，景色嘛“也谈不上什么景色，比林芝差远了”。但是去珠峰是我的小小心愿，不畏路途艰险，也不怕条件艰苦（不过当有人和我说珠峰帐篷里面有跳蚤的时候我还是心中一惊），我不期待能看到多伟大的旷世奇景，我只是希望可以去到那里，哪怕珠峰都被云遮着什么都看不见我也心满意足——去不去是我的事情，见不见我是他的事情。即便这样，作为一个弱弱的抱大腿的毫无独立生存能力的电灯泡，我也没有那么大的胆子单飞。所以当出发前大家商量路线把珠峰放在备选的时候我也没有任何怨言，心想看来今年缘分不够那明年再来吧。谁知道离开拉萨的头一天就收到通麦道路塌方的消息，我们突然多出来两天时间，队长、师傅和其他三人在八一镇讨论决定用多出来的两天去珠峰，再加上师傅对珠峰特别地熟悉“去珠峰就像回家一样”，于是我就乐开了花儿。 因为去珠峰的路太烂，车没法开太快，所以师傅说一般从日喀则去珠峰的多在早上7点多钟就出发了，为的就是赶到大本营去看日落金山。可是我没有边防证，等师傅帮我们在日喀则加急办理了边防证，租了羽绒服，出发的时候已经快11点了。我们一路赶过定日从前山上山，爬绕来绕去的盘山路，颠上上下下的搓衣板儿，师傅怕我们错过日落金山，后面有段还提了速，一趟下来废掉了一根减震器。一路上几乎没有见到树，放眼望去都是弯弯曲曲的盘山黄土搓衣板儿路，车开过扬起尘土无数，天压得很低，云彩似乎触手可及，偶尔有几只鹰在空中盘旋，师傅说“你看那老鹰飞得那么低也在滑翔，换做乌鸦的话就会不停的拍打翅膀了”。相比林芝的秀丽，我打心眼儿里喜欢珠峰路上光秃秃的景象，觉得这样才够爷们儿，才不枉费到过西藏。 那天珠峰也很给面子，下午四五点钟时候就携众兄弟山峰齐齐露出头来啦。师傅说珠峰是神山，可以“涤荡心灵”，可以“许愿不必还”，我于是也挂了经幡堆了尼玛堆，愿望倒是没有许——能见到珠峰就已经算是梦想成真了！ 珠峰门票是180，一辆车的进山费是400。景区门口有一个检票口，快到大本营的时候还有一个验票口，我们到得太晚，验票的人都已经下班了…抵达大本营的时候已经是晚上八点多了，刚好赶上日落金山，云彩也很识趣的都跑开了，我后来发了照片在朋友圈，AJL一针见血“你的设备也太shi了，那个小三角形就是珠峰吗？！” 我在珠峰大本营第一次睡藏民帐篷，大本营只有照明电，晚上帐篷里面就黑乎乎的，但是比我想象中要暖和许多，进去时候是有牛粪烧的（我才知道干牛粪原来是一点都不臭的），而且没有跳蚤！老板和老板娘都是藏族人，刚刚生了个宝宝，不到半岁，特别可爱，我们进去刚坐下他们就拿出了酥油茶，同行有人喝不惯，但是我觉得很好喝，老板娘还给每人压了一碗鸡蛋面。帐篷里面有被子和牦牛毯子，晚上裹了睡袋外加两条被子和两条牦牛毯子，沉是沉了些但是一点也没觉得冷。半夜醒来觉得周围黑的好纯粹，做梦一般，不敢相信我居然真的离珠峰这么的近。 大本营上有邮局，但是上下班时间好像很随性。我们晚上八点多上山，已经关门了，第二天等到九点多他还没开门，只好将卡片托给帐篷老板娘代寄。所以建议要去珠峰寄卡片的同学提前准备好邮票和卡片，免得到时候赶路等不到邮局开门。 纳木错 纳木错，门票120元。我本对湖无爱，看过了南迦巴瓦，羊卓雍错，珠穆朗玛，再想到假期就要结束心里不免开始惆怅，到纳木错的时候就提不起什么兴致了。百度说“纳木错藏语意为‘天湖’。南面有终年积雪的念青唐古拉山，北侧和西侧有高原丘陵，广阔的湖滨，草原绕湖四周，水草丰美。湖水清澈，与四周雪山相映，风景秀丽。”我现在只记得景区里面还是挺大的，开车走了好一会儿。湖面不像羊湖那么的不规则是个圆的，我只傍晚在湖边坐了一会儿，看夕阳慢慢落下，平眺过去，湖面远远的就和天空连到一起了看不到边儿，湖水拍打着岸边，让人恍惚觉得面前的是个海而不是湖。湖边有很多游人在拍照，纳木错气温很低，我裹着羽绒服看他们摆各种造型，夕阳将落未落的时候好像是拍剪影的好时候，不一会儿太阳就看不见了，我也起身撤离。纳木错的住宿都是活动板房，后来回京后听高富帅同事讲他们到了纳木错看了一下觉得板房夜里会扛不住就赶紧走了，我开始也以为夜里会很冷，但是有电热毯，和衣而眠，外加被子和羽绒服，也并没觉得冷。 其他 关于交通 拉萨火车站有公交车直接到市区，打车的话从火车站到市区大概30块左右，但是出站口的出租车都是按人头收费的。拉萨市区打车基本10元。拉萨不大，如果不赶时间且身体可以接受的话，可以溜达溜达，享受下日光城的阳光。 拉萨之外的地方包车每公里报价大概4块左右（丰田4500），据说我们去的时候算是淡季，习大大抓廉洁搞群众路线弄得公款消费都没人去了，而明年马年有十万香客马年转山，后年羊年转湖，都会是旅游旺季，到时候大概会涨到7、8块。 关于吃饭 由于对藏餐心有压力，我们除了去仓姑寺喝了个酥油茶和甜茶，吃了个藏面藏包子，去鲁朗吃了个石锅鸡，其他的时候基本都在吃川菜。。。西藏地区的川菜很多，旅游区的街道旁，拉萨和日喀则的大街小巷，随处可见。实在想不出来吃啥的时候，如果你在拉萨建议可以去德吉路上转悠一下，如果你在日喀则可以去珠峰路上晃一晃。 关于住宿 作为旅游城市，拉萨宾馆的价钱随着季节的浮动还是很大的。一是为了省钱，二是为了获取更多的旅游讯息，我们首选还是青旅，拉萨有很多青旅，最出名的大概是平措和东措。一般青旅不接受提前预定，只能当天打电话看有没有位置。我们在拉萨最初几天住在大昭寺附近的尘埃落定青旅，名气没平措东措大，价钱也稍微便宜些，条件尚可，有独立卫生间含早餐（虽然我们一顿也没吃上…）。也遇到了些有意思的人，有一路骑车进藏晒成阴阳脸的西北小哥，有搭车在外一路玩了一个多月的90后小mm，逃课的广东小伙儿，辞职的房地产小哥…他们的精力充沛和随性洒脱总让我感觉自己真的老了，奋不顾身不设防的年纪好像还没经历就已经错过了，我因此对青旅并不喜欢，虽然就算不住在这里不遇到这些人，这个问题依然不增不减的存在，但作茧自缚总还是会让自己心里稍微好受些…好吧跑题了。 拉萨之外的住宿，基本上多是师傅给联系的（除了队长提前联系好的大峡谷直白的巴青农庄）条件比我们自己找的要好多了，价钱居然和在拉萨的青旅差不多。在八一山南日喀则住的酒店的名字我都记不太清了…但是对珠峰和纳木错的住宿记忆犹新。我在珠峰大本营第一次睡藏民帐篷，大本营只有照明电，晚上帐篷里面就黑乎乎的，但是比我想象中要暖和许多，进去时候是有牛粪烧的（我才知道干牛粪原来是一点都不臭的），晚上裹了睡袋外加两条被子和两条牦牛毯子，沉是沉了点但是一点也没觉得冷。半夜醒来觉得周围黑的好纯粹，做梦一般，不敢相信我居然就在珠峰大本营。纳木错我是第一次住活动板房，有电热毯，和衣而眠，外加被子和羽绒服，也没觉得冷。 临走之前一晚住了福兰特，也是师傅帮忙找的，就在布宫旁边，交通方便，性价比也还不错。 关于门票 西藏景点的门票总体感觉还是偏贵的，而且听说只有学生证和老年证管用，军官证是用不了的，本地区的证件貌似会有例外。 另外师傅有时候会有途径可以帮忙买些便宜票，或者逃掉，或者带到某个不用门票但是依然可以看到风景的地方。...&hellip;</p>
-	                    <div class="text-center">
-	                    
-		                <a href="http://ruxubooks.com/ruxu-life/%E4%B8%80%E5%8F%AA%E6%8A%B1%E5%A4%A7%E8%85%BF%E7%9A%84%E7%94%B5%E7%81%AF%E6%B3%A1%E7%9A%84%E8%A5%BF%E8%97%8F%E5%8D%81%E4%BA%94%E6%97%A5%E6%B8%B8" data-toggle="tooltip" title="Read more about 一只抱大腿的电灯泡的西藏十五日游" class="more-link btn btn-danger btn-large">
-		                    <i class="icon-link"></i> read more...
-		                </a>
-		                
-		                </div>
-	                </div>
-	            </article>
-	        </div>
-			
-	
-
-
-            </div>    
-        </div>
-    </div>
+<div class="page-content">
+  <div class="wrap">
+    <div class="home">
+  <ul class="posts">
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2020年09月03日</span>
+          <span class="lang-en">Sep 03, 2020</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/historylessons">
+          <span class="lang-zh">历史的教训</span>
+          <span class="lang-en">The Lessons of History</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2020年08月10日</span>
+          <span class="lang-en">Aug 10, 2020</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/yueduzhouji">
+          <span class="lang-zh">阅读周记</span>
+          <span class="lang-en">Reading Weekly Notes</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2020年07月27日</span>
+          <span class="lang-en">Jul 27, 2020</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/rideoflifetime-sprint-dongmuchang">
+          <span class="lang-zh">The ride of a lifetime+Sprint+冬牧场</span>
+          <span class="lang-en">The Ride of a Lifetime + Sprint + Winter Pasture</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2020年07月19日</span>
+          <span class="lang-en">Jul 19, 2020</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/zhaohehuiyi">
+          <span class="lang-zh">咬一口昭和回忆</span>
+          <span class="lang-en">A Bite of Showa Memories</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2020年07月14日</span>
+          <span class="lang-en">Jul 14, 2020</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/yishu-weijie">
+          <span class="lang-zh">艺术的慰藉</span>
+          <span class="lang-en">Art as Therapy</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2019年06月09日</span>
+          <span class="lang-en">Jun 09, 2019</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/one-apple">
+          <span class="lang-zh">一颗苹果</span>
+          <span class="lang-en">One Apple</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2017年03月26日</span>
+          <span class="lang-en">Mar 26, 2017</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/29">
+          <span class="lang-zh">29岁碎碎念</span>
+          <span class="lang-en">Thoughts at Twenty-Nine</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2016年07月18日</span>
+          <span class="lang-en">Jul 18, 2016</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/butterfly-wings">
+          <span class="lang-zh">蝴蝶的翅膀</span>
+          <span class="lang-en">Butterfly's Wings</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2015年10月27日</span>
+          <span class="lang-en">Oct 27, 2015</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/singapore">
+          <span class="lang-zh">出坡县记</span>
+          <span class="lang-en">Notes from Slope County</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2015年06月27日</span>
+          <span class="lang-en">Jun 27, 2015</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/angela-and-xumumu">
+          <span class="lang-zh">安吉拉和徐木木</span>
+          <span class="lang-en">Angela and Xu Mumu</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2014年01月06日</span>
+          <span class="lang-en">Jan 06, 2014</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/be-happy-if-not-be-crazy">
+          <span class="lang-zh">Be happy, if not, be crazy</span>
+          <span class="lang-en">Be happy, if not, be crazy</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2013年10月09日</span>
+          <span class="lang-en">Oct 09, 2013</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/xizang-you">
+          <span class="lang-zh">一只抱大腿的电灯泡的西藏十五日游</span>
+          <span class="lang-en">A Fifteen-Day Tibet Trip as a Third Wheel Clinging to the Experts</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2013年06月07日</span>
+          <span class="lang-en">Jun 07, 2013</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/2013-6-6">
+          <span class="lang-zh">2013-6-6</span>
+          <span class="lang-en">2013-6-6</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年11月03日</span>
+          <span class="lang-en">Nov 03, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/chucky-jokes">
+          <span class="lang-zh">chucky jokes</span>
+          <span class="lang-en">Chucky Jokes</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年11月03日</span>
+          <span class="lang-en">Nov 03, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/her-story">
+          <span class="lang-zh">今天我要讲一个关于她的还没有结束的故事</span>
+          <span class="lang-en">Today I Want to Tell an Unfinished Story About Her</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年09月10日</span>
+          <span class="lang-en">Sep 10, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/xiedaner">
+          <span class="lang-zh">鞋带儿</span>
+          <span class="lang-en">Shoelaces</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月29日</span>
+          <span class="lang-en">Aug 29, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/rouruan">
+          <span class="lang-zh">柔软</span>
+          <span class="lang-en">Softness</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月25日</span>
+          <span class="lang-en">Aug 25, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/guanyin-mountain">
+          <span class="lang-zh">观音山</span>
+          <span class="lang-en">Buddha Mountain</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月25日</span>
+          <span class="lang-en">Aug 25, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/jiongmugongzuojiongshi">
+          <span class="lang-zh">囧木之工作囧事</span>
+          <span class="lang-en">Mumu's Awkward Stories at Work</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月13日</span>
+          <span class="lang-en">Aug 13, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/shi-nian-zong-ji-shi-nian-xin">
+          <span class="lang-zh">十年踪迹十年心</span>
+          <span class="lang-en">Ten Years of Footprints, Ten Years of Heart</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月09日</span>
+          <span class="lang-en">Aug 09, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/muyunduihua">
+          <span class="lang-zh">木云对话之胖子的好处</span>
+          <span class="lang-en">Mu-Yun Dialogue: The Advantages of Being Chubby</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月01日</span>
+          <span class="lang-en">Aug 01, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/transformer-3">
+          <span class="lang-zh">变三归来</span>
+          <span class="lang-en">Back from Watching Transformers 3</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年08月01日</span>
+          <span class="lang-en">Aug 01, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/weekend">
+          <span class="lang-zh">周末</span>
+          <span class="lang-en">Weekend</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年07月23日</span>
+          <span class="lang-en">Jul 23, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/first-sick-leave">
+          <span class="lang-zh">第一个病假</span>
+          <span class="lang-en">My First Sick Leave</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年07月17日</span>
+          <span class="lang-en">Jul 17, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/rain">
+          <span class="lang-zh">雨 打雷</span>
+          <span class="lang-en">Rain, Thunder</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年07月04日</span>
+          <span class="lang-en">Jul 04, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/rizi">
+          <span class="lang-zh">日子</span>
+          <span class="lang-en">Days</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年06月30日</span>
+          <span class="lang-en">Jun 30, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/weimingjinzhan">
+          <span class="lang-zh">毕业季的未名进站真懂我</span>
+          <span class="lang-en">Weiming Login Really Gets Me During Graduation Season</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年06月20日</span>
+          <span class="lang-en">Jun 20, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/fuqinjie">
+          <span class="lang-zh">父亲节</span>
+          <span class="lang-en">Father's Day</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年06月04日</span>
+          <span class="lang-en">Jun 04, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/dabianguilai">
+          <span class="lang-zh">答辩归来@2208</span>
+          <span class="lang-en">Back from My Thesis Defense @2208</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年05月25日</span>
+          <span class="lang-en">May 25, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/dong-xiao-shi-nian">
+          <span class="lang-zh">应宝宝要求多发几个高中时候的事情以纪念东校十年</span>
+          <span class="lang-en">At Baobao's Request: More High School Stories for the Tenth Anniversary of Dongxiao</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年05月21日</span>
+          <span class="lang-en">May 21, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/xiaohua">
+          <span class="lang-zh">陪伴囧木度过闭关论文日子里的几个真实的低笑点笑话（慎入）</span>
+          <span class="lang-en">A Few Real Low-Threshold Jokes from MuMu's Thesis Lockdown (Proceed with Caution)</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年04月20日</span>
+          <span class="lang-en">Apr 20, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/zhoumoxiaojie-yishu">
+          <span class="lang-zh">周末小结之关于艺术</span>
+          <span class="lang-en">Weekend Notes on Art</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年03月31日</span>
+          <span class="lang-en">Mar 31, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/shimian-meizha">
+          <span class="lang-zh">在一个失眠的夜晚想念美栅</span>
+          <span class="lang-en">Thinking of Meizha on a Sleepless Night</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年03月20日</span>
+          <span class="lang-en">Mar 20, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/chunyouguilai">
+          <span class="lang-zh">春游归来</span>
+          <span class="lang-en">Back from the Spring Outing</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年03月13日</span>
+          <span class="lang-en">Mar 13, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/kai-tian-chuang">
+          <span class="lang-zh">开天窗</span>
+          <span class="lang-en">Open the Skylight</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2011年02月12日</span>
+          <span class="lang-en">Feb 12, 2011</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/wo-zai-jia">
+          <span class="lang-zh">窝在家</span>
+          <span class="lang-en">Staying Home</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年10月03日</span>
+          <span class="lang-en">Oct 03, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/wodeshibaiyuweida">
+          <span class="lang-zh">我的失败与伟大</span>
+          <span class="lang-en">My Failures and Greatness</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年08月26日</span>
+          <span class="lang-en">Aug 26, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/wo-xiang">
+          <span class="lang-zh">我想</span>
+          <span class="lang-en">I Want</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年08月08日</span>
+          <span class="lang-en">Aug 08, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/wan-shuo">
+          <span class="lang-zh">万说</span>
+          <span class="lang-en">Wan Says</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年07月09日</span>
+          <span class="lang-en">Jul 09, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/chaobeijiaoshidefengzheng">
+          <span class="lang-zh">朝北教室的风筝zz</span>
+          <span class="lang-en">The Kite in the North-Facing Classroom</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年06月22日</span>
+          <span class="lang-en">Jun 22, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/shuang-yao-na-han">
+          <span class="lang-zh">爽要呐喊 不爽更要喊</span>
+          <span class="lang-en">Shout When Happy, Shout Even More When Not</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年05月03日</span>
+          <span class="lang-en">May 03, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/mayday-back">
+          <span class="lang-zh">MAYDAY归来</span>
+          <span class="lang-en">MAYDAY Returns</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年03月16日</span>
+          <span class="lang-en">Mar 16, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/sun-shuo">
+          <span class="lang-zh">SUN说</span>
+          <span class="lang-en">Sun Says</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年02月26日</span>
+          <span class="lang-en">Feb 26, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/guonian">
+          <span class="lang-zh">过年</span>
+          <span class="lang-en">Celebrating the New Year</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2010年01月31日</span>
+          <span class="lang-en">Jan 31, 2010</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/the-moment">
+          <span class="lang-zh">这一刻</span>
+          <span class="lang-en">This Moment</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年12月19日</span>
+          <span class="lang-en">Dec 19, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/lingxing">
+          <span class="lang-zh">灵性</span>
+          <span class="lang-en">Sensitivity</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年11月19日</span>
+          <span class="lang-en">Nov 19, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/liuxingyu">
+          <span class="lang-zh">关于流星雨</span>
+          <span class="lang-en">About Meteor Showers</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年10月30日</span>
+          <span class="lang-en">Oct 30, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-reading/musong">
+          <span class="lang-zh">关于目送</span>
+          <span class="lang-en">On Watching You Go</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年10月29日</span>
+          <span class="lang-en">Oct 29, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/1st">
+          <span class="lang-zh">1st</span>
+          <span class="lang-en">Firsts</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年04月24日</span>
+          <span class="lang-en">Apr 24, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/jinianri">
+          <span class="lang-zh">纪念日</span>
+          <span class="lang-en">Anniversary</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年04月23日</span>
+          <span class="lang-en">Apr 23, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/yijiagangqindeshijian">
+          <span class="lang-zh">一架钢琴的时间</span>
+          <span class="lang-en">A Piano's Worth of Time</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年01月17日</span>
+          <span class="lang-en">Jan 17, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/baozou">
+          <span class="lang-zh">暴走</span>
+          <span class="lang-en">A Long Walk</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2009年01月13日</span>
+          <span class="lang-en">Jan 13, 2009</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/dianzuxishi">
+          <span class="lang-zh">电阻西施</span>
+          <span class="lang-en">The Resistor Beauty</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2008年07月24日</span>
+          <span class="lang-en">Jul 24, 2008</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/6-yue">
+          <span class="lang-zh">6月</span>
+          <span class="lang-en">June</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2008年03月24日</span>
+          <span class="lang-en">Mar 24, 2008</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/huahuacaocaohuchenghe">
+          <span class="lang-zh">花花草草护城河</span>
+          <span class="lang-en">Flowers, Grass, and the Moat</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2008年03月01日</span>
+          <span class="lang-en">Mar 01, 2008</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/alishuo">
+          <span class="lang-zh">阿狸说</span>
+          <span class="lang-en">Ali Says</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2008年01月01日</span>
+          <span class="lang-en">Jan 01, 2008</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/hezijidedouzheng">
+          <span class="lang-zh">和自己斗争</span>
+          <span class="lang-en">Fighting with Myself</span>
+        </a>
+        
+      </li>
+    
+      <li>
+        <span class="post-date">
+          <span class="lang-zh">2007年12月03日</span>
+          <span class="lang-en">Dec 03, 2007</span>
+        </span>
+        <a class="post-link" href="http://127.0.0.1:4000/ruxu-life/guanyupushu">
+          <span class="lang-zh">关于朴树</span>
+          <span class="lang-en">About Pu Shu</span>
+        </a>
+        
+      </li>
+    
+  </ul>
 </div>
-    
-<footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url(http://ruxubooks.com/images/img2.jpg)" >
 
+  </div>
+</div>
 
-    <div class="inner">
-        <div class="container">
-
-            <ul class="social-icons">
-            
-            <li>
-                <a href="http://facebook.com/ruixin.xu2" data-toggle="tooltip" title="ruixinxu on Facebook" target="_blank">
-                    <i class="icon-facebook"></i>
-                </a>
-            </li>
-            
-            
-            <li>
-                <a href="https://www.linkedin.com/in/ruixinxu" data-toggle="tooltip" title="ruixinxu on LinkedIn" target="_blank">
-                    <i class="icon-linkedin"></i>
-                </a>
-            </li>
-            
-            
-            <li>
-                <a href="http://github.com/ruixinxu" data-toggle="tooltip" title="ruixinxu on Github" target="_blank">
-                    <i class="icon-github"></i>
-                </a>
-            </li>
-        </ul>
-            <div>
-                <a href="http://ruxubooks.com/ruixinxu/">ruixinxu</a> &copy; 2015 &bull; All rights reserved.
-            </div>
-            <ul class="menu-items">
-            
-            <li>
-                
-                    <a href="/"><i class="icon-home"></i></a>&nbsp;&bull;
-                 
-            </li>
-            
-            <li>
-                
-                    <a href="http://ruxubooks.com/categories">Categories</a>&nbsp;&bull;
-                 
-            </li>
-            
-            <li>
-                
-                    <a href="http://ruxubooks.com/tags">Tags</a>&nbsp;&bull;
-                 
-            </li>
-            
-            <li>
-                
-                    <a href="http://ruxubooks.com/ruixinxu">Ruixin who?</a>&nbsp;&bull;
-                 
-            </li>
-            
-            <!--<li><a href="http://ruxubooks.com/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>-->
-        </ul>
-        </div>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-col-1 column">
+      <ul>
+        <li>
+          <span class="lang-zh">如许阅读</span>
+          <span class="lang-en">Ruxu Reading</span>
+        </li>
+        <li><a href="mailto:ruxubooks@gmail.com">ruxubooks@gmail.com</a></li>
+      </ul>
     </div>
-    
-        <div class="decor-wrapper">
-            <svg id="footer-decor" class="decor top" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-
-                <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba(255,255,255, .1)"></path>
-                <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba(255,255,255, .1)"></path>
-
-                <path class="medium left" d="M0 0 L50 50 L0 66.6" fill="rgba(255,255,255, .3)"></path>
-                <path class="medium right" d="M100 0 L50 50 L100 66.6" fill="rgba(255,255,255, .3)"></path>
-
-                <path class="small left" d="M0 0 L50 50 L0 33.3" fill="rgba(255,255,255, .5)"></path>
-                <path class="small right" d="M100 0 L50 50 L100 33.3" fill="rgba(255,255,255, .5)"></path>
-
-                <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
-
-                <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
-
-            </svg>
-        </div>
-    
+    <div class="footer-col-2 column">
+      <ul>
+        <li><a href="https://github.com/ruixinxu">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/ruixinxu">LinkedIn</a></li>
+        <li><a href="https://facebook.com/ruixin.xu2">Facebook</a></li>
+      </ul>
+    </div>
+    <div class="footer-col-3 column">
+      <p class="text">
+        <span class="lang-zh">这里记录阅读、生活与旅行。</span>
+        <span class="lang-en">A small home for reading notes, life records, and travel stories.</span>
+      </p>
+    </div>
+  </div>
 </footer>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://ruxubooks.com/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://ruxubooks.com/assets/js/scripts.min.js"></script>
-<script type="text/javascript" src="http://ruxubooks.com/assets/js/waypoints.min.js"></script>
-<script type="text/javascript" src="http://ruxubooks.com/assets/js/script.js"></script>
-<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
-<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
-<script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
 
-<script type="text/javascript">
-
-/*      Slides       */
-
-$("a#slide").click(function(){
-    $("#sidebar,body,a#slide,#fade").addClass("slide")
-});
-
-$("#fade,#header,#posts-container").click(function(){
-    $("#sidebar,body,a#slide,#fade").removeClass("slide")
-});
-
-$("a#click-filter").click(function(){
-    $("#slide-filter").slideToggle("medium");
-    $("#slide-pages").slideOut("medium");
-});
-
-$("a#click-pages").click(function(){
-    $("#slide-pages").slideToggle("medium");
-    $("#slide-filter").slideOut("medium");
-});
-
-/*      End-Slides      */
-
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-39365944-7', 'auto');
+  ga('send', 'pageview');
 </script>
 
-
-<!-- Jekyll Simple Search option -->
 <script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : 'http://ruxubooks.com/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
+  (function () {
+    var root = document.documentElement;
+    var body = document.body;
+    var storageKey = 'ruxu-site-language';
+    var defaultLang = 'zh';
+    var siteTitle = {
+      zh: '如许阅读',
+      en: 'Ruxu Reading'
+    };
 
-  (function( $, window, undefined ) {
-    
-     var bs = {
-          close: $(".icon-remove-sign"),
-          searchform: $(".search-form"),
-          canvas: $("body"),
-          dothis: $('.dosearch')
-      };
-    
-    bs.dothis.on('click', function() {
-      $('.search-wrapper').css({ display: "block" });
-      bs.searchform.toggleClass('active');
-      bs.searchform.find('input').focus();
-      bs.canvas.toggleClass('search-overlay');
+    function updateMeta(selector, value) {
+      var node = document.querySelector(selector);
+      if (node && value) {
+        node.setAttribute('content', value);
+      }
+    }
+
+    function setLang(lang) {
+      var pageTitle = lang === 'en' ? (body.dataset.pageTitleEn || body.dataset.pageTitleZh || '') : (body.dataset.pageTitleZh || '');
+      var pageDescription = lang === 'en' ? (body.dataset.pageDescriptionEn || body.dataset.pageDescriptionZh || '') : (body.dataset.pageDescriptionZh || '');
+
+      root.setAttribute('data-lang', lang);
+      localStorage.setItem(storageKey, lang);
+
+      document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+        var active = button.getAttribute('data-set-lang') === lang;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+
+      if (pageTitle) {
+        document.title = pageTitle + ' – ' + siteTitle[lang];
+      } else {
+        document.title = siteTitle[lang];
+      }
+
+      updateMeta('meta[name="description"]', pageDescription);
+      updateMeta('meta[property="og:title"]', pageTitle || siteTitle[lang]);
+      updateMeta('meta[property="og:description"]', pageDescription);
+      updateMeta('meta[property="og:site_name"]', siteTitle[lang]);
+    }
+
+    document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+      button.addEventListener('click', function () {
+        setLang(button.getAttribute('data-set-lang'));
+      });
     });
-    
-      bs.close.on('click', function() {
-        $('.search-wrapper').removeAttr( 'style' );
-        bs.searchform.toggleClass('active');
-        bs.canvas.removeClass('search-overlay');
-    });
-  })( jQuery, window );
-</script>
 
-
-<!-- Asynchronous Google Analytics snippet -->
-<script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-39365944-7']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    setLang(localStorage.getItem(storageKey) || defaultLang);
   })();
 </script>
 
-  
+
 </body>
 </html>

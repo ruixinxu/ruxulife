@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "这一刻"
+title_en: "This Moment"
 date:   2010-01-30 16:49:54
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 回头看见自己
 
@@ -40,3 +43,33 @@ by: MuMu
 
 
 有你们真的很好。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Looking back, I see myself.
+
+The scenery all along this road.
+
+Me, overwhelmed with mixed feelings.
+
+At this time four years ago, I was cramming for exams, wiring circuits in the main building, and then running to the north gate with an experiment box in my arms for spicy hotpot. Back then I was absurdly fond of quail eggs and deeply annoyed that each skewer only had three, so I told Cong Haohao that if I had Doraemon I’d ask him to make me one with lots and lots of quail eggs on it... On my birthday that year, Cong Haohao really did get me a skewer with eighteen eggs on it. It remains the most unforgettable coming-of-age gift I’ve ever received.
+
+Three years ago was the crossing point of some strange cycle of endings and beginnings, and also the start of my vivid life. We muddled through a mediocre holiday and a chaotic, disastrous Beijing competition together on the third floor of the second teaching building, and I drew my first PCB with Sun—the infrared indoor positioning project that I am grateful for to this day. On my birthday that year, uncles and aunties suddenly appeared with Bubble Bear, which I think has closed down by now. There was Yun, Shuo, Xiao Huang, and silly me. I often think that if I had acted a little less foolishly, maybe things would have turned out differently.
+
+Two years ago at this time, after the chaos of the national competition and the noisy battle over graduate recommendations, everyone was in high spirits—some learning to drive, some changing tires. Before the main group went home, Yun, Qing, Da Huang, and I went on a long wandering walk around Houhai, and I personally verified that one brain teaser about falling into a five-meter pit in one second, to everyone’s amusement. That night, four of us sat in front of a cake we really couldn’t finish while waiting for the late Shuo, but what arrived instead was the mighty Inno army: Xiao Zhu, Biao Ge, Xiaohui, Aguo, Xianning, Xiao Yun, and Li JJ carrying a bath basket... Faced with that kind of scene, I simply had no words... My vanity and satisfaction shot through the roof...
+
+At this time last year, Ma and Yazi and the others had a hotpot gathering at my home, and I received greetings from the whole Ai Mu group. The lineup made little Cong in my family very envious.
+
+A while ago, Meizha summed up my 2009 theme as “exploration—struggle—fight—defeat.” After the frustration and discouragement, I gradually realized that many things were never what I first imagined them to be. Whenever things go badly, I miss No. 10 Xitucheng terribly. I miss those once-noisy years, when the innoers and I could almost do whatever we wanted. We made all kinds of strange and interesting things together, handled all sorts of messy odds and ends, and talked about every kind of person and event. Sometimes I regret leaving. If I had stayed, I could have tuned boards with Yun and run back to Innovation to screen films; gone to Q’s place for Little Turtle’s cooking; gone with Wan to A Fu’s rehearsal room at West Station to broaden my horizons; or gone with Meizha to watch Tiaozi play soccer and LJ do his Marseille turn... How wonderful it is to have a group of people messing around and being silly with you. When I went back in winter and saw Wan running around between the upstairs and downstairs dorms, and saw “Hong Hai Gui Q Wan Qing Fei” in Little Turtle’s “happiest birthday,” I was truly, truly envious... At the very beginning, Long Wen said, “Xu, Shuo, Bin, Yun, Huang, Qing, Sun, Le, Q—in a story like this, everyone can be the protagonist.” But a story is still just a story. No matter how beautiful, it still has to end.
+
+So when I saw a younger schoolmate write in her blog that “you have to see yourself as a young woman, not a girl,” I was deeply moved: “There are so many things that simply cannot be shared—the pressure of life, of school, of the future. You dig your own pit and bury yourself in it; there is no way to explain it to others. And even if you want to speak, and others want to help, there is no place for that help to begin. Mathane told us that we should think of ourselves as young women rather than girls, and that our hearts must be strong enough and firm enough to face all the sadness, trouble, disappointment, and helplessness in our lives, because we are already independent individuals. No one can help us, and there is no one we can rely on. Life is like this; it is not something you or I can control.”
+
+But when I received everyone’s “water-flow qi-and-blood circulation machine” on Thursday afternoon, when the long-unseen gang sat around together once again talking about the stories that belonged to us, when we shouted once more, “If one day we can return to glory again, remember to call for me, my good friend,” I understood that you had actually always been there. Shuo, who is always reminding me to exercise and protect every vertebra; Yun, who always messages me late at night on Q to remind me to sleep; Sun, who always gives me high-level guidance and encouragement; Meizha and Cong Haohao, who always let themselves be dragged over to serve as my emotional trash cans when I get tangled up; Qing, who never minds my terrible singing and still takes me along to sing 五月天 songs at KTV; little Q and Da Huang, who always answer when asked and are always reliably dependable; Wan, who is always reminding me to stay alert; caring Ding, who put a warm bouquet of sunflowers on my desk after I missed Xu Yeye’s flowers; Le Ke, who got up early during the Spring Festival travel rush to help me buy tickets; Zhao Nüren, who can cry with me in true sympathy when I’m heartbroken; my dorm girls, who help get hot water ready when I come back late... and also my boss, who is endlessly tolerant of me and keeps encouraging and pushing me; Teacher Geng, who gently pushes me along even though my basics are weak, I’m not hardworking enough, and I cost him so much energy; Senior Boxin, who discussed the future with lost me; Senior Yangxi, who patiently taught me program operations step by step by hand; Xuemin, who found endless bugs in my four lines of code; the 2208ers who accompanied me through one tragic day after another; the Nanning group, along with zw and Ding core, who strongly recommended Shuimu to me; and Shuiping and Feng’er, who helped me through a credit card crisis... It is all of you who have made my steps steadier in the face of the unknown. All of this lives in the bottom of my heart, and one day, when no one is left to sing with me, it will gather into that place that will never collapse.
+
+It is truly wonderful to have all of you.
+
+</div>
