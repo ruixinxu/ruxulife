@@ -10,7 +10,7 @@ image:
   feature: bobreading.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/bobreading.jpg" alt="关于我" itemprop="image" class="post-avatar img-circle img-responsive">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bobreading.jpg" alt="关于我" itemprop="image" class="post-avatar img-circle img-responsive">
   <!--<figcaption>Ruixin Xu</figcaption>-->
 </figure>
 
