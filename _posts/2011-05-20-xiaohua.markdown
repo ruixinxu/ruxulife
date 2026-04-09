@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "陪伴囧木度过闭关论文日子里的几个真实的低笑点笑话（慎入）"
+title_en: "A Few Real Low-Threshold Jokes from MuMu's Thesis Lockdown (Proceed with Caution)"
 date:   2011-05-20 22:07:11
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by : MuMu
+
+<div class="lang-zh" markdown="1">
 
 1.
 董大夫给GR把脉，完了说她该运动
@@ -99,3 +102,100 @@ p.s.：我给众人讲这个事情，惊奇的发现众人居然都不记得了�
 5.
 
 有个人吃过各种奇怪的东西，比如长颈鹿肉，因为TA亲戚是动物园长。。。是动物园长。。。动物园长。。。（可怜了我最爱的长颈鹿。。。）
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+1.
+Doctor Dong felt GR’s pulse, and afterwards said she needed exercise.
+
+GR: I hate exercise the most.
+
+Doctor D: Even so, you still have to move!
+
+GR: I hate exercise the most!!
+
+Doctor D: Even so, you still have to move!!
+
+GR: I hate exercise the most!!!
+
+Doctor D: Even so, you still have to move!!!
+
+...
+
+GR: I just can’t think of a single sport I like.
+
+Doctor D: Rolling around on the bed should be okay, right #@#
+
+GR’s eyes lit up: That kind of exercise I like～
+
+p.s.: Then Mu silently became wildly excited just thinking about the big bed in Furong where I’d be able to roll around however I wanted...
+
+2.
+
+mu: Then what do I like doing?
+
+wan: Acting dumb.
+
+mu: What else?
+
+wan: Being lazy.
+
+mu: What else?
+
+wan: Being sick in the head.
+
+...
+
+3.
+
+One morning I got up early to work on my thesis, half-dazed, and my phone keypad wasn’t locked. A little after seven, Huoxing called...
+
+Huoxing: What’s wrong?
+
+mu: Ah... what do you mean, what’s wrong?
+
+Huoxing: Why were you calling me?
+
+mu: Ah... I didn’t...
+
+Huoxing: Get lost! You called several times!!! You woke all of us up so early!
+
+mu: Uh... maybe the keypad wasn’t locked and it dialed by mistake...
+
+Huoxing: Get lost!
+
+mu: Ah... sorry... I didn’t mean it... it was an accident...
+
+Huoxing: Get lost!
+
+mu: I really didn’t do it on purpose. I didn’t even know the keypad wasn’t locked...
+
+Huoxing: Get lost!
+
+mu: Uh... okay... then I’ll get lost...
+
+Huoxing: bye-bye
+
+And then the call was decisively hung up... -_-!!!!
+
+4.
+
+Last week Liqi came back and everyone reminisced together.
+
+At one point we asked a male waiter to help take a group photo because there were too many people to fit, and he said very seriously, “Please all squeeze together a little!” So everyone squeezed together a little...
+
+Ten years ago classmate Liqi drew a jar in a notebook.
+
+Then he said to himself, “This is an antique. It’s round, and it looks a lot like a pear. It’s called DYL, hahaha～”
+
+p.s.: I told this story to everybody and was shocked to discover that no one remembered it anymore!!! So if anyone still remembers it, please come out and testify...
+
+5.
+
+There is a person who has eaten all kinds of strange things, such as giraffe meat, because that person’s relative is a zoo director... a zoo director... a zoo director... (my beloved giraffes, poor things...)
+
+</div>

@@ -2,13 +2,21 @@
 layout: home
 title: 如许读书
 description: "问渠哪得清如许 唯有源头活水来"
+title_en: Ruxu Reading
+description_en: "Reading notes, life fragments, and travel journals."
 ---
 <div class="home">
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</span>
-        <a class="post-link" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+        <span class="post-date">
+          <span class="lang-zh">{{ post.date | date: "%Y年%m月%d日" }}</span>
+          <span class="lang-en">{{ post.date | date: "%b %d, %Y" }}</span>
+        </span>
+        <a class="post-link" href="{{ site.url }}{{ post.url }}">
+          <span class="lang-zh">{{ post.title_zh | default: post.title }}</span>
+          <span class="lang-en">{{ post.title_en | default: post.title }}</span>
+        </a>
         {% if post.description %}
         <br>
         {{ post.description }}

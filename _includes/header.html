@@ -1,6 +1,9 @@
 <header class="site-header">
   <div class="wrap">
-    <a class="site-title" href="{{ site.url }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.url }}/">
+      <span class="lang-zh">如许阅读</span>
+      <span class="lang-en">Ruxu Reading</span>
+    </a>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -10,9 +13,22 @@
         </svg>
       </a>
       <div class="trigger">
-        <a class="page-link" href="{{ site.url }}/categories">Categories</a>
-        <a class="page-link" href="{{ site.url }}/tags">Tags</a>
-        <a class="page-link" href="{{ site.url }}/ruixinxu">About</a>
+        <a class="page-link" href="{{ site.url }}/categories">
+          <span class="lang-zh">分类</span>
+          <span class="lang-en">Categories</span>
+        </a>
+        <a class="page-link" href="{{ site.url }}/tags">
+          <span class="lang-zh">标签</span>
+          <span class="lang-en">Tags</span>
+        </a>
+        <a class="page-link" href="{{ site.url }}/ruixinxu">
+          <span class="lang-zh">关于我</span>
+          <span class="lang-en">About Me</span>
+        </a>
+      </div>
+      <div class="language-switch" aria-label="Language switch">
+        <button type="button" class="lang-switch is-active" data-set-lang="zh">中</button>
+        <button type="button" class="lang-switch" data-set-lang="en">EN</button>
       </div>
     </nav>
   </div>

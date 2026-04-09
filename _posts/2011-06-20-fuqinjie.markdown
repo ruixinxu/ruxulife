@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "父亲节"
+title_en: "Father's Day"
 date:   2011-06-20 01:47:22
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 "I know who I am."
 
@@ -76,3 +79,78 @@ zz（http://blog.sina.com.cn/s/blog_4b90b8bd0100gwb7.html）
 今天是他的生日，我想告诉他：
 
 爸，我长大了，可你依然不老。我爱你，也希望你能安之若素地享用这份爱。请给我最长的时间和最多的机会吧。 
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+"I know who I am."
+
+"really?"
+
+"I'm your son, I love you, dad."
+
+...
+
+It wasn’t until Po said those words to his goose father that Cong Haohao and I suddenly realized that today was Father’s Day!! No wonder there were suddenly so many men with children all around us. -_-!!! I called my own dad; he said he’d call back after he finished his work, but I never did get that return call...
+
+Unable to sleep in the middle of the night, I got up and flipped through _A Muslim Funeral_, reading how Han Ziqi, whenever facing his daughter, could only speak “vague words with no real substance, yet those empty phrases could never express the old father’s heart, already crushed to pieces!” Yes—fatherly love is wordless. I often feel that the painstaking love of parents is hard for young children to fully understand. Only when we grow old and look back do we regret how “too clever” we once were...
+
+At the end, let me post an essay about fathers written by Ma Ning. It is intimate and moving, and I feel it deeply. I’m posting it here in remembrance, and also, by the way, hoping I can sleep in a little later tomorrow...
+zz（http://blog.sina.com.cn/s/blog_4b90b8bd0100gwb7.html）
+
+When I was young, I often felt he was too harsh. To borrow an internet phrase, “Everyone else in the world gives you approving looks, but he alone gives you the side-eye.”
+
+He never encouraged me, rarely affirmed me. At best, his evaluation was a noncommittal “Mm.”
+
+When I signed up for the city’s student host competition, he struck before I had even set out: “What can you even do? Don’t go make a fool of yourself!”
+
+When I won a national prize in an essay contest, while everyone else congratulated me, he poured cold water on it: “What did you even write that they’d give you a recommendation opportunity?”
+
+Even when I kept solving riddles one after another at the Lantern Festival and everyone praised me for being quick-witted, he still refused to agree: “A little cleverness—why not use it on studying!”
+
+So all these years, I studied hard, planned my life carefully, and perfectionistically wanted to do every single thing well, all just to win one word of approval from this man. It was so rare that to me it became something precious enough to pursue tirelessly.
+
+Then one day, he read a commentary article I had written in the opinion section of the city newspaper and specially texted me: “My child’s article is very good.” I was more delighted than I would have been by praise from any expert or scholar.
+
+After I started working, he often encouraged me by text: “My child is quite capable, but must pay attention to health.” “My child has worked hard; don’t forget to balance labor and rest.” Yes, he often called me “my son,” but not because he preferred boys. It was because for all these years he had always wanted to shape me as if I were a boy—he told me to be independent, self-respecting, strong, upright, responsible, and accountable. And he himself was exactly that kind of man.
+
+It was also only after I had started working that my mother quietly told me one day: your father doesn’t like praising you, not because he thinks you’re not good, but because he fears that if your path is too smooth and you hear too much praise, you will lose yourself. He said he was willing to be the one who always played the strict role.
+
+The moment I heard that, tears instantly gathered in my eyes. Looking back, his painstaking intention was not without reason. He set up a bar for me that was impossibly high. In my desperate leap to reach it, even though I never managed to make him smile, I had already come to meet the ordinary standards of this society.
+
+Looking back over the road I’ve walked, his love was delicate yet wordless.
+
+Every time we stood in a mall together and I had to choose between two pieces of clothing I liked, he would say, “Take both.” In a certain sense, a daughter should be raised with abundance, so that when she grows up she will not lose her soul to material temptation.
+
+During the Spring Festival of my second year of graduate school, the man I thought I would definitely marry ended our relationship with an overseas email. My father said, “Daughter, your hair has grown out. I’ll go get it trimmed with you.”
+
+When friends from my undergraduate and master’s years came with me to visit my hometown, he always hosted them with extraordinary warmth, and they all said to me, “Your dad is wonderful. You can tell he really loves you.”
+
+To love someone deeply and yet still keep a stern face, pretending severity in order to warn her—only a father can give that kind of profound love.
+
+As I gradually grew up, he began to depend on me.
+
+For example, every time I came home on vacation, he would pull me aside and keep talking to me;
+
+for example, he loved showing off to colleagues the things I bought for him;
+
+for example, he liked enlarging family photos of the three of us and hanging them in a prominent place in the living room;
+
+for example, he began carefully collecting and organizing newspapers and magazines that carried my articles;
+
+...
+
+And then one day, I noticed a trace of loss in his eyes. After thinking it over again and again, I finally understood why—I had grown up, started working, earned a salary higher than his, and no longer asked him for things. Though he was happy when I bought him things, the sense of accomplishment he had as a father had nowhere to go.
+
+So I quietly changed my strategy. When shopping with him, I would deliberately beg him to buy me a two-yuan candied haw skewer. As New Year approached, I would ask him for the latest mobile phone, and then turn around and give my mother a thick red envelope to pass on to him. When buying clothes, I would seriously listen to his opinions...
+
+After several such rounds, his happiness came back.
+
+Today is his birthday, and I want to tell him:
+
+Dad, I’ve grown up, but you are still not old. I love you, and I hope you can receive this love calmly and naturally. Please give me the longest time and the most chances.
+
+</div>

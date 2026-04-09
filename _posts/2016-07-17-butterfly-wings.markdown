@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Butterfly's Wings"
+title_zh: "蝴蝶的翅膀"
 date:   2016-07-17 22:22:22
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,7 @@ share: true
 ---
 by: Mumu
 
+<div class="lang-en" markdown="1">
 
 Around two weeks ago, ruxubooks ([@facebook](https://www.facebook.com/ruxubooks/), [@meetup](http://www.meetup.com/Ruxubooks-%E5%A6%82%E8%AE%B8%E9%98%85%E8%AF%BB/)) held one book exchange meetup event in Singapore. As the first step to my **"book dream"**, it was far away from perfect. Even so, I am still proud of myself and full of gratitude for him and her who gave me inspiration and encouragement along the way.
 
@@ -66,3 +68,67 @@ For fresh water comes from the source.
 wèi yǒu yuántóu huó shuǐ lái.
 为有源头活水来。
 ```
+
+</div>
+
+<div class="lang-zh" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+大约两周前，ruxubooks（[@facebook](https://www.facebook.com/ruxubooks/), [@meetup](http://www.meetup.com/Ruxubooks-%E5%A6%82%E8%AE%B8%E9%98%85%E8%AF%BB/)）在新加坡办了一场换书 meetup 活动。作为我 **“书之梦”** 的第一步，它离完美还差得很远。即便如此，我依然为自己感到骄傲，也很感激一路上那些给过我灵感和鼓励的他和她。
+
+我一直在问自己：“我的 **‘书之梦’** 到底是什么？”老实说，我现在还不知道答案。最初的动力来自我终极的人生理想：如果一辈子只能做一件事，我想做妈妈，因为那可能是我能给这个世界带来的最大影响。无论有意还是无意，父母对我们的影响几乎都无法避免。
+
+然而，每个父母都有自己的局限：他们可能因为自己的成长经历而对某一类人抱有很深的偏见；他们可能无法带孩子走遍世界，去看这个世界有多么丰富和美妙；他们的人生观也可能已经过时，不再适用于新时代，等等。阅读恰恰是最容易帮助我们突破父母局限、唤醒孩子潜力的方式之一。作为一种正在消失的物种，我真心相信，阅读纸质书、感受它的重量、质地和气味、在页边写下注释的体验，是电子书无法替代的。（历史上有人为了甲骨书和纸书打过架吗？？？）
+
+到这里，我的 **“书之梦”** 大概可以描述成：*“让纸质书里的美与智慧跨越代际地流动和传播。”* 只是……这依然没有勾勒出一个足够清晰的图景。而且我还有太多不往前走的借口：我平时已经很忙了，我需要一份全职工作来付账单，我没有出版行业的人脉，也没有相关经验……所以这么多年，它一直都在，却几乎没有真正向前推进过。
+
+两年前，Sun 在西雅图海边给我看过一个小本子，上面记满了他创业过程中所有一闪而过的点子。*“我已经写满两个本子了。”* 他这样对我说。也是在那一天，从海边回 Bellevue 的路上，我认真想了想自己的 **“书之梦”**，并想出了这个名字[1]。几个月后，我注册了域名 [ruxubooks.com](ruxubooks.com)，也开通了微信公众号。去年搬到新加坡以后，我启用了网站 [ruxubooks.com](ruxubooks.com)，原本想把它做成一个书评网站，结果最后还是把它当成了个人博客，去年只发过一篇文章。
+
+今年六月初，张淼把北京“书岛”的创始人介绍给了我。他是个理想主义者，创办 *“书岛”* 是为了让人通过书彼此连接。他说：*“岛上没有书。岛民带来自己的书，彼此交换，然后离开……这像是一本书的旅程。不管你的阅读趣味多么古怪，总会有另一个和你相似的人，希望你们能在书岛上相遇……”* 让我特别激动、特别受鼓舞的是，原来真的有人在做和我梦想如此相近的事情。虽然我完全没有经验，但我还是想试一试。
+
+面对新的挑战时，我通常是担心多过兴奋。我和 Adelina 聊过这件事，她观察说这在女性身上很常见，因为女孩从小就被教育要“礼貌”“有条理”“完美”……然而，我们其实应该被鼓励去犯更多错误，接受不完美，在不断尝试和练习中变得更好、更强。五月初，她邀请我参加她组织的 SAAS PM meetup，这也成了我学习如何在新加坡组织一场 meetup 的机会。
+
+在筹备第一次 ruxubooks（[@facebook](https://www.facebook.com/ruxubooks/), [@meetup](http://www.meetup.com/Ruxubooks-%E5%A6%82%E8%AE%B8%E9%98%85%E8%AF%BB/)）活动的过程中，我收获了很多支持和惊喜。瑾瑜、刘博和世成陪我一间一间逛书店选场地，*woods the books* 那位好心的店员还告诉我哪家书店可以租场地。师长当了 MC 兼摄影师，在我紧张得不行的时候，一边和我保持眼神交流，一边拍下了很多值得纪念的照片。还有“圈内人”在 thefinder.com 的这篇文章里提到了我们：[7 ways to pass your used books to other readers in Singapore](http://www.thefinder.com.sg/whats-hot/things-do/7-ways-pass-your-used-books-other-readers-singapore)。一位曾经组织过读书会的人也参加了活动，还送给我一封真正的纸质信，写了整整两页建议和 tips。最美的时刻，是 Yulu 朗读纪伯伦的诗 *“On joy and sorrow”*。我能从每个人脸上看到那种平静和被触动的感觉——而那正是我希望通过 ruxubooks（[@facebook](https://www.facebook.com/ruxubooks/), [@meetup](http://www.meetup.com/Ruxubooks-%E5%A6%82%E8%AE%B8%E9%98%85%E8%AF%BB/)）传递出去的东西。
+
+2016 年 7 月 2 日，是我来到新加坡一周年的日子。这场换书活动，是我送给自己的一份周年礼物。我兴奋得晚上都睡不着，觉得自己的书之梦已经近在咫尺，好像马上就能抵达。最近我还听说，大阪有一家书店在同一天关门了。经营那家书店七十年的 94 岁老人，也恰好在那天离世。人生总是充满不确定，我甚至怀疑是否真的会有一个更好的明天。与其只是做梦、画出一张设计精良的蓝图，我更愿意不断扇动自己的蝴蝶翅膀，看看未来究竟会掀起怎样的龙卷风。
+
+在 2016 年 10 月之前，我还会再办两场换书 meetup。欢迎关注我们的 [@facebook](https://www.facebook.com/ruxubooks/) 或 [@meetup](http://www.meetup.com/Ruxubooks-%E5%A6%82%E8%AE%B8%E9%98%85%E8%AF%BB/)，获取最新动态。如果你也是热爱阅读、愿意分享阅读热情的人，非常欢迎给我写信：[ruxubooks@gmail.com](mailto:ruxubooks@gmail.com)。
+
+```
+[1]. "ruxubooks":
+
+  - “ruxu” 取自朱熹八百多年前写的《观书有感》。半亩方塘可以看作读书的隐喻。它不是一潭死水，因为总有新鲜活水不断流入。诗的最后两句经常被引用，用来说明如果一个人能有足够开阔的心胸去包容和接纳不同的观念，就能拥有源源不断的新思想。
+
+  - “ruxu” 也是我第一份工作时用的 alias（唯一 id） :)
+
+
+The Book
+观书有感
+ɡuān shū yǒu ɡǎn
+
+
+Zhu Xi
+朱熹（宋）
+Zhū Xī （Sònɡ）
+
+There lies a glassy oblong pool,
+Bàn mǔ fānɡ tánɡ yí jiàn kāi,
+半亩方塘一鉴开，
+
+
+Where light and shade pursue their course.
+tiān ɡuānɡ yún yǐnɡ ɡònɡ páihuái.
+天光云影共徘徊。
+
+
+How could it be so clear and cool?
+Wèn qú nǎ dé qīnɡ rúxǔ,
+问渠哪得清如许,
+
+For fresh water comes from the source.
+wèi yǒu yuántóu huó shuǐ lái.
+为有源头活水来。
+```
+
+</div>

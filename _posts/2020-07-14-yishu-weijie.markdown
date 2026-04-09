@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "艺术的慰藉"
+title_en: "Art as Therapy"
 date:   2020-07-14 14:30:01
 categories: ruxu-reading
 tags: [ruxu-reading]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 月初有朋友发给我“小木屋”——一个租借纸质书的小程序。从“漫游鲸”，“多抓鱼”到“小木屋”，看着别人在做自己想做的事情，真是眼巴巴地羡慕。可是光羡慕又有啥用呢？还是得要行动起来呀！业务一时开展不起来至少可以先写写自己最近读的书。
 
@@ -45,3 +48,49 @@ by: mumu
 嫉妒通常被贴上负面的标签，然而如果深挖一下，弄清楚产生嫉妒的具体是哪些特质，嫉妒的对象反而会变成学习的榜样和自我成长的抓手。
 
 艺术能够向平凡人生中难以捉摸的真实价值致敬。能够教导我们以更加公正的态度看待自己，让我们知道在既有的处境中已经尽了全力认真生活，从事着自己不一定热爱的工作，面对着中年的种种问题，解决着雄心壮志未能实现的挫折感，努力对我们心爱但烦躁易怒的配偶保持忠诚。相较于媒体以光鲜靓丽的方式呈现一般人难以企及的事物，艺术的效果恰恰相反；艺术能够让我们重新看见自己被迫接受的人生当中所存在的实际优点。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+At the beginning of the month, a friend sent me “Little Cabin,” a mini-program for borrowing printed books. From “Roaming Whale” and “Duozhuayu” to “Little Cabin,” watching other people build the things I have always wanted to build fills me with helpless envy. But what good is envy by itself? At some point you still have to act. Even if the actual business cannot get off the ground yet, I can at least start by writing about the books I’ve been reading recently.
+
+## Art as Therapy
+
+One of the pleasures of reading is encountering resonance—“Wow, this person thinks exactly what I was thinking!” Even more delightful is seeing how an author handles a question and feeling illuminated: “So it can be done like this too!” This book is full of that kind of pleasant surprise.
+
+This year has been hard. The pandemic restricted movement, and the problems that used to be avoided or softened by outside distractions suddenly had nowhere to hide. Negative emotions often arrived without warning: loneliness, anxiety, fear, tension. Reading _Art as Therapy_ at such a moment felt like getting a massage for the soul. How do we relieve negative emotions? How do we face burnout at work? How do we handle conflict in intimate relationships? How do we deal with ambitions that outstrip our actual abilities? How do we balance short-term interests with long-term ones? How do we face the end of life? In the author’s telling, art is no longer lofty and remote. It is woven into daily life at every moment, offering small consolations for all the little troubles of living.
+
+<figure>
+<a href="{{ site.url }}/images/yishuweijie.jpg"><img src="{{ site.url }}/images/yishuweijie.jpg"></a>
+</figure>
+
+“Art is therapeutic. The point of drawing near to art is to help us live better lives and become better versions of ourselves. If art has such power, it is because art, as a tool, can correct or compensate for our various psychological deficiencies:
+
+1. Our forgetfulness. We often forget what is truly important, and we fail to hold on to experiences that matter but pass by quickly.
+2. Our tendency to lose hope. We are overly sensitive to the negative side of life. We often miss rightful chances for success simply because we cannot see why something is worth continuing.
+3. Our tendency to feel isolated and persecuted, because we hold unrealistic ideas about how much difficulty a person should have to bear. We panic too easily and misjudge the meaning of our problems. We are lonely—not because we have no one to talk to, but because the people around us are unable to understand our suffering with honesty and patience. Part of the problem lies in how our pain appears—whether it comes from a fractured relationship, jealousy of others, or frustrated ambition, it often looks petty and shameful. We suffer, and then we feel our suffering lacks dignity.
+4. Our lack of balance, and our inability to see our best sides. We are not just one person but many selves, and some of those selves are better than others. Our better selves often appear only by accident, and too late; even in our noblest aspirations, weakness of will follows us.
+5. Our difficulty in understanding ourselves. We remain mysterious even to ourselves, and therefore cannot explain who we are to others or win their affection for the reasons we ourselves find most meaningful.
+6. Our rejection of many experiences, peoples, places, and eras that might have offered us important gains, simply because on the surface they seem uncongenial and fail to resonate. Our judgment is shallow and full of prejudice. We become defensive and too quickly label things as “foreign.”
+7. Our numbness through familiarity, combined with living in a commercial world obsessed with brightness and novelty. As a result, we often grow dissatisfied with ordinary, repetitive life and worry that we are missing the “real” one.
+
+The purpose and value of art, then, is to offer seven corresponding forms of help:
+
+1. To correct the defects of memory: art can make the fruit of experience unforgettable and keep presenting it again in fresh forms.
+2. To spread hope: art lets us keep seeing things that are delightful and heartening because it knows how easily we fall into despair.
+3. To present sorrow with dignity: art reminds us that sorrow has a legitimate place in a good life, so we are less likely to panic in the face of difficulty and more able to regard hardship as part of a noble life.
+4. To help us regain balance: art embodies our better qualities with unusual clarity and places them before us through different media, helping us rebalance our nature and draw out our best potential.
+5. To guide us toward self-knowledge: art helps us identify things that are centrally important to us but difficult to put into words. Much of human nature cannot be described in language. We may pick up a work of art and say, in a puzzled but serious way: ‘This is me.’
+6. To expand our experience: art is the accumulated result of other people’s experience, rendered with extraordinary refinement and presented in beautiful, ordered forms. Through art we encounter vivid examples from other cultures, and by approaching artworks we enlarge our sense of ourselves and of the world. At first, most works seem merely ‘strange,’ but gradually we discover that they contain ideas and attitudes we can absorb and make part of ourselves. Not everything we need for self-improvement is already at hand within our own lives.
+7. To wake our numb hearts: art strips away our shell and pulls us out of the swamp of habit, so we stop overlooking everything around us. With the help of art, we recover our sensitivity and can see old things with new eyes; we no longer assume that only novelty and glamour can rescue us from numbness.”  
+
+To appreciate a painting is not only to appreciate its subject, composition, light, or shadow; it is also to discover beauty and learn love through the eyes and guidance of its creator. In works of art we notice forms of natural beauty we once overlooked, and remember everyday beauty we had forgotten. The process of appreciating art also makes us more patient, more attentive to detail, and more curious—and all of that makes us better lovers. Art also reminds us through scenes of sorrow and suffering that hardship and frustration are normal parts of life; the road to happiness is full of thorns. What we need is not only the wisdom to keep reflecting and adjusting, but above all a grateful heart.
+
+Jealousy is usually given a negative label. But if you dig more deeply and figure out exactly which qualities provoke jealousy, the object of jealousy can instead become a model to learn from and a handle for self-growth.
+
+Art pays tribute to the elusive but genuine value hidden inside ordinary life. It teaches us to judge ourselves more fairly and to recognize that, within the circumstances already given to us, we have indeed been living seriously and doing our best—working at jobs we may not even love, dealing with all the troubles of middle age, facing the frustration of ambitions left unrealized, and trying to remain faithful to spouses we love but who can also be irritable and difficult. Compared with media, which packages unattainable things in bright and glamorous ways, art does the exact opposite: it helps us see again the actual merits in the life we have been forced to accept.
+
+</div>

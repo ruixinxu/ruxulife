@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "历史的教训"
+title_en: "The Lessons of History"
 date:   2020-09-02 17:28:00
 categories: ruxu-reading
 tags: [ruxu-reading]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 杜兰特夫妇的《历史的教训》是一本对人类历史的哲学思考。作者出版过许多文明史相关的书籍，这本薄薄的小书是他们的思想的精华综述，涉及范围非常广，从生物学，地理，宗教，道德和战争等角度来谈历史。
 
@@ -36,3 +39,37 @@ by: mumu
 <figure>
 <a href="{{ site.url }}/images/dior.jpg"><img src="{{ site.url }}/images/qwl.jpg"></a>
 </figure>
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+_The Lessons of History_ by Will and Ariel Durant is a philosophical reflection on human history. The Durants published many books on the history of civilization, and this slim volume feels like a distilled summary of their thinking. Its scope is surprisingly wide, moving through biology, geography, religion, morality, and war.
+
+<figure>
+<a href="{{ site.url }}/images/dior.jpg"><img src="{{ site.url }}/images/lishidejiaoxun-3.jpg" height="600"></a>
+</figure>
+
+There are many fresh ideas in the book—the kind that probably only come from throwing oneself wholeheartedly into a subject and thinking about it for a very long time.
+
+> Geography is the womb of history: it nourishes history, restrains history. Its rivers, lakes, oases, and seas draw migrants to their shores, for water is the lifeblood of organisms and towns, and offers cheap transport for trade.
+
+> The first lesson of biology is that life is competition. War is a nation's way of eating. Cooperation among states happens only because war is the ultimate form of competition. Unless our separate nations become one large and effective protective group, they will continue to behave toward one another as individuals and families did in the hunting stage.
+
+> “Nature” laughs at our dream of combining freedom and equality. Freedom and equality are eternal enemies: when one prevails, the other dies. Once people gain freedom, natural inequalities among them tend to grow almost geometrically. To prevent the growth of inequality, one must sacrifice freedom.
+
+> Moral codes constantly adjust themselves to historical and environmental conditions. Ferocity, brutality, greed, and lust were great advantages during the hunting stage of the struggle for survival. It is quite possible that every vice condemned today was once regarded as a virtue—a quality that enabled an individual, family, or group to survive. New institutions demand new virtues, and old virtues are recast as sins. Thus diligence becomes more important than ferocity, discipline and thrift more valuable than force, and peace more useful than war.
+
+> Marx was an unfaithful disciple of Hegel: he interpreted Hegelian dialectics as a struggle between capitalism and socialism that would end in the secure victory of socialism. But if Hegel's formula of thesis, antithesis, and synthesis is applied to history, then the Industrial Revolution is the thesis, capitalism versus socialism is the antithesis, and the next stage should be a synthesis of both. Fear of capitalism forces socialism to expand freedom; fear of socialism forces capitalism to increase equality. East is West and West is East—these twins will soon meet again.
+
+When I watch Yale’s introductory lectures on NetEase, I can feel the instructors’ enormous passion for what they teach even through a screen. After all, they are talking about the work of their lives, so the lectures come out naturally; there is no need to “memorize” them. One elderly professor teaching music looked to be in his seventies or eighties, came with six CDs for the course, and still received letters from former students years after graduation asking for replacements after losing them. Anyone who had taken the class seemed to enjoy a kind of “lifetime after-sales service.”
+
+This August I saw the obituary of Professor Qu Wanling, who passed away at seventy-five. That means when she taught us algorithms more than ten years ago, she was already sixty-five. Every class was filled with four whole blackboards of handwritten derivations—never PowerPoint, always formulas worked out on the spot, as if they were simply built into her mind. I was deeply moved even then. Later I saw someone post an email from her about online teaching. Even in her seventies, while battling cancer, she was still curious about new forms of online classes, humble in tone and never using age as an excuse. The focus and devotion these elders bring to their work always inspire me.
+
+<figure>
+<a href="{{ site.url }}/images/dior.jpg"><img src="{{ site.url }}/images/qwl.jpg"></a>
+</figure>
+
+</div>

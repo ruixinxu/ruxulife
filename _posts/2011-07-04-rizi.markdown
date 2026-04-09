@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "日子"
+title_en: "Days"
 date:   2011-07-04 14:01:57
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 用抽屉锁住自己的秘密
 
@@ -33,3 +36,35 @@ by: MuMu
 当窗帘隔绝了星海的喧嚣
 
 灯下翻开褪色的照片和字迹
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Lock your secrets away in a drawer
+
+Leave notes in the margins of books you love
+
+Drop a letter into the mailbox, then stand there silently for a while
+
+Study the passersby in the wind, without any restraint
+
+Notice the neon-lit shop windows flickering
+
+Slip a coin into a phone booth
+
+Ask the old man fishing under the bridge for a cigarette
+
+The ship on the river sounds its hollow whistle
+
+Before the dim dressing mirror at the theater entrance
+
+Gaze at yourself through the smoke
+
+When the curtains shut out the noise of the sea of stars
+
+Under the lamp, open the faded photographs and handwriting
+
+</div>

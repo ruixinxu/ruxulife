@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "6月"
+title_en: "June"
 date:   2008-07-23 23:42:51
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 "好吧~
 套用某名人的某名言的句式
@@ -84,3 +87,85 @@ by: MuMu
 29号，上班儿
 
 30号，继续上班儿，我琢磨着，这个6月就这么过去了啊
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+"Alright then~
+To borrow the sentence pattern of some famous quote by some famous person:
+Memory is like sunflower seed shells. The kernels get eaten into each person’s mouth, and each person knows the taste for themselves. What’s left on the ground is only a heap of empty shells for others to mourn over~~~
+But there’s no way to avoid the cliché. I still want to record these seed shells, so that when I want to remember, I’ll have something to remember from~
+June—this was a busy June~"
+
+—from the Cosmic Deity
+
+On the train home I watched the welcome video from our 2004 enrollment. In it were Father’s back, the familiar faces of senior brothers and sisters, and Da Huang, the very first freshman welcomed onto the Changping campus by “Heaven does not fail those who put in the effort.” When the words “Long live the first-years” flashed across the screen, I still wanted to cry, just as I had the first time I saw it four years earlier...
+
+That morning the TV was broadcasting a graduation special, again reminding me how quickly four years had flown by. The many flavors inside that span are something I can hardly sum up in a sentence, and many, many of them are still continuing—they did not end just because people left. If things are not yet over, how can I possibly have understood them clearly?
+
+I just want to write about that final month—June of 2008...
+
+On the 1st, Children’s Day, we had the first breakup dinner at Hanli Xuan. We ate and drank, and then they still wanted to drink more, while we sat off to the side. Out of nowhere, some random little freshman brother rushed into the room to offer melon to our dorm head and performed a whole string of over-the-top actions, saying he had lost a game and come to carry out a dare. Then everyone wanted to drag him into drinking. Under Mei Zha’s intimidation, the poor kid even reported his class, name, and all sorts of details... That was probably the most colorful thing that happened during the meal (we truly are not children who like peace and quiet). After eating, we continued with _One Song_. Everyone sang “Defeat Gargamel,” and the drunk kids fought over the microphone and went wild. Around eleven we got up to leave. The moment we stepped out of the private room, our dorm head collapsed into a heap, completely limp—this was the first time MuMu had ever seen a truly limp person in real life. Everyone crowded around, offering suggestions: “Carry her back and let her rest,” “Get some yogurt to help sober her up.” After resting for a while with no improvement, we decided to head back first. Classmate Su stepped forward, scooped her up, and just went—so fierce! Downstairs, qs drove us back beneath Building 11. The dorm auntie on duty that day was especially nice and let us rest in the duty room. By then it was almost midnight. After a long rest she was still not better, so we decided to go to the hospital and contacted the boys, only to discover they still hadn’t left either... We rushed to the Third Hospital overnight. A blood test said it was hypokalemic periodic paralysis and that potassium had to be replenished immediately. By the time all the potassium was done and everything finished, it was almost four in the morning. Throughout it all, Cong Haohao, Mei Zha, LL, Xiao Xin, Tiao, Su, and qs all stayed with us, giving massages and doing all sorts of things. MuMu even compared whose belly was softer with Xiao Xin so Zhao Girl could use one of us as a pillow -_-!! Then we turned back to school. She and LL stayed in the duty room, and the rest of us all went back to our own places...
+
+On the 2nd, I didn’t get up until noon. I went downstairs to the duty room and found there still wasn’t much improvement, so we ran back to the hospital. At noon, traffic outside the Third Hospital was badly jammed. I got out early and ran ahead to rent a stretcher, only to discover my wallet was gone—though I clearly still had it in the car... My wallet was lost, along with all my IDs and all my cards... I was panicking, because if the documents were gone it meant I might not be able to take the exam on the 7th, and the months of preparation would have been wasted. Since everyone else and our dorm head were staying there, I came back to handle paperwork: first to the bank to transfer out the balance from my passbook, then to the school to get proof of enrollment, then to Student Affairs for one document, Security for another, then to Household Registration to borrow my household card and take it to the Beitaipingzhuang police station to apply for an ID. There they told me the new ID would take two months, and a temporary ID would require going to Hangtian Bridge... So MuMu sprinted to Hangtian Bridge with Wan beside me, o(∩_∩)o... Thankfully everything still went fairly smoothly... By the end of the afternoon most of the paperwork was done, and I was exhausted too...
+
+On the 3rd, I finished reporting all the lost cards and filed the police report... It seems I also made a floor bed for our dorm head? Set up a little table so she could sit there and use the internet. It looked very tempting...
+
+On the 4th, I think Dad came to Beijing.
+
+On the 5th, I think I was in Room 512 on the fifth floor when Cong Haohao called to say that someone had returned some of my cards. They were wrapped in draft paper. The story was that some old gentleman had found them outside the Third Hospital, and on the draft paper he had written the categories and quantities of the cards. Everything except my student ID and postal savings card had been returned...
+
+On the 6th, I think Sun lx called me over for a talking-to in the morning—the last one—and turned over a lot of old accounts... Then I went to visit Zhao Girl... In the afternoon I went to Beihang to look at the exam room and felt that Beihang’s hardware strength was indeed relatively strong.
+
+On the 7th, the exam. I somehow ended up sitting in the very first row right under the teacher’s nose. I had been fantasizing about peeking across districts, and all of that collapsed. I still had no idea what the class reversal question was, but the math went relatively smoothly... In the evening was the graduation gala. Tiao Zi and classmate Su sang “Leaving Song,” and Little Silly Fish was still very emotional... Grass fragrant, green reaching the sky... Fly onward without worry... Four years. We really were about to leave...
+
+On the 8th, 04608’s class day! Everyone handed out zongzi and posted online. In the evening we played Werewolf at Bifengtang. Truth or dare got pretty wild, whether it was “Beijing Welcomes You” or “Workers’ wages must not be delayed”... It was pretty lively.
+
+On the 9th, I started throwing myself into my graduation project, finally really getting to work on it... In the evening there was another breakup dinner, this time at De Zhuang. Cong Haohao drank against 16, and 16 lost, then went around kissing everyone in their dorm one by one... Xiao Wen was even cooperative enough to kiss back, which made us very happy...
+
+On the 10th, writing the thesis. Took graduation group photos: the school’s, the big class’s, and the small class’s...
+
+On the 11th, writing the thesis.
+
+On the 12th, writing the thesis. I sent the paper to zhg and got criticized, with the demand that I delete the matrix-operations chapter I had painstakingly edited! Took graduation-gown photos too, with all kinds of poses, all kinds of looks, all kinds of shamelessness. In the afternoon came the physical exam, very perfunctory, very perfunctory...
+
+On the 13th, I took the thesis to Old Wang for review and was shocked to discover the defense committee list: Zhang Huimin, Li Daoben, and Soft-Transmission-Gai! Grandfather Ruan made a surprise appearance, so I immediately decided to delete all those matrix transformations! After shortening it, I took it to PKU to get xc’s signature. He was extremely, extremely, extremely busy. He only signed his name and told me he was very busy, that after the 19th he might have time to deal with these things of mine—but MuMu was defending on the 17th! After getting the signature I rushed back to school and submitted the first draft to Academic Affairs that afternoon. The graduation project was half done... In the evening I pulled an all-nighter and went singing. Classmate Xiao Wen sings really well.
+
+On the 14th, I started making the defense PPT, though more of my time was actually spent taking photos and doing experiments... That evening there was another breakup dinner at Ya Hongdu. Brother Chen came, and Master came too. I drank with Master and cried with my head against his. Master will always be my Master. All along MuMu has been absolutely steadfast in supporting you, but I never had enough courage—or enough opportunity—to get to know the other versions of you. How should I put it? The Master who exists in my heart will always be that original perfect Master... Yet MuMu has always been avoiding the perhaps real reality, and maybe the more three-dimensional Master with many sides would be even more charming, who knows? o(∩_∩)o... But MuMu was still trapped in the cocoon I spun for myself... Brother Chen made a toast, Su made a toast, and after only a few words people were already done for. Tiao Zi collapsed on a stool crying, Mei Zha’s eyes were red, De’er Wei hugged Dan around the waist and cried, and Cong Haohao hid far away...
+
+On the 15th, preparing the defense PPT.
+
+On the 16th, more PPT. Sun and I went to inspect the terrain. With his superhuman powers of observation, Sun visually estimated the distance between the screen and podium in Room 3-205, then decided to get a wireless mouse. But none of the wireless mice we found were capable enough, so with his extraordinary intelligence and incredibly rich practical experience, Sun used a hub and an adapter to connect an extra-long USB extension cable himself...
+
+On the 17th, graduation defense. Afternoon. Room 3-205. In these four college years, I suppose I finally got to have some interaction with the grandfather-level figures of the School of Information, and MuMu was quite excited. I was second. Went up and talked, then came the questions. Grandpa Ruan asked me what scale space was and said I had used the concept of scale space. I said I knew how to calculate it but... Grandpa Ruan prompted me: “You used scale-space extrema—what kind of thing talks about extrema?” I suddenly realized: a function? Grandpa Ruan said, “Exactly, a function!” Then Grandpa Zhang asked, “So you did image stitching? What’s the largest number of photos you can stitch?” I said it wasn’t related to the number. Grandpa Zhang asked again, “Then what is the biggest image size you can stitch?” I said it wasn’t related to size either. I think that teacher was about to collapse... But he still persisted and asked, “How did you do this convolution?” I said, “Using MATLAB.” Grandpa Zhang made an “oh” sound and didn’t ask much more. Thinking back now, that answer was really asking to be hit... And just like that, it was over. After the defense MuMu got high.
+
+On the 18th, Brother Chen bg’d in the evening... I think I was in the dorm watching something like _Tokyo Love Story_...
+
+On the 19th, Teacher Sun treated us to dinner. We collected all kinds of information about graduation trips...
+
+On the 20th, I bought a ticket for the 21st to Beidaihe, contacted the family in Liuzhuang, and prepared to head over on the 21st.
+
+On the 21st, in the morning Cong Haohao and I went to buy matching shoes... In the afternoon we set off by bus for Beidaihe. The graduation trip had begun. After settling in, we were about to go eat dinner. We had just reached the alley entrance when someone behind us shouted “Xu.” We turned around and it was classmates from Class Three! I saw Shuo, Xiao Le, and Quan. It turned out they were living right in front of us. The world really is small, really small... After dinner we ran to the beach and saw the sea at night—nothing but a black mass... On the way back they bought water guns and acted like children.
+
+On the 22nd, we went to Shanhaiguan and Old Dragon’s Head. We came back early in the afternoon and everyone went into the sea. In the evening, Cong Haohao and I rode a tandem bike with Class Seven’s Huahua, Jiang Dingding, and Wang Xi for a little spin around Olympic Park. Only later did I learn that Mei Zha and the others had ridden along the seaside and found a patch of extremely fine sand, where a whole group of them played drop-the-handkerchief and drew a crowd...
+
+On the 23rd, the original plan had been to go out to sea in the morning and spend the day sand-sliding in Nandaihe... But the weather would not cooperate. It started raining in the middle of the night... In the morning we stayed indoors playing Werewolf, and in the middle came all sorts of dares. MuMu stood in the courtyard singing, classmate Xiao Wen offered up a cn-on-male kiss, Cong Haohao and Tiao Zi had to say “hh,” and Xiao Xin even got punished and had to run inside... In the afternoon the rain stopped. Everyone was too restless to stay in and went out for air. Everyone wanted to go into the sea, and when we reached the shore the waves were huge. Very few people were in the water, but we still went in, and wow, going into the sea when the waves are big is awesome, truly awesome! Except that at the beginning it was hard to keep our footing... Once you got into it, it was really high~ Xiao Chun + MuMu + De’er Wei + Bei Bei, the four of us made a circle together and rose and fell with the waves. That was the most exhilarating thing in MuMu’s entire graduation trip! In the evening we rode tandem bikes again. When it was time to switch bikes, a sudden rainstorm broke out, and we hid from the rain in a food stall. Cong Haohao treated me and 16 to noodles, o(∩_∩)o... Hot and steaming—so nice.
+
+On the 24th, a hasty ending, with some small happiness and some regrets. In the morning we rushed back to Beijing... In the afternoon there was already a pile of procedures waiting: stamps to get, certificates to collect... In the evening Xiao Wan and I went to Gui’s place to freeload food and cards, and met gentle Zhan gg... o(∩_∩)o...
+
+On the 25th, the graduation ceremony. The new president said our life’s derivative should be greater than zero. I asked Cong Haohao what that meant, and she said it meant we should keep moving upward and making progress every day. At that moment I felt Chairman Mao was truly great~
+
+On the 26th, started work.
+
+On the 27th, people started leaving one after another. Jiang Dingding left, crying terribly. Hua, Wang Xi, and our dorm head went to see her off, and apparently everyone else in the soft-sleeper compartment couldn’t stand it and moved away. I moved house and stored all my stuff at Le Ke’s place... Our dorm head left too, and Cong Haohao and I became holdouts.
+
+On the 28th, Mei Zha moved in the morning. I saw Cong Haohao onto the train. The moment she got on, the train was already about to leave, and MuMu hadn’t even had time to be sentimental... At noon the dorm head contacted me and said Old Bu’s parents had arrived and were inviting everyone to Bu’s place for dinner. In the evening we marched over in force. Bu, Xie, and Li’s home in Wangjing became our very first gathering point after graduation. There we saw De’er Wei, 16, Xiao Wen, mc, and our dorm head...
+
+On the 29th, went to work.
+
+On the 30th, kept going to work, and I found myself thinking: so this June has really passed just like that.
+
+</div>

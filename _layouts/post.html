@@ -1,18 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html data-lang="zh">
 <head>
 {% include head.html %}
 </head>
-<body>
+<body data-page-title-zh="{{ page.title_zh | default: page.title | escape }}" data-page-title-en="{{ page.title_en | default: page.title | escape }}" data-page-description-zh="{{ page.description_zh | default: page.description | default: site.description | strip_html | escape }}" data-page-description-en="{{ page.description_en | default: page.description | default: site.description | strip_html | escape }}">
 {% include header.html %}
 
 <div class="page-content">
   <div class="wrap">
     <article class="post">
       <header class="post-header">
-        <h1>{{ page.title }}</h1>
+        <h1>
+          <span class="lang-zh">{{ page.title_zh | default: page.title }}</span>
+          <span class="lang-en">{{ page.title_en | default: page.title }}</span>
+        </h1>
         <p class="meta">
-          {{ page.date | date: "%Y年%m月%d日" }}
+          <span class="lang-zh">{{ page.date | date: "%Y年%m月%d日" }}</span>
+          <span class="lang-en">{{ page.date | date: "%b %d, %Y" }}</span>
           {% if page.categories.size > 0 %}
             · {% for cat in page.categories %}<a href="{{ site.url }}/categories/index.html#{{ cat }}">{{ cat | capitalize }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
           {% endif %}
@@ -22,7 +26,9 @@
             {% else %}
               {% assign readtime = page.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
             {% endif %}
-            · {% if readtime > 1.5 %}{{ readtime | round }} min read{% elsif readtime > 1 %}1 min read{% else %}< 1 min read{% endif %}
+            ·
+            <span class="lang-zh">{% if readtime > 1.5 %}{{ readtime | round }} 分钟阅读{% elsif readtime > 1 %}1 分钟阅读{% else %}少于 1 分钟{% endif %}</span>
+            <span class="lang-en">{% if readtime > 1.5 %}{{ readtime | round }} min read{% elsif readtime > 1 %}1 min read{% else %}&lt; 1 min read{% endif %}</span>
           {% endif %}
         </p>
       </header>
@@ -34,7 +40,9 @@
       {% assign tagsize = page.tags.size %}
       {% if tagsize != 0 %}
       <div class="post-tags">
-        Tags: {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+        <span class="lang-zh">标签：</span>
+        <span class="lang-en">Tags:</span>
+        {% for tag in page.tags %}<a href="{{ site.url }}/tags/index.html#{{ tag | cgi_encode }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
       </div>
       {% endif %}
 

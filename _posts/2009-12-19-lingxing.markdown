@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "灵性"
+title_en: "Sensitivity"
 date:   2009-12-19 01:06:44
 categories: ruxu-reading
 tags: [ruxu-reading]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 动物有灵性，且彼此不同，世界才会变得如此奇妙，这话说得太大，本木总被某些童鞋耻笑一直龟缩在自己的弹丸之地毫无“世界眼光”。 
 
@@ -26,3 +29,27 @@ by: MuMu
 结论是，人是需要同类的。本木一直觉得自己对数字很有感觉（尽管复杂的算法和PDE总让我很抓狂），所以网名取做一串数字，听说有个“π协会”是做平面设计的，被问到为什么取这个名字，答曰：希望我们的设计灵感如同π一样无限不循环的一直进行下去。恩，说的真好。
 
 p.s.: 按农历算本木跟纳兰兄还是同一天的生日！小激动下
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Animals have spirit, and each one’s spirit is different; that is what makes the world so wondrous. Maybe that’s saying too much. Certain classmates always laugh at MuMu for staying curled up in my own tiny corner of the world with no “global vision.”
+
+Some post-80s female writer was praised by the Chinese teacher I fantasized about as writing with “the tension of dewdrops on lotus leaves in Daming Lake.” So I once tried all kinds of ways to collect gossip about her. After unremitting effort, I dug up some fossil-level old radio recordings of hers, and was deeply struck by how people like that could have such delicate and profound feelings toward words that looked dry and plain to me. She could see dependence and love inside the character “珏.” That must be her sensitivity.
+
+Likewise, thousands of years ago Nalan Rongruo and Lady Lu discussed which Chinese character was the saddest.
+
+She said it was “若” — “Whenever the character ‘若’ appears, it is because one has already become powerless before some person or some circumstance. This word is the self-deception of the disappointed. It either places happiness in a decayed, dying, vanished past, or hopes for a future that is unfathomable and suspicious in shape. When reality can no longer be salvaged, any action is wasted; one can only realize longing in language. But no matter how airtight your words may seem in terms of linguistic logic, reality always proves in ways that exceed logic just how cruel it is.”
+
+If life could only be as it was at first sight.
+
+If there were no regrets, one would never need to say “if”; and yet no matter how many “ifs” one says, regret remains unavoidable. That is so well put. I first became interested in Nalan Rongruo because of that beautiful name. The more I read, the more I feel it is only a glimpse of his gorgeous inner world. If I could travel back to Houhai and listen to them talk, I’d probably be like Penny in _The Big Bang Theory_ listening to Sheldon and the others doing their knowledge contests... Classical culture is really vast. It makes me want even more to become a librarian... sigh.
+
+The conclusion is that people need their own kind. MuMu has always felt I have a good feel for numbers (even though complicated algorithms and PDEs always drive me crazy), so my screen name became a string of numbers. I heard there’s a “Pi Society” that does graphic design, and when they were asked why they chose that name, they answered: “We hope our design inspiration can keep going on like π—infinitely and without repetition.” Mm, that’s beautifully said.
+
+p.s.: By the lunar calendar, Nalan and I even have the same birthday! A tiny burst of excitement.
+
+</div>

@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "MAYDAY归来"
+title_en: "MAYDAY Returns"
 date:   2010-05-03 01:55:05
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 By: MuMu
+
+<div class="lang-zh" markdown="1">
 
 队伍从三个人增到五个人外加某不靠谱万 依旧溜到能力范围的最佳位置从头high到尾 第一次目睹疯狂歌迷与小白的血淋淋斗争 第一次跟陌生女人手拉手唱笑忘歌 坐在傍边一直叫嚣被挡住看不到的大叔们也被我们深深感染
 
@@ -25,3 +28,25 @@ By: MuMu
 
 
 下一次的mayday，又会是谁与我同行呢？
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Our group grew from three people to five plus one unreliable Wan. We still managed to slip into the best spot within our abilities and stayed hyped from beginning to end. It was my first time seeing the bloody battle between crazed fans and clueless newcomers, my first time holding hands with a strange woman while singing _Laugh and Forget the Song_, and even the uncles beside us who kept shouting that they couldn’t see because they were blocked got thoroughly infected by our energy.
+
+The full-crowd a cappella during the verse of _Stubborn_ was amazing. During a gap Wan said, “Mu, _Stubborn_!” and it reminded me of his introduction before _Stubborn_ at our graduation party, which went something like this: “I have a friend who especially loves Mayday. I asked ta which Mayday songs ta liked best, and ta said _Sun Wukong_, _Embrace_, and _Stubborn_...” Back then poor Mu even proudly showed off to Jing Ge: “I’m that friend who likes Mayday~” and he gave me such an envious look that I was filled with pride. One day last summer Wan texted me, “When _Stubborn_ started playing downstairs, I thought of last year’s me, and of the you from back then...” It instantly made me feel the weight of time. The day before yesterday Wan, from the perspective of a professional, analyzed for poor music-idiot Mu how some Mayday songs have very distinctive structures: “For example, the verse of _The Place in My Heart That Has Yet to Collapse_ is in five beats, and then the chorus turns into six.” Music fool Mu could only stare in a daze...
+
+When _Tenderness_ started, all the lights in the venue went out, and the whole place filled with gorgeous blue glow sticks—it was stunning. Then during the encore came _Suddenly Missing You_. Wan said that every time he hears it, he suddenly misses me... but every time I hear it, I think of classmate 16, who once hurt me deeply with that very same song...
+
+Every time the “daladala” part of _Sun Wukong_ comes on, I think of little class monitor. After the Capital Gym show last year, we were still under Baishiqiao Bridge shouting, “If one day we can return to glory again, remember to call for me, my good friend,” and then we met gentle and thoughtful Xiao Huang, who specially took a taxi to pick up bupter and also brought a beautiful bag for Yanyan from poor Mu, who was heading to Nanning the next day. Then there was the 30th at the start of the year, when everyone did a Mayday special: starting with two rounds of _Sun Wukong_, and then Yun singing _Embrace_—such a pure voice. When she sang “when life has a kind of absoluteness,” Yun kept asking me beside her, “Qiang, what is the absoluteness of life?” I said I didn’t know either. So embarrassing.
+
+After the show, noisy Ding and reliable Hong insisted on browsing all kinds of little trinkets even at the risk of missing the subway, which directly led to the tragic ending of a death march. Walk, death march, death march of sorrow. It turns out even people without flat feet can get exhausted from walking. We ran from Sanlitun Village to North East Third Ring, past the Italian embassy, and failed again and again to get a taxi. Along the way, chatty Ding kept mooning over her dream of marrying Chen Xinhong and then making him sing a tender version of _Lian Ai ING_ to her.... Finally, just when repeated disappointment was about to become despair, we caught a taxi. As it had only just started speeding along the Third Ring at midnight, a striking sign flashed by on our right: the famous Heaven and Earth. Everyone sighed that this truly was the corrupt entertainment core of the imperial capital~
+
+Chaotic. In summary, day by day we’re gradually getting older, and it’s probably not quite right to keep bouncing around wildly like young people forever. But there are still things worth throwing your passion into—like MAYDAY, like ANN, like life. Even if MAYDAY will never know I exist... even if ANN may never work... even if life is full of helplessness and powerlessness... anyway, that’s just how it is. At least I know I tried.
+
+Next time Mayday comes around, who will be with me?
+
+</div>

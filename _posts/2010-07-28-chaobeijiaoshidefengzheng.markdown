@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "朝北教室的风筝zz"
+title_en: "The Kite in the North-Facing Classroom"
 date:   2010-07-08 18:40:58
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 By: others
+
+<div class="lang-zh" markdown="1">
 
 “你知道这忧郁是从哪里来的么”
 
@@ -77,3 +80,79 @@ By: others
 我是一个贪玩又自由的风筝/每天都会让你担忧/如果有一天迷失风雨中/如何回到你身边/因为我知道你是个容易担心的孩子/所以我在飞翔的时候却也不敢飞得太远…… 
 
 我没有办法写出故事的结局。因为我哪里知道最后会是怎样。但是在我小心翼翼的想象中，微笑的日子总会真正来到的吧？我和毛毛他们早就说好了，要是那一天我们都等到了，那么我们一定快快活活地再喝一次黄酒，拼命地唱：啦啦啦，啦啦啦，我是快活的小行家……
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+“Do you know where this melancholy comes from?”
+
+“It’s because of coding.”
+
+... ...
+
+“What’s wrong with you?”
+
+“I can’t code.”
+
+... ...
+
+“I want to give up.”
+
+“If you give up, then how will you graduate?”
+
+
+_The Kite in the North-Facing Classroom_  
+By Mei Sifan
+
+Am I already very old? Adults point at me and tell their children, “Call her auntie!” I’m so embarrassed that I don’t dare answer, because I’m only a high school student. Dad says it’s because there is melancholy in my eyes. I say, Dad, do you know where this melancholy comes from? Dad says, it’s because of math. Dad really does know me. I believe there can’t be many fathers in the world who love their daughters more than mine does. But I also believe there can’t be many like him who would make his daughter even more melancholy because of math. It fills the memories of my whole life. Last night he did it again. He flung my failing test paper into the air and it flew about.
+
+Just then Huang Xiaojun called. She had been my classmate in music kindergarten. She played violin, I played piano, and we spent three years of music together in that white foreign-style house on Guangyuan Road. She said she had read the piece I wrote called _Music Classmates_ and excitedly showed it to her classmates at the Shanghai Conservatory middle school, saying, “This was written by my classmate!” I said, “Really?”
+
+At that moment I was crying. She said, “What’s wrong?” “I’m bad at math.” “Eh? Haven’t you always been bad at math? What’s so strange about that!” But she didn’t know that at that very moment my test paper was being flung about like a kite. She never cried. When we were little, her father made a steel brace for her hand so it wouldn’t bend while she practiced violin, and she still didn’t cry. He even locked up the television and hid the key in a steel pot, and she would go search for it everywhere and watch cartoons before he got home from work. In our last kindergarten year she told me, “Do you know what I did last night? I threw my violin strings out the window and told my dad I wasn’t playing anymore!” From that moment on I admired Huang Xiaojun. She dared to throw the strings out the window. But later she still played beautifully and got into the conservatory middle school.
+
+After Dad’s outburst he went out for a walk. He wasn’t really going for a walk; he was using that as a way to restrain himself. He knew that if he didn’t go out, his anger would only rise to a greater climax. As he left he said, “Sorry, my attitude was bad again. I’m going out to walk for a bit.” Mom sat there in a daze. Mom is beautiful and timid. When things happen, she has no firm opinion. She lost her father as a girl and her mother as a young woman, like a lonely bird flying to Dad’s side. As long as the family is cheerful, she becomes extraordinarily, extraordinarily content, as though she has found a forest to fly in. But I just happen to be bad at math.
+
+I sat down beside Mom and leaned against her. I’m not a girl who is good at showing love on my face. In my heart I depend on my parents so much, yet I can’t say a single word of it aloud. Is this what growing up looks like? And yet other girls, even as they grow up, still remain as sweet as in childhood. On my parents’ birthdays, I carefully choose a card, but then I put it in the mailbox downstairs, because I feel too embarrassed to let Mom and Dad read those affectionate daughterly wishes to their faces.
+
+Mom said softly, “Fanfan, how did you fail math again?” “I want to give up.” “If you give up, then how will you get into college?” Yes, that’s exactly why. I’ve wanted to give up countless times, but until now I still haven’t. I even go to the education institute on Sundays for math tutoring. Maomao goes too. She is the sort of genius girl who can paint and whose math, physics, and chemistry grades are always the best in the year, but she also has tutoring. She signed up late and got a seat far in the back, so she pleaded bitterly with the teacher to let her sit in front, saying, “I’m short—how can I see from the back?” The teacher found her irresistibly adorable and “flexibly” solved the problem for her. She said in the sweetest way possible, “Thank you, teacher, thank you, teacher.”
+
+In truth, there wasn’t much obvious improvement. But spending Sundays this way makes people feel more at ease, and my parents smile more too. The teacher still lectures on problems like these: among thirty-five products sampled by a municipal inspection bureau, twenty-five are found to be fake; if three are chosen at random from the thirty-five, in how many ways can at least two of them be fake? Five boys and two girls stand in a line, one particular boy must stand in the middle, and the two girls must stand behind the boys—how many arrangements are there?... These are the kinds of problems I’ve done one hundred or two hundred times. I clearly feel I’ve understood them, but once I sit down to take a test, all memory, all lines of thought, all logic vanish, and what remains is a score of forty-seven. But I really don’t think I have a wooden brain. My way of thinking simply belongs elsewhere. In literature, for example. I can not only chat with you about things like _Pippi Longstocking_ or _Maleev_; I can also talk about _The Lover_ and Günter Grass. Can people who are good at math and science all read _The Lover_ smoothly? Well, I read it smoothly long ago. I can even recite passages from it. For example, the meeting of the girl and the man on the Mekong ferry. The girl leaves on the mail boat. The shore grows farther away, and the long black limousine. At that moment the narration shifts into the third person. She knows he is looking at her. She is looking at him too; she can no longer really see him, but she watches that black car speeding away. At last even the car disappears. The harbor disappears, and then the land as well. Or that phone call he makes to her in Paris many years later while accompanying his woman. I cry when I read these things. That’s why I love Duras. I can talk about film and theater too. I even directed _Waiting for Godot_ in class once. I simply made one adaptation and interpreted Godot as “no exams.” But how could there be no exams? How then could Godot ever arrive? In the end Estragon and Vladimir had no choice but to hang themselves with a belt. When Estragon hanged himself he shouted, “My death is unjust!” He Zhong played Estragon... So must I really become that skilled at solving things like the number of ways to choose at least two fake goods out of three? Maomao can handle that, while I would rather eagerly analyze the New Wave film _The Last Metro_. I lent _The Last Metro_ to Maomao, and she said it made her want to strangle herself. I said, then I won’t lend you _Rashomon_, or you’ll want to strangle yourself even more. He Zhong cried out from the side, “Don’t watch it, don’t watch it—what kind of rubbish is that!” I said, “You’re the rubbish!”
+
+But the teachers don’t agree. The formal rules for getting into college don’t agree. So Dad flings my papers till they fly like kites.
+
+No matter how many pieces I write and publish, it’s no use. Some teachers always say in the office, “She’s bad at math.” They even say it to my classmates’ parents on the phone: “She’s bad at math.” Li Sizhe told me last week that they said it just like that. What they mean is that Li Sizhe shouldn’t always be with me. Li Sizhe said, “Should math teachers ignore language teachers?” The two of us burst out laughing. Actually, in that moment I wanted to cry. I was especially touched that Li Sizhe would say something like that.
+
+I like Lei Bo—our principal. He has a doctorate, so we all call him Lei Bo. He has never offered me anything but encouragement. He noticed when I published pieces in magazines, when I hosted at Love Radio, even when I wrote short reviews for a TV journal. Whenever he saw me, from far away he would lift his thumb and say, “Wonderful!” Then he would come over, pat me, and ask, “Are you in a good mood? Make use of your strengths.”
+
+How could I be unhappy at a moment like that? Hearing such encouragement could make me happy for an entire day. Dad said that having someone like Lei Bo as a teacher or as a father is a blessing.
+
+And in my heart I say, having a father like you is a blessing too. Dad flung my papers into the air and even slapped me that one time, but I can’t blame him. If he didn’t love me, he wouldn’t be like this. That’s why when he listens to Chen Sheng’s _Kite_, he quietly sheds tears.
+
+Because I know you are a child who worries easily / so I place the string in your hand yet still dare not fly too far / no matter how I soar into the clouds, I hope you can still see me / and even if I occasionally get playful and lose my way, I know you are waiting for me...
+
+My face was swollen. That day I didn’t go to school, and I was preparing not to go home that night either.
+
+I wandered the streets with my schoolbag on my back. Inside were _Math: One Lesson One Exercise_, _Synchronized Math Practice_, and a thick _Five-Star Question Bank_... I didn’t dare throw them away. I could only carry them and walk slowly. I’ve been carrying them and walking like this ever since I was little, walking so many roads. I didn’t know where to go. I didn’t have much money and couldn’t waste it, or what would I do next? So at lunchtime I wandered around the food court in circles and in the end didn’t even seem to sit down to eat a plate of Shanghai fried noodles or seafood macaroni. Sadly I thought, I’m about to become homeless. At the JESSICA corn stand outside Daqian Food Forest, I bought a roasted corn and made that my lunch. The noon sunlight was beautiful, but inside me there was not the slightest brightness, not the slightest joy. I held that golden, fragrant roasted corn and bit into it on the street. I never eat while walking in public; I think it looks terrible. But now I was a drifter. I came to that white foreign-style house and stood across the road looking at it. What a tiny little girl she had been, always with enormously wide eyes. Every day, so early, her mother would pull her onto bus 43, the mother-and-baby route, and say, “Practice well today, or the big bad wolf will come tonight.” She already knew the big bad wolf was fake, so there was no melancholy in those very wide eyes. But now there was. Now none of it was fake anymore. If you’re bad at math, then you really won’t get into college—at least not a good one. Dad’s hair turned white because of this. Beautiful Mom has grown much more worn as well, yet every morning she still washes an apple, wraps it in a plastic bag, and stuffs it into my schoolbag, saying, “Don’t forget to eat it.” How many adults and how many children, because of math and college, have gone white-haired and haggard in times like these. A few days ago, while we were eating lunch, even Maomao, who excels in every subject, suddenly started crying. She said she really didn’t want to study anymore, exam after exam after exam, with no energy left. Maomao actually cried so hard that I was stunned speechless. Li Sizhe also suddenly whispered to me that she was preparing to go to United Airlines and stop fighting for college altogether; she really couldn’t keep reading. Her spoken English is especially, especially good, and even her math ranks near the top in the liberal arts class. Tell me—what is happening?
+
+That day I still went home. It was so cold outside. It was snowing. I always complained that winters in Shanghai weren’t cold enough—that you never saw gray plaid wool scarves, never saw snow—but when I had become a homeless girl, then it started to fall. I held my schoolbag against my chest to keep warmer. Dad always told me from childhood not to let my chest get cold or I’d get sick. I wanted to go on walking like that, without direction, until I froze to death on the road. The next morning, lots of people would see the dead girl and say, come look, this little girl’s schoolbag is full of math books, and there’s even a failing math paper in it—ah, she died because of math. By the time I got home it was already midnight. Mom cried and hugged me. I cried and hugged Mom too. If I didn’t study, what else could I do? If I didn’t come home, where else could I go? Dad stroked my head: “It’s Dad’s fault...” I leaned against his shoulder. “I’m sorry, Dad. I’m the one who didn’t learn math well.”
+
+That night Mom and I slept together, while Dad sat in the living room until dawn. I told Mom I hadn’t eaten the apple today because I couldn’t bear to. Mom burst into tears.
+
+When I hosted my radio program, I told this story. It was a show every secondary school student in Shanghai knew. We called it _Sunshine Train_. But when I told this story, there was only melancholy and sorrow. At the end I asked Chen Jie, who was responsible for the program, “Is this okay?” She said, “I cried.”
+
+We are all children who love learning, and getting into key middle schools proves that much. What we fear is this kind of method of studying and testing. Who knows how it might ruin us? And if we are ruined, then what are we supposed to do?
+
+The social-study trip in our second year of high school was the high point of joy in our entire middle-school era. It was as if we had never played before, and as if we wanted to spend in advance all the ease we would lose in the future. We played cards on the bus so noisily that we nearly got into a fight. We sat by West Lake with green tea that cost three yuan a cup and soaked in the warm late-autumn sunshine. At Xianheng Tavern we ate fennel beans and drank yellow wine, and learned what dead drunk really meant. Maomao couldn’t even walk properly anymore, and He Zhong sang at the top of his lungs, “La la la, la la la, I’m the happy little newspaper boy.” At lunch on the last day, in a small restaurant in Jiaxing town, Li Dong suddenly shouted while eating, “Let me be a farmer here—I never want to go back!” The bus drove toward Shanghai, and rows of poplar trees flew past. The boys counted the kilometer markers outside the window, and the closer we got, the more alarmed and dim everyone felt. Tomorrow we would hear the midterm exam scores again. The curtain was about to fall on the last joy of high school. The seniors who had already graduated all said senior year meant cloudy skies every day. In the end He Zhong uttered the most literary sentence of his life: “Our days have arrived.”
+
+Senior year was spent fighting away every day in north-facing classrooms. That made everything worse. On one floor there were six classrooms; the four south-facing ones were given to the science classes, while the two north-facing ones went to the history class and the politics class. In winter, girls brought little hot-water bags and went to the boiler room on the first floor to fill them. The boys filled the insulated bucket on the second floor and made Nestlé coffee, which warmed you and sharpened you up. Why were all the south-facing classrooms given to the science classes, while the liberal-arts classes only deserved to shiver on the north side without sunlight all day? When I was shaking too badly to bear it, I would take a book and go to the south-facing physics classroom to find Maomao. I’d say, “Maomao, math, physics, and chemistry are so great!” Maomao would comfort me: “But I’ll never write a good essay in my life. How could I be like you?” He Zhong, who was also in the physics class, would then opportunistically pile on: “Haha, Marx who studied philosophy, Clinton who studied law, Chairman Mao who loved classical literature—if they came here to study too, they’d all be liberal-arts students and would still have to shiver in the north-facing classroom!” Maomao and I would scold him together: “Shiver your head!” Then I would lie down on the desk, treasuring the chance to doze in the winter sunlight. That night, it was snowing, and I was walking the streets without direction, and in the end I really froze to death. Lots of people ran over and said, come look, this little girl’s schoolbag is full of math books, and there’s even a failing math paper in it—ah, she died because of math. I shouted at them, where is my apple? Where is my apple? My mother put it in my bag this morning! But I looked and looked and couldn’t find the apple. I cried. Maomao nudged me: “What’s wrong?” I wiped away the tears all over my face and said, embarrassed, “I’m looking for my apple.”
+
+From now on, each day will probably pass like this. Counting the days in melancholy, but also having to learn to act carefree. Really, who isn’t melancholy? Why must it show only in my eyes? Every day I carry math books and the apple Mom washed for me to school, and every evening there is always stir-fried greens with mushrooms on the table, the dish I like.
+
+I am a playful and free kite / making you worry every day / if one day I lose myself in wind and rain / how will I return to your side / because I know you are a child who worries easily / so even when I am flying I dare not go too far...
+
+I have no way to write the ending of the story. How could I know how it will turn out? But in my careful imagination, the days of smiling will surely really come, won’t they? Maomao and the others and I have already agreed that if that day comes for all of us, then we will happily drink yellow wine together once more and sing at the top of our lungs: la la la, la la la, I’m the happy little professional...
+
+</div>

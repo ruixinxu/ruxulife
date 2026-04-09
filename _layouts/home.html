@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html data-lang="zh">
 <head>
 {% include head.html %}
 </head>
-<body>
+<body data-page-title-zh="{{ page.title | escape }}" data-page-title-en="{{ page.title_en | default: page.title | escape }}" data-page-description-zh="{{ page.description | default: site.description | strip_html | escape }}" data-page-description-en="{{ page.description_en | default: page.description | default: site.description | strip_html | escape }}">
 {% include header.html %}
 
 <div class="page-content">

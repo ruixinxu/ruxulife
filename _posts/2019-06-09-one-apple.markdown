@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "一颗苹果"
+title_en: "One Apple"
 date:   2019-06-09 00:30:01
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 没想到我竟然赶上了西雅图唯一的一场“Mayday Life”——《五月天人生无限公司》的放映。从十七岁开始，我喜欢了五月天很多年。可是近年来，他们越来越偶像化，开完巡演出电影，如此红果果的圈钱，让我渐渐没了兴趣——或者只是因为年纪渐长，对“少年感”十足的音乐失去了共鸣。不过当ying喊我去看电影的时候，我还是结结实实地兴奋了两天，满心期待全场大合唱，最后哑着嗓子出来...当然这一切都没有发生，小一半儿的歌曲我都没有听过，全场的观众也异常镇定，只有3D效果里杏红不时伸到眼前的手惹人心痒一下。影片接近尾声时，杏红讲“五月天永远陪你二十岁！”自己二十多岁时候的日子一下子涌了出来，旁边的ying早已经哭成泪人了。
 
@@ -100,3 +103,128 @@ by: mumu
 活着其实很好 再吃一颗苹果
 ——一颗苹果
 ```
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I never expected that I would actually catch Seattle’s only screening of “Mayday Life” — _Mayday Life 3D_. I have loved Mayday for many years, starting from when I was seventeen. But in recent years they have become more and more idol-like: finish a concert tour, release a movie, cash in so blatantly that I gradually lost interest — or maybe I simply grew older and stopped resonating with music that feels so intensely youthful. Still, when Ying asked me to go see the film, I was genuinely excited for two straight days, fully expecting a theater-wide singalong and imagining that I would come out hoarse... Of course none of that happened. Nearly half the songs were ones I had never even heard. The audience remained unusually calm the whole time. Only Ashin’s hand occasionally reaching toward my face in the 3D effect made my heart itch a little. Near the end of the film, Ashin said, “Mayday will forever keep you company at twenty!” and suddenly the years of my twenties came rushing back. Ying beside me had already cried herself into a mess.
+
+<figure>
+<a href="{{ site.url }}/images/asin-wanzi.jpg"><img src="{{ site.url }}/images/asin-wanzi.jpg"></a>
+</figure>
+
+```
+It’s not that I don’t love sleep, not that I don’t love pushing my liver hard,
+I just still have so, so many serious things to take care of.
+It’s not that I don’t love sunshine, not that I don’t date,
+I just have progress to chase, games to play, and a youth to recklessly waste.
+—— “Overworking”
+```
+
+At the very beginning, I learned about Mayday from Jijing during sophomore year. One spring afternoon, on the little shuttle bus from Meilianmei back to school, I got the call from Jijing saying I had been accepted into the innovation lab. That was how my summers of staying in the lab soldering circuit boards instead of going home began. In the little cubicle in Dorm 11, with all my roommates away, I binge-watched every Mayday concert video on the BYR FTP. At the time I had no idea that later they would almost completely occupy the background music of my twenties.
+
+From _Stubborn_ in the auditorium of the Science Hall to _Leaving the Surface of the Earth_ outside the west gate of Peking University; from _The Song of Laughter and Forgetting_ during graduation season to _Open the Skylight_ when I first started working; from _Zhiming and Chunjiao_ in Zhangjiang, Shanghai to _Springtime Saves Zhiming_ in Singapore. Mayday’s music feels like countless tiny fragments hidden away in different corners of my brain circuitry. During my first internship, Wan and I walked along Xingtan Road humming, “I heard Wujing got hair implants and cured his baldness, has a girlfriend he’s talking marriage with; Pigsy, that pighead, still never answers his phone, his lustful nature is forever youthful, as if time has never moved.” The first time I saw them live, Jijing, Jinzi, Xiao Ding, and I sang from beginning to end. After the concert ended, none of us had had enough, so we stood side by side under Baishiqiao Bridge shouting, “If someday we can return to glory once again, remember to find me, my good friend.”
+
+<audio controls preload="none" >
+ <source src="{{ site.url }}/images/zhizu-wan.mp3" type="audio/mp3" />
+  <p>Your browser does not support HTML5 audio.</p>
+</audio>
+
+After Xiao Ding finished an exam in probability and statistics, she came to me feeling dejected to pick up an emergency lamp. I stood downstairs at Building 41 trying to comfort her, telling her to be disappointed if she must, but not despair. She frowned and asked, “Are you going to sing loudly in the wind?” Back then, after the DNA concert at Workers’ Stadium ended, she insisted on shopping for merch even at the risk of missing the last train. Under the dim yellow lights, a street vendor tried to pass off Show Luo cards as Monster’s cards, but her eagle eyes caught him instantly. We walked from Workers’ Stadium to Sanlitun, passing the Italian embassy. The whole way she kept swooning over Ashin, saying he was her absolute favorite. Her ideal in life was to marry Ashin and listen to him sing the tender version of _Loving You ING_.
+
+<figure>
+<a href="{{ site.url }}/images/asin-haimian.jpg"><img src="{{ site.url }}/images/asin-haimian.jpg"></a>
+</figure>
+
+Ashin’s idol is SpongeBob, so I deliberately wore the idol of my idol to go see my idol’s concert. The next day, without even changing clothes, I wore SpongeBob again to meet another “baby.”
+
+<figure>
+<a href="{{ site.url }}/images/haimian-baobao.jpg"><img src="{{ site.url }}/images/haimian-baobao.jpg"></a>
+</figure>
+
+During graduation season in 2011, the Weiming BBS login page very thoughtfully released a version themed around _The Song of Laughter and Forgetting_.
+<figure>
+<a href="{{ site.url }}/images/xiaowangge.jpg"><img src="{{ site.url }}/images/xiaowangge.jpg"></a>
+</figure>
+
+Right after that, it released another one featuring SpongeBob and Patrick.
+<figure>
+<a href="{{ site.url }}/images/biyehaibao.jpg"><img src="{{ site.url }}/images/biyehaibao.jpg"></a>
+</figure>
+
+```
+Some people pass by my side,
+move into my mind,
+and burrow holes in my heart.
+Some people become photographs,
+piled up in the corner,
+with dust frozen over them like snow.
+—— “One Apple”
+```
+
+In the summer of 2017, on one night shortly before I left Singapore, Jinyu played _One Apple_ for us on the violin. It captured Yulu’s confusion, Liubo’s calm, and my own surprise — better than countless Mayday live performances.
+
+<audio controls preload="none" >
+ <source src="{{ site.url }}/images/yikepingguo.m4a" type="audio/mp4" />
+  <p>Your browser does not support HTML5 audio.</p>
+</audio>
+
+-----------------------------------------------------------------------------------------------------------
+
+```
+If someday we can return to glory once again,
+remember to find me, my good friend.
+—— “Sun Wukong”
+```
+
+```
+Maybe it’s best if you and I stop here.
+You already don’t feel anything for me.
+Let it freeze here.
+You don’t have to love me.
+Maybe it’s best if you and I stop here.
+You already don’t feel anything for me.
+Don’t be sad anymore.
+Don’t tell me I love you.
+You never loved me.
+—— “Zhiming and Chunjiao”
+```
+
+```
+Every lonely dawn I sing by myself,
+quietly letting the melody resonate with my heart.
+Even if one day no one sings along with me,
+at least inside my heart
+there is still a place not yet broken down.
+—— “The Place in My Heart That Has Not Yet Collapsed”
+```
+
+```
+If time could flow backward,
+I think I would still throw myself into wasting it.
+Anyway, let it be.
+I know I tried.
+
+I think of the distant, distant future —
+will anyone know me then,
+that on this lonely planet
+I once lived like this?
+In that distant, distant future,
+at the end of forever and everlasting,
+probably no one can take away
+the things that moved me forever.
+
+There has to be at least one song of mine
+that I sang out loud.
+Oh — only then can I look again at the vastness of heaven and earth.
+Life is neither too much nor too little.
+Happiness is just enough.
+Living is actually pretty good.
+Go ahead and eat one more apple.
+—— “One Apple”
+```
+
+</div>

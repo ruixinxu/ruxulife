@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "咬一口昭和回忆"
+title_en: "A Bite of Showa Memories"
 date:   2020-07-19 10:17:01
 categories: ruxu-reading
 tags: [ruxu-reading]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 《咬一口昭和回忆》是一本很好读的小书，书本身很轻薄，内容好吃又有趣。昭和年代是1926年到1989年，作者典子在此期间度过了孩提、少年和青年时代，这本书是典子对那个年代食物的寄情。我小心翼翼地猜测典子应该是一个感官敏锐共情力很强的人，读她描述食物带来的味觉嗅觉连同感官之外的情绪和故事，常常边笑边感叹真是太妙了。
 
@@ -50,3 +53,57 @@ by: mumu
 
 
 人对食物是有肉体记忆的，每当接触到某种特定的食物的味道和气味时，过去某个地方感受到的快乐和悲伤，某个时刻的心情和印象都会一下子苏醒过来。看到科幻作品里未来的人类不再需要食物，甚至有科技公司已经研发出营养液来取代一日三餐，真希望那个时候晚一些来到。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+_A Bite of Showa Memories_ is a delightful little book—slim in size, delicious and fun in content. The Showa era lasted from 1926 to 1989, and the author, Noriko, spent her childhood, adolescence, and youth within that period. The book is her emotional offering to the foods of that age. I cautiously suspect that Noriko must be someone with keen senses and deep empathy. Reading the way she writes about taste and smell—together with all the emotions and stories beyond the senses—often makes me laugh and sigh at how marvelous it all is.
+
+<figure>
+<a href="{{ site.url }}/images/zhaohehuiyi.jpg"><img src="{{ site.url }}/images/zhaohehuiyi.jpg"></a>
+</figure>
+
+After Noriko learned from her grandmother to love salted salmon skin as a child (though I still have no clear idea what it actually tastes like), she would stand in front of the world map hanging on her classroom wall and stare only at South America—“because its shape looked exactly like a slice of salmon”! I have no idea what Noriko looked like in real life, but immediately in my mind I saw Chibi Maruko-chan standing before the map, pointing at South America, and telling her desk mate in the most serious voice: “Let me tell you a secret—this part near Cape Horn in Chile has the tastiest salmon skin!”
+
+As a child, Noriko could not understand what adults found so wonderful about “high-end ingredients” such as sea urchin, abalone, or fugu. But the first time she ate matsutake baked in foil, she was instantly conquered by its flavor.
+
+> Roasting matsutake is like stewing a living tree; even the air becomes dyed through with the essence of the forest. Rich and pure, with even the saltiness in the air perfectly measured. No soy sauce, nothing at all. I could eat rice with the flavor of that air alone.
+
+The first time she saw melon pan, she was drawn in by its bright color and broccoli-like bumps.
+
+> The moment I saw its color, I felt a wave of happiness, as if sunlight had shone straight into my chest. I wanted so, so badly to take a bite.
+
+But her mother refused to buy it. That blunt refusal filled Noriko with humiliation and unwillingness, so all she could do was pour her whole self into imagining melon pan.
+
+> The fact that it was right there and I still could not eat it only made it seem more delicious. I twisted my body in distress, fantasizing about its taste. It must taste like this… feel like this… smell this sweet. Even though I had never tasted it, I did not doubt for a second how wonderful it would be.
+
+Noriko calls melon pan her “yellow first love”:
+
+> It is like a boy falling in love with a beautiful girl he has seen in town. He has never even spoken to her, and yet he somehow knows: “I just know she must be gentle and innocent.”
+
+Only later, after saving enough pocket money to finally buy one, did she discover that beneath the lemon-yellow bumps was just ordinary white bread. Even though she felt the disillusionment of a dream collapsing, her longing for melon pan did not end. Even as an adult, each time she sees that bumpy lemon-yellow surface, she still feels “a kind of sunlight spilling into her chest,” and still remembers that childhood longing—when she had never tasted it, but used every last bit of her imagination to invent its flavor.
+
+> As an adult, I can freely eat anything I want. Yet I have realized that no food I want anymore can make me pour in all my imagination the way I once did.
+
+Not every food memory in the book is so soft and luminous. Noriko also writes about the instant noodles of her college days, and about the boys at book club meetings:
+
+> The male students at book club were always more excited than necessary. No matter what the book was, they would put on airs and desperately discuss its meaning. Especially when a busty female student was present, the debates became even more intense.
+
+> Less than a year later, everyone had become someone else’s boyfriend or girlfriend, and the book club disappeared naturally.
+
+A woman who has been there cuts straight through to the real motive of the participants.
+
+Noriko describes mizuyokan as erotic, like a seductive woman—tender, fresh, and coolly self-contained. Mizuyokan is neither solid nor liquid. The moment your tongue touches it, it dissolves. You do not bite it or chew with your jaw; you simply keep experiencing the chill of its surface melting in your mouth, while sweetness takes over your whole palate and you surrender to its gentle sweetness.
+
+When she eats taiyaki, she loves most the burnt edges—the bits of batter that squeeze out where the mold joins. At Tokyo’s most beloved taiyaki shop, every fish-shaped cake is baked by hand. Even with the same mold, each fish turns out slightly different: some have extra edges, some are more burned, some have red-bean filling bulging to one side.
+
+> Human beings are creatures who grow tender over these little differences. Sometimes the red bean filling does not just spill out—it gets pressed flat by the mold like a senbei cracker. And if it happens to be slightly burnt too, it feels like winning first prize.
+
+> People are like that too. Everyone has some place where they stray from the norm, some slight deviation. And it is precisely because of those edges and irregularities that they are loved and cherished.
+
+Human beings have bodily memories of food. Whenever we encounter the taste or smell of a certain food, the happiness or sadness felt in some long-ago place, or the mood and impression of a certain moment, can suddenly awaken all at once. When I see science fiction visions of a future where humans no longer need food—and even real tech companies developing nutritional drinks to replace three meals a day—I can only hope that future arrives a little later.
+
+</div>

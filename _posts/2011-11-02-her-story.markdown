@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "今天我要讲一个关于她的还没有结束的故事"
+title_en: "Today I Want to Tell an Unfinished Story About Her"
 date:   2011-11-02 23:33:26
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by : MuMu
+
+<div class="lang-zh" markdown="1">
 
 她爹是个木匠，我见过他磨干活的家什，不说话，低着头，前前后后，反反复复，那石头在他手下已经有了好看的弧度，青灰色的表面上敷着一层湿湿的水膜，细细的泛着光，我猜想他的活一定也是一样的细致。
 
@@ -82,3 +85,83 @@ by : MuMu
 那为什么要在今天讲这个故事呢？因为明天是我妈妈的生日！
 
 如果你恰好也认识她，请拜托你拿起手机给她发条信息送一份祝福。如果你不认识她，没有关系，也请你拿起手机给你的她打个电话道一声问候。祝你的她，我的她都 晚安 好梦。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Her father was a carpenter. I once watched him sharpening his tools. He said nothing, head lowered, moving back and forth again and again. Under his hands, the stone had already taken on a beautiful curve. A thin wet film of water covered its blue-gray surface and gave off a faint sheen. I imagined his craftsmanship must have been just as meticulous.
+
+She once told me that she had originally planned to attend a teachers’ college and become a teacher. But in middle school she fell seriously ill, had to suspend her studies, and missed the college entrance exam. Later she recovered, but the scar remained, and the teaching college was no longer possible, so she had no choice but to study horticulture instead.
+
+She was an excellent student, the sort who always came first. That part never impressed me much. What I envied deeply was that at school she met a truly wonderful man and stayed hand in hand with him all the way until now. He was in a class five sections away from hers, studying agronomy. He was smart but did not care much for studying; most of his time went to gathering friends and playing basketball. Yet he was upright, kind, dependable, delicate, and devastatingly handsome. How could such a perfect man have chosen her, who was so plain-looking? Ever since I gained the ability to think independently, this question has troubled me. I have pondered it endlessly without understanding.
+
+When they graduated, she could have taken a work assignment in the same city, but she resolutely chose to go back to his hometown with him. Their work units ended up separated by only one road.
+
+When they married, her father personally made a full set of lacquered wooden furniture, filling their little home to the brim.
+
+On the second Saturday night of the twelfth lunar month during the second zodiac year-cycle of her life, she gave birth to a plump baby girl. He was overjoyed, and chose the character “蕊” in the child’s name — in their botanical world, a pistil is the source of all life.
+
+The girl slowly grew up: dark, chubby, unattractive, with a little boyish haircut. Whenever people saw her, they would say, “Oh! Look at this kid, so sturdy!” Even now I feel awkward telling this, but they never minded. To them she was still a precious treasure.
+
+Every night before bed, she told the girl stories: _365 Nights_, Grimm’s fairy tales, _Ali Baba and the Forty Thieves_, _One Hundred Thousand Whys_... Later, if there was no story, the girl refused to sleep. She even bought a tape recorder and recorded her own storytelling, saying, “When you grow up and go away to college, and Mom isn’t beside you at bedtime, you can listen to this.”
+
+I listened to that tape a few years ago. She says, “It was terribly cold, and snow was falling... a well-behaved little girl was walking barefoot in the street...” Her Mandarin was clumsy and badly off in pronunciation, but full of feeling. The girl would keep interrupting from the side, her rough little voice unable to hide her curiosity:
+
+“Why doesn’t she go home?”
+
+“Because she hasn’t sold all her matches. If she goes back, she’ll be beaten.”
+
+“Then why can’t she come to our house?”
+
+“She’s in Denmark. It’s too far away from us.”
+
+“Oh, Denmark — where is Denmark?”
+
+“Can you let me finish first and then ask?”
+
+She also told a story about the great detective in the forest. Mrs. Hen’s son, Little Yellow Feather, had gone missing, so she went to the hound Lili to report the case. The suspects were a weasel and a fox. Detective Lili identified the murderer by examining their blood, because mammalian blood cells and non-mammalian blood cells are structurally different: mammals that grow up drinking milk have blood cells without nuclei. After finishing the story, she asked the girl, “So what do you think your blood looks like?”
+
+“It has no nucleus!”
+
+“Why?”
+
+“Because I grew up drinking milk. I’m a mammal!” Full of pride!
+
+When the girl entered elementary school, they moved into a bigger house. They bought new furniture for the living room and moved the old furniture to a side room. In the yard there was a small patch of land where she planted a cherry tree, along with strawberries, grapes, and jujubes. In spring, when the cherries ripened, birds would come peck at them, and by the time she was ready to pick them, usually a small portion had already been eaten. Once the fruit was gone and the leaves grew dense, the girl would come home from school, put a stool under the cherry tree, hang up a little blackboard, and imitate a teacher, telling her mother everything she had learned in class that day. She listened seriously, and the girl lectured even more seriously. The two of them were solemn about it in the sweetest way.
+
+For a while, the girl was unhappy because her grandfather came to stay at the house and her mother no longer had time to play with her. A few days later, the girl noticed that Grandpa had started walking very, very slowly and always trembling. So she would deliberately place the things he wanted far away, just to watch him tremble and shuffle over to get them. She found it great fun. At that time she did not know that Grandpa had a difficult disease called Parkinson’s.
+
+They sought medical treatment everywhere, but still could not keep the old man alive. After the girl learned the truth, she stood under the cherry tree for a long time, full of regret for her own “little happiness.” By then, the newly bought furniture had bubbled here and cracked there, while the dowry furniture she had brought into the marriage remained as solid as ever.
+
+The girl entered middle school and was still very close to her mother, with endless things to say every day:
+
+“Do you know who in our class fell down the stairs today and even broke their front tooth? So pitiful...”
+
+“The parents of so-and-so in our class are getting divorced!”
+
+“Do you remember Teacher B from elementary school? I heard she’s pregnant and about to have a baby...”
+
+“Mommmm, why is it always me talking? You talk too... Oh fine, if you won’t talk, then I’ll keep talking...”
+
+Then middle school graduation came. At thirteen, the girl began living at school. In her own words, once she was “thrown out,” she never really came back.
+
+One Sunday, the girl came home holding a Winnie-the-Pooh pocket watch and said a boy had given it to her. Her mother flew into a rage and, after a round of stern revolutionary education, ordered the girl to return it. Imagine how humiliating that felt to a child in puberty. The girl said nothing, quietly hid the watch in a little corner, and silently built a barrier inside herself. Thus began her wordless rebellion: not coming home on weekends, and not speaking even when she did come home.
+
+Only after the girl entered college, truly left home for long periods, and handled everything on her own, did she slowly realize how childish her rebellion had been. Unfortunately, at that time the girl went around every day declaring that she would become a strong career woman. She hung out with a bunch of boys soldering circuit boards, debugging code, and during school breaks she stayed at school pulling all-nighters with teammates adjusting circuits. Oscilloscopes and circuit boards filled the lab. A woman teacher once asked her, “You’re not even going home during vacation? Doesn’t your mother miss you?” The girl proudly replied, “No, she totally supports me!” And it was true: every time the girl said, “Mom, I have a competition, so I’m not coming home this summer,” her mother would say, “Mm, there’s nothing special at home. Just focus on your work.”
+
+The girl came home only a handful of times, but every single time, no matter winter or summer, morning or night, her mother would always go pick her up. Once home, besides preparing good food and drink, she would also place a pile of colorful fashion magazines on her daughter’s desk. The girl never understood this behavior until one time she went shopping with a close friend and heard her complain that her own mother was always criticizing her for reading such messy magazines. Only then did the girl suddenly realize: these things were actually perfectly normal needs for girls their age! She herself had just strayed too far from the usual track... For a while her mother became obsessed with cross-stitch. The girl had once seen a piece called “A Bear Family” — Papa Bear, Mama Bear, Sister Bear, and Little Brother Bear all squeezed together, warm and adorable — and mentioned it to her. The next time she came home, there it was hanging in her room. Her mother proudly told her that she had even chosen a white frame especially to match the furniture.
+
+Day after day passed. The girl’s plans for the future gradually became clearer, yet she often found herself at odds with her father. Both sides tried to talk, communicate, and persuade each other, and failed every time. Earlier that year, after a huge fight in which neither side would give in, they each went back to their rooms and cried. Her mother went into the girl’s room and said, “Your father and I both hope you can have a steady life and not work too hard. But we all have our own limitations. What matters most is still what you truly like. A steady life like mine is steady enough, but living an ordinary, muddled life for an entire lifetime isn’t all that meaningful either...”
+
+How could she say that her whole life had been “ordinary and muddled”? She had no idea how great she was in her daughter’s eyes! She planted the very first seeds of beauty in her daughter’s heart, and through a not-so-smooth growing-up process, gave her the deepest original source of strength, helping her survive one hard moment after another. She was the person the girl admired most and the person she most wanted to become. If you asked that girl now to choose only one thing to do for the rest of her life, she would tell you that she wanted to be a mother. The only difference is that she may not be as lucky as her mother was in finding such a good father for her child.
+
+Her story is not over yet, and I do not know what will happen next. But by now you have probably guessed who she is. Yes, she is my mother. And that upright, kind, dependable, delicate, perfectly handsome man is my father! That question that has troubled me ever since I could think independently has, after years of observation and analysis, finally begun to make some sense. My cautious guess is this: my father truly is wonderful in every way — except that he has a quick temper and can be easily irritable. That, perhaps, is something only my mother could tolerate.
+
+And why am I telling this story today? Because tomorrow is my mother’s birthday!
+
+If you happen to know her too, please pick up your phone and send her a message with your blessing. If you do not know her, that is okay too — please still pick up your phone and call your own her, and offer a greeting. To your her and to my her: good night, sweet dreams.
+
+</div>

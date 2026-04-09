@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "我想"
+title_en: "I Want"
 date:   2010-08-25 18:40:58
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 By: MuMu
+
+<div class="lang-zh" markdown="1">
 
 我想当一个萝卜
 
@@ -58,3 +61,59 @@ By: MuMu
 我想当一个冰糖
 
 一个会写程序的冰糖
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I want to be a radish
+
+a radish that can code
+
+I want to be a mushroom
+
+a mushroom that can code
+
+I want to be a little secretary
+
+a little secretary that can code
+
+I want to be a jellyfish
+
+a jellyfish that can code
+
+I want to be a drummer
+
+a drummer that can code
+
+I want to be a housewife
+
+a housewife that can code
+
+I want to be a kindergarten teacher
+
+a kindergarten teacher that can code
+
+I want to be a librarian
+
+a librarian that can code
+
+I want to be SpongeBob
+
+a SpongeBob that can code
+
+I want to be a bee
+
+a bee that can code
+
+I want to be a QQ
+
+a QQ that can code
+
+I want to be a piece of rock sugar
+
+a piece of rock sugar that can code
+
+</div>

@@ -8,4 +8,56 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
+<script>
+  (function () {
+    var root = document.documentElement;
+    var body = document.body;
+    var storageKey = 'ruxu-site-language';
+    var defaultLang = 'zh';
+    var siteTitle = {
+      zh: '如许阅读',
+      en: 'Ruxu Reading'
+    };
+
+    function updateMeta(selector, value) {
+      var node = document.querySelector(selector);
+      if (node && value) {
+        node.setAttribute('content', value);
+      }
+    }
+
+    function setLang(lang) {
+      var pageTitle = lang === 'en' ? (body.dataset.pageTitleEn || body.dataset.pageTitleZh || '') : (body.dataset.pageTitleZh || '');
+      var pageDescription = lang === 'en' ? (body.dataset.pageDescriptionEn || body.dataset.pageDescriptionZh || '') : (body.dataset.pageDescriptionZh || '');
+
+      root.setAttribute('data-lang', lang);
+      localStorage.setItem(storageKey, lang);
+
+      document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+        var active = button.getAttribute('data-set-lang') === lang;
+        button.classList.toggle('is-active', active);
+        button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+
+      if (pageTitle) {
+        document.title = pageTitle + ' – ' + siteTitle[lang];
+      } else {
+        document.title = siteTitle[lang];
+      }
+
+      updateMeta('meta[name="description"]', pageDescription);
+      updateMeta('meta[property="og:title"]', pageTitle || siteTitle[lang]);
+      updateMeta('meta[property="og:description"]', pageDescription);
+      updateMeta('meta[property="og:site_name"]', siteTitle[lang]);
+    }
+
+    document.querySelectorAll('[data-set-lang]').forEach(function (button) {
+      button.addEventListener('click', function () {
+        setLang(button.getAttribute('data-set-lang'));
+      });
+    });
+
+    setLang(localStorage.getItem(storageKey) || defaultLang);
+  })();
+</script>
 {% if page.comments %}{% include disqus_comments.html %}{% endif %}

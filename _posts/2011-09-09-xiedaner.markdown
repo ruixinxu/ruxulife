@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "鞋带儿"
+title_en: "Shoelaces"
 date:   2011-09-09 17:10:23
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ comments: true
 share: true
 ---
 by: mumu
+
+<div class="lang-zh" markdown="1">
 
 天气骤凉
 
@@ -33,3 +36,35 @@ by: mumu
 就仿佛听到炸酱面师兄在我背后喊
 
 “小徐！你是智障儿童园里溜出来的么？！”
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+The weather suddenly turned cold.
+
+My shoes have started coming with shoelaces again.
+
+But I do not know how to tie shoelaces!!
+
+So then
+
+I’d be walking along, look down, and the left shoelace would be undone...
+
+I’d be walking along, look down, and the right shoelace would be undone...
+
+I’d be walking along, look down, and both shoelaces would be undone... ...
+
+And on top of that, my rhinitis has been acting up lately and my nose keeps running.
+
+>_<!!!!
+
+Whenever I secretly crouch down to tie my shoelaces while no one is noticing,
+
+I can practically hear Senior Zhajiangmian yelling behind me:
+
+“Xiao Xu! Did you escape from a kindergarten for special-needs kids?!”
+
+</div>

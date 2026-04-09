@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "周末"
+title_en: "Weekend"
 date:   2011-07-31 18:37:45
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ share: true
 ---
 by: MuMu
 
+<div class="lang-zh" markdown="1">
+
 菜是从最简单的开始，可乐鸡翅 麻婆豆腐 肉末蒸茄子 咸蛋黄焗南瓜 凉拌甘蓝菜和凉拌胡萝卜。麻婆豆腐是学上回小涂做的，凉拌甘蓝菜是用的记忆中老爹的手法，咸蛋是汪汪留下的，而南瓜和胡萝卜都是我的最爱。初次尝试，成功率约六成，对此自己很满意。
 
 还有我喜欢做菜的过程，像一次次魔术的化学试验，但是洗菜去皮切菜真是个体力活，难怪大厨都要那么几个打下手的小跟班儿。
@@ -17,3 +20,19 @@ by: MuMu
 书是上周陆陆续续的买得，我说过自己读得书太少，要一一补回来。除了老娘塞给的 婚姻是女人一辈子的事情，再就是淼同学最爱的三本席慕容。
 
 十年前园园坐在我旁边天天捧着一本席慕容，我还很不屑，十年后的我再翻出来，却立即被那份纯粹真诚以及刚刚好的敏锐与细腻瞬间击中。真的太美了，只可惜这样的敏感的东西没有能在敏感的年纪里读到，不然就可以明白自己的那些情绪其实一点儿都不奇怪，青春的日子或许可以过的更加坦然一些了。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I started with the simplest dishes: cola chicken wings, mapo tofu, steamed eggplant with minced meat, pumpkin with salted egg yolk, cold cabbage salad, and cold carrot salad. The mapo tofu was learned from how Xiao Tu made it last time; the cabbage salad used the method I remembered from my dad; the salted eggs were left behind by Wangwang; and pumpkin and carrots are both my favorites. It was my first try, with about a sixty percent success rate, and I was very satisfied with myself.
+
+I also like the process of cooking. It feels like doing little magical chemistry experiments over and over again. But washing vegetables, peeling, and chopping really is physical labor—no wonder great chefs all have several junior helpers around them.
+
+The books were bought little by little over the past week. I’ve said before that I’ve read far too little, and I want to make it up one by one. Besides the book my mom shoved at me, _Marriage Is a Woman’s Lifelong Business_, there were also the three Xi Murong books that classmate Miao loves most.
+
+Ten years ago, Yuanyuan sat next to me holding a Xi Murong book every single day, and I was full of disdain. Ten years later, when I opened her again, I was instantly struck by that purity, sincerity, and just-right sensitivity and delicacy. It was truly beautiful. It’s only a pity that I didn’t read something so sensitive at a sensitive age. Otherwise I might have understood that my feelings were not strange at all, and perhaps my youth could have been lived a little more calmly.
+
+</div>

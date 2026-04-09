@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "应宝宝要求多发几个高中时候的事情以纪念东校十年"
+title_en: "At Baobao's Request: More High School Stories for the Tenth Anniversary of Dongxiao"
 date:   2011-05-24 23:30:23
 categories: ruxu-life
 tags: [ruxu-life]
@@ -9,6 +10,8 @@ tags: [ruxu-life]
 comments: true
 share: true
 ---
+<div class="lang-zh" markdown="1">
+
 求有印象的童鞋来证实哈。。各种欢迎补充！！！另。。。若有侵犯隐私啥的提醒我默默删掉
 
 1.班级口号：“super 21 精英基地”（貌似就是开运动会印横幅用的。。。GR起的。。。）还有那会天天喊“很稳很易很轻松～”
@@ -224,3 +227,223 @@ From HJ:
 From 马yi腾:
 
 非典期间我宿舍，22X我忘记了，晚上打够级（我没有打，在睡觉），刘YZ查房发现了。第二天化学课把我宿舍几个人都叫起来批评教育，亮点在于，竟然问我为什么没打！！！难道不打牌也有错误码？？？有木有！！！
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Anyone who still remembers any of this, please come confirm it, haha... all kinds of additions are welcome!!! Also... if anything invades somebody’s privacy, remind me and I’ll quietly delete it.
+
+1. Our class slogan: “Super 21, Elite Base” (seems like it was printed on a banner for the sports meet...) coined by GR... and back then we were always shouting, “Very steady, very easy, very relaxed～”
+
+2. The first person I saw when I arrived at Dongxiao was Yuanyuan, standing in the hall entrance in a white top and blue skirt. I still remember that image. Then later in the teaching building corridor she lightly sang, “I like watching you frown tightly and call me a coward～”
+
+3. Military training: everyone wore uniforms, nobody knew anyone, and we could never find our own class. Later we discovered classmate Zhuhe was wearing his own giant shorts underneath, so every time we assembled we just looked for Zhuhe’s giant shorts...
+
+4. Our military training instructor was named Shi Jianlin, and he was super handsome～ Well... several lines omitted here...
+
+5. For one emergency assembly, no one in our dorm had gone to bed yet. We were all sleeping on the floor in our clothes and chatting. Maomao was counting for me, “How many younger sisters I have, how many younger brothers,” when we heard the whistle. Everyone dashed downstairs. We got to the sports field and there was nobody there. Just as we thought we’d heard wrong and were about to go back, classmates started running out one after another...
+
+6. In our first year there was a Leonids meteor shower. Nobody slept; everyone either leaned by the windows or climbed into the iron bars outside them to wait. While waiting, people started chatting between floors, then reciting poetry, and then singing...
+
+7. New Year’s Day in first year: we made dumplings. I was absolutely shocked that Zhu wb actually knew how to knead dough!!!! Yes, he really did!!! Later it just turned into everyone playing with dough... Cui Lina even came and sang a song for us, loudly singing “I love you.” I think it was that one...
+
+8. One year we had some class activity, and one program was boys doing cross-dressing. Representatives were sent to the girls’ dorms beforehand to collect clothes. Then on the day itself, they set up two tables at the entrance, and we saw tons of “male models” busily getting ready there and then showing off in all kinds of ways... The seductive Phantom performance by classmate Cheng Jiji left an extremely deep impression on my young heart...
+
+There was also Xiao Zhai and his dorm doing _A Chinese Odyssey_. Xiao Zhai wore a bedsheet as Sun Wukong (or Tang Monk?), and the key point was that Zhu wb wore a wig and Zhu-jiejie’s white dress to play Zixia. I still remember Xiao Zhai gazing at Zhu and saying affectionately, “Zixia, you’ve lost weight!!!” Then they started hugging... At exactly that moment, school leaders came in on inspection, pushed open the door, and turned green at the sight. Then “Miss Zixia” turned around, and the leaders became happy again...
+
+9. One year there was some kind of cultural festival, and each class had to put on an activity with ethnic characteristics... so our class went off to dance bamboo-pole dance. I even followed Zhu-jiejie to the gardening area to ask people for bamboo poles... Later we discovered many classes were just jumping elastic bands. -_-!!!!! (Sigh... Zhu-jiejie is getting married already...)
+
+10. For a while, “flying airplanes” seemed super popular among the boys. I thought it was a nationwide thing, but after leaving school and talking with classmates from other regions, apparently it wasn’t...
+
+11. Back then the rice noodles in the cafeteria in the mornings were especially delicious... Every day after morning exercises, everyone would sprint to breakfast... Yuanyuan once recalled that one time she ran for rice noodles with her backpack on, so focused on the race that she didn’t realize the bag had come open and all her things had spilled across the ground. A teacher next to her asked, “Classmate, what happened to you?” Hahahahaha～ ... Later, after bird flu, the meat in the rice noodles changed, and from then on they vanished from my world...
+
+12. Dongxiao also held kite-flying competitions, right... And every Lantern Festival they set off fireworks, right... I still remember classmate Zhu wb charging to the front of the crowd, holding a string of firecrackers and flinging them around with a crackling burst...
+
+13. When we first enrolled, I sat with Yuanyuan, and Li qi and Sun han sat behind us. I told them I was born in ’82, and they all believed me, calling me big sister for ages, until some form-filling later exposed the truth... I also bullied them all the time back then: putting praying mantises in their cups, sprinkling pencil shavings into their math drill books, and even drawing a “Little Ye Treasure Hunt Map” for Ye Sheng—taking a few of his things, hiding them in different places, and then giving him a map to find them, drawn with a marker so it stained the dorm desk and would never wipe off... I found that game endlessly delightful, endlessly delightful... Ah... how bored was I back then!!!!!!!!!!
+
+14. Once I picked up a ruler from the ground and gave it to classmate A. Then a few days later I needed a ruler, so I asked A to lend me that one. A looked miserable and said the ruler belonged to B. B had searched for it forever, then found it in A’s hands and beat A up... I burst into tears...
+
+15. In second year I sat by the window and often saw boys in the eco-garden feeding fish with steamed buns: one bite for the fish, one bite for themselves, one bite for the fish, one bite for themselves...
+
+16. About the flag-raising ceremony
+
+Back then we raised the national flag every Monday, with classes taking turns. In first year, one week it seemed to be our class’s turn to manage the flag. One evening it rained, and Echo and I even ran out into the rain to lower the flag...
+
+One Sunday night Li qi, Feng nan, and I went to practice raising the flag. As athletic stars (one ran the boys’ 800m, one the girls’ 400m, and then there was me, always finishing last in everything), the moment they stepped out of the classroom they sprinted toward the field, leaving snail-like me farther and farther behind... So I secretly took a shortcut. When I got there, there was no one on the field at all. It turned out the main gate was locked... so they had climbed over it. Then I got to feel smug～
+
+The usual process was: raise the national flag, play the anthem, salute with our eyes, and afterwards we also had to sing the anthem. The arts committee member of each class would stand at the front to conduct; usually we just followed the music. But one time, when our class was singing, the music suddenly malfunctioned and everything fell into confusion and awkward silence. Then the highlight came: our arts committee member at the time, classmate Xiao Wei, stayed perfectly calm after the broken music stopped and loudly sang a cappella, “Arise, ye who refuse to be slaves, prepare—go!” So everyone joined in and sang it all over again. So impressive...
+
+17. Yuanyuan said that once, on her birthday, she even brought cake to Li qi’s dorm mates... Sun han also sang to her, that song: “Today we don’t have girlfriends～ Tomorrow we don’t have girlfriends～ The day after tomorrow we don’t have girlfriends～ In the future we don’t have girlfriends～ I’m OK! I’m OK! I’m OK yeah yeah yeah yeah yeah yeah... alright...” I remember that song vividly... And when I dug it out again, it honestly sounded like Sun han’s original version.
+
+18. After the evening news, there was always that Crystal Love commercial on TV: “The day after tomorrow, will you still give me Crystal Love?” and a male voice from the back row shouted:
+
+“of course
+
+...
+
+...
+
+...
+
+...
+
+...
+
+not!”
+
+19. One year during a basketball game, Class 21 got into conflict with some other class, and YQ Nong was shouting insults with another student. Apparently it eventually escalated into English... I still remember him practicing in a Crazy English cadence every day: “I'm fucking sick of the whole fucking lots of you,” full of rhythm and rage... It seemed to come from an example sentence for the word “fuck” in the Longman English-Chinese Dictionary, meaning roughly “You disgust the hell out of me.”
+
+20. It was freezing when we ran in formation in winter, so I always kept my hands in my pockets. The PE committee member ran over and said, “Take your hands out! If you fall, then you can brace yourself with your hands instead of smashing your face.” I felt that made perfect sense... So from then on, no matter how brutal the weather, I always kept my hands free during exercise, ready at any time to avoid a full-body faceplant...
+
+21. One year during a power outage, Fei T said to Yuanyuan, “Yuanyuan, sing a song,” and Yuanyuan began singing, “In this lifetime, when narrow roads bring us together, it’s impossible to escape～～～” Yuanyuan also once sang _Dark Sky_ during a blackout (supplement from HJ).
+
+22. About April Fool’s Day
+
+One year on April Fool’s Day we held a class meeting, and Cheng Jiji ran up and said, “I think Westerners created April Fool’s Day in order to let people know that fooling others is bad.” I thought that was so reasonable and profound... so I remembered it all this time...
+
+One April Fool’s morning, everyone’s desks in the classroom were in complete chaos... even the drinking water was salty...
+
+One April Fool’s Day, Mu returned to the dorm and found that only a bare wooden board was left on the bed. On the desk was a note: “Want your bedding back? Bring two apples to the Twin Tyrants and claim it!”...
+
+One April Fool’s Day, Zhang qx ate a 3+2 cracker that tasted like mint toothpaste... This was a plot jointly carried out by HJ and Taozi. There was actually a sequel to the toothpaste incident: he blankly asked us whether it was mint-flavored, and then tiny little bubbles started appearing in his mouth (really very tiny, don’t imagine cartoon foam), and I will never forget that image for as long as I live (supplement from HJ).
+
+23. About teachers
+
+We all loved Little Strawberry!!!! He taught us “a person must be cautious when alone,” taught us about “Sisyphus pushing the stone, and how the meaning of life lies in continuing to pursue what one thinks meaningful even after knowing its meaninglessness,” taught us that “only successful people have experience; every road is walked out by oneself,” and told the high-school seniors, “Life is an area, not a point; no thing and no person is worth occupying all your energy.” Years later, we all still say we remember his words, especially in difficult times, when what he once said suddenly rises from the bottom of the heart. I often think: for a teacher to reach that level is truly amazing...
+
+And once Little Strawberry is mentioned, one has to mention GR sticking a note on HJ’s back that read: “LHJ got married, and the bride isn’t me...”
+
+And after GR stuck a note on me, I never again had the face to go ask LHJ questions =皿= (BY HJ)
+
+P.S.: Little Strawberry is Li Hongjie... is there really still anyone who doesn’t know that???
+
+And then there was Zai Min (examine one Zai Min)... what’s hardest to forget are those big blinking eyes of his and the line, “You bunch of little beasts—every week you avoid big trouble but keep making small trouble...” But Zai Min explained force-analysis diagrams crystal clearly and knew high school physics inside out. Then there was the senior-year graduation gathering, where he sat among a group of girls telling everyone that when you’re pregnant you absolutely must not make large movements because it’s dangerous. His child must just have been born then. Later when we visited him we even brought a “bear blanket,” hahaha.
+
+Then there was Teacher Liu Yizhen: lively in class, highly interactive, able to hold everyone’s attention... Back then when students signed slips to go out, some of them would blurt out and write her name, and she actually once asked everyone, “How do you all know my name?” Apparently she had some legendary experiences in the boys’ dorms (someone in the know, please verify). I always felt Teacher Liu cared unusually much about Class 21 (privately I think she actually rather liked students as mischievous as ours...) Even after she stopped teaching us in senior year, she would still come over during evening-study patrols to do ideological work with us...
+
+Cui Lina, our first-year English teacher, was young and beautiful right out of graduation, and grew together with us from zero starting point. What I remember most is that she spent all day playing with us... taking us to multimedia rooms to learn songs and things. Why do I remember that weird pair of unrelated songs—“Country Road” and Huang Pinyuan’s “Sea Waves”—so clearly? She must have played them together all the time... One summer day she wore a low-cut top, and all the boys ran to ask her questions... Then later in winter she shaved her head (legend says heartbreak) and wore a wig to class... but she was still so beautiful... Last time I heard from classmate Li Qi that back then their Room 106 was diagonally opposite Teacher Cui’s, and they often ran over to play. She had all kinds of discs there (censored and uncensored) and watched them with them... and underwear and other things were scattered everywhere with no effort to hide them... What an open teacher... Later I heard Teacher Cui got married, and the bridesmaid was actually Sister Langman. -_-!!!
+
+Our later English teacher was Wu Weiliang, hired in afterwards. He had an accent and pronounced “bird” like “small nao’er,” and he was also our vice homeroom teacher. His style was completely different from Cui’s, totally different. He constantly taught us all kinds of test-taking techniques and poured his heart out to improve everyone’s English. Last time Taozi and I reached a consensus: in a certain sense, Teacher Wu saved us... Also, after I was electrocuted, Teacher Wu took me to the hospital for examination overnight. That was during the SARS era, and I’ve always been deeply grateful.
+
+For a while in high school, math was divided by track, so you chose A, B, or C based on your preference. Class A was Teacher Yuan, I think; Class B was Brother Yunlu; Class C was Brother Yunlu’s wife?? Sorry, I forgot... Teacher Yuan was always unhurried and calm. Brother Yunlu seemed very serious about the subject and was always researching typical problems and publishing things... What I remember is that in first year, when explaining that a function only has values within its domain, he said, “The domain is like the Communist Party. The Communist Party is like the sun—wherever it shines, there is light. Only where there is domain is there range.”
+
+In senior year we changed math teachers to Fan Xueyan. She wore a different outfit every single day and was never seen repeating one (this is not rhetoric, this is literal realism, right!!!). She taught Classes 20, 21, and 22 and seemed exhausted by students... saying our class kids loved talking back and all that... One evening she was staying at Dongxiao in the teacher apartments behind our floor, and Baobao and I and others even ran to look for her. Were we doing homework or asking questions? Anyway, there was a big table in the hallway, Fan sat at one end reading, and Baobao and I sat on either side doing problems...
+
+In senior year we also changed chemistry teachers to Ding Hui, who was basically Pu Cunxin incarnate ahhh. On the first day of class he stood by the back door waiting for the bell. The person next to me—I’ve forgotten who—said, go compare heights with him. I said okay, help me watch out, and then I foolishly ran over and hovered beside him for a few moments. Not long after class started, he called on me to answer a question... awkward... Later, during the college entrance exam, he happened to be at my test site. After the science exam, all I remember is him greeting me with a beaming smile; I don’t remember what he said... There was also a teacher in the next class named Zhou Biao, I think. At the time I thought the name sounded unbelievably domineering, and the teacher looked pretty domineering too.
+
+Classmate Longlong mentioned Qi Yanqing. I honestly don’t remember much, only that he always stared at the ceiling during class... so in the end nobody paid much attention to him. The biology group was pitifully short on teachers back then, right? Besides him there was only one very senior teacher, I think. I remember Qi saying that he hadn’t originally meant to study biology, but had been assigned into it. Later after graduating he realized biology teachers were in such short supply that misfortune had turned into luck...
+
+And then there was the Chinese teacher of Class 22 later on, a middle-aged man who loved smoking. I heard he once told the senior students, “When the silk tree flowers bloom in front of the building, that’s when you’ll be leaving.” I don’t know who told me that, but I found it really sad... Once during a mock exam he proctored me, and when it was time to hand in the papers, in that voice hoarse perhaps from too much smoking, he said, “Children, it’s time to hand in your papers...”
+
+24. After we moved into the senior-year building, our dorm and Zhu-jiejie’s dorm were connected and shared a balcony. Zhu-jiejie often stood outside our window either late at night before bed or in the morning while washing up and peered inside... Back then she gave me a giant stuffed dog, wonderfully soft to the touch. I slept holding it, but almost every morning the dog had been thrown onto the floor... Every time Zhu-jiejie saw that she was full of resentment...
+
+25. About bathing
+
+One day during senior year there was hot water in the dorm, so everybody bathed inside the dorm rooms. Later the hot water ran out, and the people bathing inside had classmates outside pass hot water in to them... Unfortunately I became the one trapped inside, and Maomao passed hot water to me, and then I was late for evening study. I still remember someone asking me, “Were you also trapped inside because of bathing?” So apparently it wasn’t only me...
+
+Once it seemed the boys’ bathhouse at school broke down, so they were arranged to use the girls’ bathhouse. Supposedly they found all kinds of stockings and things in the lockers...
+
+26. About reading, music, and art
+
+Back then we subscribed to _Mengya_, and I was hopelessly obsessed with the fiction family inside it...
+
+One afternoon in first year I hid in the dorm reading Maomao’s _Autumn in My Heart_ and cried a total mess...
+
+Later there was a stretch when everyone was reading _City of Fantasy_ and _Dreams Fall in Flowers_... “Sadness flows upstream into a river,” huh... haha.
+
+During one first-year vacation, Ling diji recommended _Norwegian Wood_ and _Red Poppies_ to everyone, and from then on I seemed to keep discovering Haruki Murakami books in the hands of GR and others.
+
+For a while all the boys were reading _A Step into the Past_, which made me think for years that the book was pornography...
+
+Yuanyuan loved reading everything—poetry, essays, novels, anything. When a person is full of poetry and books, elegance naturally emerges... no wonder Yuanyuan was so ladylike...
+
+When we practiced tai chi on the sports field in first year, the loudspeaker from the neighboring school would play, “I want to hold your hand like this and never let go...”
+
+By senior year, our own broadcast system had started playing, “I’m standing in line holding the number plate of love...”
+
+And then there was sunlight pouring into the senior-year building through the windows, with HJ and Taozi next to me playing _Carousel_, while we washed clothes—what a warm and beautiful scene...
+
+There were also art electives back then. I even learned accordion... played some xxx march... That teacher was so good, giving one-on-one guidance in each practice room. She also talked about how her younger son was seven or eight but already had an especially good musical sense and so on.
+
+Later I also took sketching with Taozi. She drew really well. Li Qi seemed to have learned painting as a child and even had the key to the studio (look, look, his ways were already this wild from childhood). If he didn’t go home on weekends, he would just go paint. Once he held up a half-body nude self-portrait and asked us what we thought of his chest muscles... the degree of narcissism speaks for itself... -_-!!!
+
+27. About cracking down on pornography and illegal publications
+
+Once after an exam, classmate Xun D was very depressed, so after evening study he dragged me to walk around the eco-garden. As we turned a corner, a middle-aged man walked toward us. When we looked closely, it was Director Yue “cracking down on pornography and illegal publications.” He strode up to me and said, “You go back. You—come with me.” Then he dragged Xun D off to write a self-criticism... Xun D refused and said, “What’s wrong with pulling a classmate out to talk because I did badly on an exam?” Yue said, “Then why didn’t you find a male classmate?” He said, “She’s my deskmate!” After arguing for a while, it seemed to end inconclusively... The climax was that the very next night classmate Xun D was upset again and took Xiao Zhai out for a walk. Yue patted him on the shoulder from behind and said, “Ha, caught you again.” Then Yue looked closely and discovered Xiao Zhai was a boy, and said, “Ah, then you all chat, chat well, okay...” and left... (Shouldn’t Yue have been worried they were gay instead...? -_-!!!)
+
+28. About Spider-Man
+
+On April 23, 2003, I got electrocuted... (many lines omitted here; if you want the details, send BG a private message, the live version is more exciting～). Then the next day morning exercises were canceled for a day? In the morning I said to Baobao, “Baobao Baobao, I got electrocuted yesterday.” She got especially excited and said, “Ah, who did you fall for?” and I was speechless... I said I really got electrocuted, touched an electric wire!!!
+
+29. About science
+
+When we learned the saponification reaction back then (was there really such a reaction..), each of us even made a little bar of soap...
+
+When we learned the law of universal gravitation, wasn’t the formula something like the product of two masses divided by the distance between them and so on? Then Lü Yingkang pointed at the ink bottle on the desk behind me and asked, “If you calculate it like that, shouldn’t the gravitational attraction between me and this ink bottle be pretty large? Why hasn’t it been pulled toward me?” I was deeply puzzled too. A few days later he told me, “I understand now. That formula only applies when the distance between objects is large enough that the volume of the objects themselves can be ignored, so it doesn’t apply to me and the ink bottle.” I was enlightened...
+
+30. One evening HJ said to me, “I think you’re my little sister, and Xiao Zhai is my little brother.” Ah. That was HJ saying that... how childish... so I was full of black lines at the time... And Xiao Zhai is getting married too...
+
+31. One evening during self-study, my deskmate swapped seats with classmate LQ in order to flirt and chat with a girl. Unexpectedly, Zai Min came in, so a little note was passed to LQ that said, “Just tell him my place is too dark, so I came here to study.” LQ looked utterly helpless. Isn’t my place dark too... hahaha.
+
+32. I remember a sentence written by Sun Yi: “I fall at the speed of fashion, yet I still cannot fall with the beauty of a meteor.”
+
+33. Didn’t Liu Chao always think he looked like Rukawa Kaede? And he never let anyone touch his hair... Before one exam he even told me, “The troubles of us sixteen-year-olds are beyond the understanding of a thirteen-year-old child like you...”
+
+34. Singing karaoke with Yuanyuan, she said that back then in the dorm I forced her and Maomao to sing “Every Time Love Draws Near” to me together... especially excessive... But wasn’t it just because you two sang so well...
+
+35. Maomao (in senior year, I think) cut her hair and looked exactly like Ju Ping-jiejie...
+
+36. One summer I sat with Sister Jingjing. Don’t be fooled by how thin she was—she always had all kinds of food, and I was always stealing bites from her... awkward.
+
+37. It’s raining outside now, and suddenly I remembered that one day in first year, when it poured, Maomao and I and maybe a Sun Han went to the sports field together to stomp in the water...
+
+Other additions:
+
+From Sun Han:
+
+I seem to remember that after classes were reshuffled I once wrote an essay that got read aloud in class, and I think you all cried. My memories stop at Cheng Jiji’s yogurt—even when it had gone bad he still wouldn’t share it with me, Liu Chao, or Li Qi.
+
+In first year Echo and I ran to Room 106 to play badminton. Classmate Li Qi angrily covered his ears and kept studying (just how hardworking were you, how hardworking!!!), and then we were shocked to discover that Sun Han actually used Oil of Olay. -_-!!!
+
+From Wang Yue:
+
+When Qi Yanqing said “cell,” the “bao” sound was a classic Jipu accent; the final stop on Little Ye’s treasure map was a plastic stool leg dropped inside a landscape lamp in the little flower garden in front of the senior-year building (I truly do not remember this...); S. Jlin (was that my English name in first year?...) liked girls like Ziwei; Ruirui liked sunny big boys like S. Jlin (“with sunshine-bright smiles”); and also ya gei nong (what is that? what does it have to do with Yang Qi Nong), Michelangelo (what is that too?); the cafeteria’s Sichuan pepper chicken balls (I loved those too...); Liu zheng subscribed to both milk and yogurt back then (I still remember Sun Hang making me pick up his milk every morning... awkward); Ma yi teng once said he was going to save up through three years of school to buy a Xiali car (I only remember him always saying, although my grades aren’t outstanding in our class, placed citywide they’d still be above average); Brother Qiong was insanely good at math (what *wasn’t* Brother Qiong good at?!?!?!); Zhuhe was my older brother, Sun Xin was my master; Little Strawberry’s “know shame, be cautious when alone”; in first year Sony/Panasonic walkmans were popular, in second year CD players, then came MD, and later MP3s; that politics teacher named “Ge Li”—what was the child’s name again? Right, Yin Hanbing! Yan qun was my “awful person”; and one weekend night in first year we even watched _Jurassic Park_ and _Meteor Garden_ in Teacher Xiao Cui’s office...
+
+From Cheng Jiji:
+
+1. Liu Yun T beating Fei T... I remember Longlong often seemed to chase around beating up Fei T and Zhu wb too...
+
+2. I want to say this: one Monday at class-meeting time, Zai Min informed me at noon that there would be no class meeting that week and we should just do self-study, so I carried it out. Around five in the afternoon, Zai Min came back. I thought he was coming to inspect self-study, but suddenly I realized his face was red! He wandered around the class as usual. Then my deskmate Donkey asked me, “Should we ask him a few questions?” I said, “Sure, I want to ask too.” So Donkey lifted his hoof, and from a distance Zai Min saw and walked over with his hands crossed. Donkey asked, “Teacher Zhang, I don’t quite understand this problem...” and Zai Min very disdainfully glanced at the problem and said, “Haven’t we gone over this many times? How do you still not understand!” and a bunch of similar complaints. Then he walked away. Donkey froze, and then only said one sentence to me: “Damn it!”
+
+Just then, classmate Yuanyuan softly called out, “Teacher Zhang!” and Zai Min immediately went over.
+
+The explanation process lasted an hour, with him smiling the whole time, and he even asked Yuanyuan about her recent studies... (including the very problem Donkey had wanted to ask)
+
+Donkey exploded, totally exploded...
+
+I’ve always wanted to ask Yuanyuan what exactly he taught you that day, and what you thought of his reeking of alcohol while explaining, hahaha.
+
+I always remember that when he explained problems to Yuanyuan, he’d lean over the desk and explain very carefully, so sitting beside them I could clearly see his long eyelashes. -_-!!!! But what I want to say is, Cheng Jiji, you really are one who sees obscenity wherever you look. Donkey was so good at physics and so quick to understand!!!! I also remember you always calling out “Yuanyuan, Yuanyuan~” and stuff like “Yuanyuan is my little sister”...
+
+From GR:
+
+Let me add one more: what dumb things did you do at Dongxiao? 1. Digging for four-leaf clover and three-leaf clover 2. Charging off to buy breakfast 3. Studying with an emergency lamp 4. Having a roommate whose yogurt fruit cup had gone bad and still wouldn’t let you eat it 5. Being mistaken for acting like Spider-Man when you got electrocuted!
+
+Let me expose one of my own stories. In senior year, once @Tao Mengchu had terrible diarrhea and kept going to call @Diao Zhen every day, and one time I accompanied her. Before six o’clock everybody was lining up in the cafeteria and food wasn’t served before six. We got there at 5:30, and I negotiated with the cafeteria girl to first serve Tao Mengchu a little food because after eating she had to go get an injection. Who knew the cafeteria girl said to me, “No food before six, that’s the ruleding!!!” Looking at the steaming food, I got so mad I blurted out: “What ruleding? More like ruled-head!”
+
+After saying that, I kept arguing with her and noticed the strange looks all around me. Then I thought about what I had said and covered my face and ran away... awkward!!!!!!!!!!
+
+From HJ:
+
+1. I don’t remember the chicken balls, I only remember the fried mushrooms being super delicious, and in the mornings there were sandwiches too (deep-fried toast?) and rice noodles! If you didn’t rush, you couldn’t get the rice noodles. I remember they were 2 yuan a serving. Even though later I ate lots of delicious rice noodles in Yunnan, that feeling of racing for breakfast after morning exercises at Dongxiao—you know it! Also, you once said the boy you admired most in class was so-and-so (I remember all of this for you!)(Was it Zhai Xinlei... back then I felt he was considerate and had a lot of depth...)
+
+2. Aiyo let me keep spamming a bit: Liu Yizhen was such a good person. When I got sick I sometimes asked her for a leave slip, and then she would go to the teacher cafeteria, cook a bowl of noodles, and bring it to the dorm. Super moving QAQ. And about that Wu-somebody, he he he, he sprayed spit when he talked. Taozi and I often argued over who had to sit on the aisle side! Once Taozi got a huge pimple on her face and solemnly told me it was because Wu-somebody had sprayed spit onto her face, and insisted on swapping seats with me...
+
+From Ma yi teng:
+
+During SARS, in my dorm—22X, I forgot which one—they were playing card games at night (I wasn’t playing, I was asleep), and Liu YZ discovered it during inspection. The next day in chemistry class he made several people from my dorm stand up and criticized them. The highlight was that he actually asked me why I *hadn’t* played!!! Is not playing cards also an error code now??? Seriously!!!
+
+</div>

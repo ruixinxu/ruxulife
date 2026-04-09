@@ -2,6 +2,7 @@
 layout: post
 type: blog
 title:  "1st"
+title_en: "Firsts"
 date:   2009-10-29 12:47:18
 categories: ruxu-life
 tags: [ruxu-life]
@@ -10,6 +11,8 @@ comments: true
 share: true
 ---
 by: MuMu
+
+<div class="lang-zh" markdown="1">
 
 第一次见到室长 是04年9月6号排队打疫苗的时候我问她同学这个队是信息学院么?后来进宿舍一推门发现屋里的人就是她
 
@@ -79,3 +82,80 @@ by: MuMu
 
 
 未完无待续...
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+The first time I met our dorm head was on September 6, 2004, while we were lining up for vaccinations. I asked her, “Classmate, is this the line for the School of Information?” Later I pushed open the dorm-room door and found that the person inside was her.
+
+The first time I saw Wang Xi was during registration in Changping, on the square in front of Teaching Building No. 1. She was wearing a white top and a blue skirt, with a doll-like haircut, and looked unbelievably sweet.
+
+The first time I saw Mei Zha was at our first big class meeting. She asked me, “Do you especially like Snoopy? Your watch and your clothes are both Snoopy.”
+
+The first time I saw Cong hh was also at that first big class meeting. She sat in front of me, though I can’t remember what we talked about.
+
+The first time I saw Jiang... well, honestly, I couldn’t tell Jiang and A Hua apart for my entire freshman year -_-!!
+
+The first time I saw A Hua: same as above -_-!!
+
+The first time I saw Wan was also at that first big class meeting. She was dressed all in black, wore a little ponytail and glasses, and had great skin, very pretty. Later came the time when she sang “dear firends.”
+
+The first time I saw Bo Ge was also at that first big class meeting. He ran up to introduce himself and seemed to say he didn’t play basketball, but could be everyone’s tour guide or something like that.
+
+The first time I saw YM was also at that first big class meeting. She said her piano was x-level and that the weapon she used in CS was an xx gun.
+
+The first time I saw TD seems to have also been at that first big class meeting. I vaguely remember her saying she was from Hunan and that if we ever saw someone in the cafeteria carrying a bottle of chili sauce, that would be her.
+
+The first time I saw Xiao Bai was in the Changping dorms when she and the “crab mm” came around calling on everyone to join the cheer squad. I think it was around the Basketball Cup then. Xiao Bai’s high ponytail, as always, was so energetic that it made people’s eyes light up.
+
+The first time I saw Tiao Zi was at the Changping basketball court gathering. He was wearing a yellow striped T-shirt and looked like a bee.
+
+The first time I saw Jiang Wen was in the library, when we were applying for library cards for the class.
+
+The first time I saw Yan Jie was when she ran up to the fifth floor to find me and discuss buying train tickets home for National Day. Yellow jacket, short hair.
+
+The first time I saw Chicken Essence was at the Changping basketball court during the Principal’s Cup. He said, “Ah, you’re from Shandong? Me too...”
+
+The first time I saw Yun was outside the counselor’s office on the fourth floor, where I saw his photo as some kind of xx pioneer...
+
+The first time I saw sun was in freshman-year math analysis class, sitting in the first row, wearing a hat, going in and out.
+
+The first time I saw ls was after I joined Innovation in sophomore year and got reassigned to a different group: “Are you called ls?”
+
+The first time I saw Xiao Huang, in my memory, was at the Innovation meet-and-greet, but he himself says it was during freshman-year tai chi, and apparently we stood pretty close to each other...
+
+The first time I saw Da Huang was when I went back to Changping in sophomore year for recruitment. Their external-relations team was next to the sports department, and only then did I discover in amazement that our School of Information had such a handsome guy!!
+
+The first time I saw Quan was on some rainy day in Changping at the entrance of Teaching Building No. 1. She hadn’t brought an umbrella, and then discovered we lived in the same building, so we walked back to the dorm together.
+
+The first time I saw Shi Xiong was during Innovation interviews. We were waiting in the room across the hall when he burst in and said, “xxx, xxx, xx, you three come in.”
+
+The first time I saw WQF was during Innovation interviews, when he asked me what a spectrum analyzer was.
+
+The first time I saw jiye was during Innovation interviews, when she taught me that the soldering iron could actually be taken off the stand...
+
+The first time I saw Senior Hu zm was one evening in sophomore year, when Senior Hu Chenpeng came back from Imagine Cup and treated us to dinner... I met him at the table...
+
+The first time I saw Ding Ding was probably during one of their exams or meet-and-greets, but I had no impression of her then... The first time she really left an impression was when everyone was in the lab working on some project, and Ding and I went to the washroom to clean something. I said, “Your hair is so cute, don’t ever change it....” Right, Ding...
+
+The first time I saw Li jj definitely had to be after I joined Innovation. Because I had kept mistaking him for yjj, after searching for over two weeks, one day someone finally told me, “This is ljj,” and I was a little startled.
+
+The first time I saw A Guo was during their written test, when I went to proctor. Classmate A Guo kept looking around and scratching his ears and cheeks, which became the focus of my attention. At the time I thought, this kid definitely won’t make it. But later he really did get in—and even won the only first prize in the Beijing contest.
+
+The first time I saw wangl was during graduate recommendation interviews, when we discussed a math problem together.
+
+The first time I saw zx was also during graduate recommendation interviews. I remember she was wearing shorts and looked in a great hurry.
+
+The first time I saw Hong Mei was on registration day, after hurting my foot and going downstairs to the hospital, when I ran into her at the corner downstairs.
+
+The first time I saw Zhang bb was probably in our dorm room, though I had already heard her name for ages—famous like thunder, o(∩_∩)o...
+
+The first time I saw Gui was when the door of Netcom B612 opened and he very politely let us go first. I thought to myself, this handsome guy must be new here too...
+
+
+To be continued without being continued...
+
+</div>
