@@ -3,8 +3,8 @@ layout: post
 title:  "［书摘］山河岁月 五四运动"
 title_en: "[Book Notes] *Mountains, Rivers, Years and Months* — The May Fourth Movement"
 date:   2016-10-03 00:21:15
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483668&idx=1&sn=2d86e8bac9f071e278c9d60f42eabbc7&chksm=9b464cbcac31c5aa8c3103bb764e80e07e0557c931d3d84e35659c851e3755e095297c8b3551#rd
 comments: true
 share: true

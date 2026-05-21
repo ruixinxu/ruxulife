@@ -3,8 +3,8 @@ layout: post
 title:  "悦读在路上! “如许阅读”换书会坡县第二期"
 title_en: "Reading on the Road! Ruxu Reading Book Swap, Singapore #2"
 date:   2016-09-04 22:28:11
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483657&idx=1&sn=0ec6a2a76990779f7aaf2d2646c57741&chksm=9b464ca1ac31c5b74ad48533248e0a85f3cba187c5ba6d71002cf2a6423b9d5dd81cb614f226#rd
 comments: true
 share: true

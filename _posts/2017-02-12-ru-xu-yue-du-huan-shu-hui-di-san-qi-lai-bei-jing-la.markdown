@@ -3,8 +3,8 @@ layout: post
 title:  "“如许阅读”换书会第三期来北京啦！"
 title_en: "Ruxu Reading Book Swap #3 — Coming to Beijing!"
 date:   2017-02-12 00:50:06
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483671&idx=1&sn=d214a42408eece2a39aff1a111faf10a&chksm=9b464cbfac31c5a9aed5eeb7b4c0d1a8f045ac9a13a7e649c3b078a968085149882f766afe9b#rd
 comments: true
 share: true
