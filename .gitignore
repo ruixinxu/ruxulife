@@ -6,3 +6,11 @@ _config.local.yml
 Gemfile.lock
 *.sublime-project
 *.sublime-workspace
+
+# WeChat migration tool — see tools/wechat_migrate/.gitignore for details
+tools/wechat_migrate/config.json
+tools/wechat_migrate/.venv/
+tools/wechat_migrate/cache/*
+!tools/wechat_migrate/cache/.gitkeep
+tools/wechat_migrate/__pycache__/
+**/__pycache__/

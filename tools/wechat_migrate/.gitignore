@@ -1,0 +1,13 @@
+# Local config with real cookies/tokens — never commit.
+config.json
+
+# Python venv
+.venv/
+
+# Cache of fetched articles, HTML snapshots, and run state.
+cache/*
+!cache/.gitkeep
+
+# Python bytecode
+__pycache__/
+*.pyc

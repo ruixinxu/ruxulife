@@ -1,0 +1,3 @@
+# Placeholder so the cache/ directory exists in git but its contents are ignored.
+# All real cache files (articles.json, html snapshots, state.json, etc.) are
+# gitignored — see tools/wechat_migrate/.gitignore and repo .gitignore.
