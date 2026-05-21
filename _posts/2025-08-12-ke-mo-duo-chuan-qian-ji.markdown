@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "科莫多船潜记"
+title_en: "Komodo Liveaboard Diving"
 date:   2025-08-12 18:35:00
-categories: wechat
-tags: [wechat]
+categories: ruxu-life
+tags: [ruxu-life]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483968&idx=1&sn=76e64ebc30d17216479b4fdb3ca930fb&chksm=9b464fe8ac31c6fe842ce80cfcf028ce3a6ee56f0f1086eaf829cf2f1d51b4afe59024022495#rd
 comments: true
 share: true
@@ -246,6 +247,298 @@ share: true
 ---
 
 图片分割线，大部分copyright at 土土
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/21.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/22.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/23.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/24.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/25.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/26.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/27.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/28.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/29.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/30.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/31.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/32.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/33.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/34.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/35.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/36.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/37.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/38.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/39.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/40.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/41.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/42.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/43.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/44.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/45.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/46.jpg)
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+> 🎬 The original article contains video, which can't be embedded here. [Open the original on WeChat](http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483968&idx=1&sn=76e64ebc30d17216479b4fdb3ca930fb&chksm=9b464fe8ac31c6fe842ce80cfcf028ce3a6ee56f0f1086eaf829cf2f1d51b4afe59024022495#rd) to watch.
+
+This is a travel piece that has been on the shelf for two years. Two summers ago, Xiao Yuan dragged me onto a liveaboard dive trip in Komodo, and during the breaks I kept dive-log notes on my phone. After I came back I never got around to posting them — first because everyday life was busy, and second because the log felt like a stream-of-consciousness, strong opening and weak ending. Recently I pulled it out and realised I had already forgotten many of the details. As a memorial against forgetting, I am tidying it up, before even the running record disappears.
+
+**A one-sentence summary**
+
+In the mountains and seas of Komodo, I gained a little more awe of nature, a little more amazement at human potential, and a few quiet extra chips for steadying myself in everyday life.
+
+Reading my own summary back, I didn't think it was great, so I asked GPT to rewrite it. Here are some of the versions. The biggest surprise was the Ishiguro one.
+
+> "If I had to summarise this journey in a single sentence, it would be this: the Komodo trip left me with an almost instinctive reverence for nature, and a deep astonishment at the complexity of human potential. More privately, it has quietly placed something within me — something hard to detect but real, a kind of chip that helps me settle myself in the swell of ordinary life, like a fragment of memory that, in critical moments, softly reminds me: I was once there, I once felt that vastness, that range of possibility."
+>
+> GPT in the voice of Kazuo Ishiguro
+
+> "If I had to sum it up, the Komodo trip didn't have any earth-shaking turning point — only some wind, some rocks, some creatures whose scales caught the sun. But it left me with something I can't quite name — a kind of reverence, like the feeling you have as a child the first time you realise the world doesn't revolve around you. And an awe of human potential — not the slogan-poster kind of awe, but more like the kind you feel when you see the old neighbour fixing her plumbing in her yard and suddenly understand: each of us is carrying abilities others can't see. Back in everyday life, I find I have a few more chips for steadying myself — not through some grand revelation, but through quietly arriving small things, like notes folded inside old envelopes, that I occasionally pull out to remind myself: I was once there, I once felt that vastness."
+>
+> GPT in the voice of Alice Munro
+
+> "If I had to describe the Komodo trip in one sentence, I'd say it left me with a reverence for nature that was almost tender — not because nature is mighty, but because it simply exists in its silence, without having to prove anything. And human potential, against that backdrop, looked uncommonly various, as if each person carries inside them an unnamed island. After the trip ended I brought home some things you can't see — like sheets of paper crumpled by sea wind, opening quietly in the seams of my daily life, granting me, in the trivia and the repetition, a little more capacity to settle. Not to escape — but to stay, more gently."
+>
+> GPT in the voice of Zhang Yueran
+
+OK, back to the diving.
+
+Komodo is famous for complicated current conditions, and every so often there's a diving accident. If getting kidnapped in East Malaysia is a human disaster, then meeting the "washing-machine current" in Komodo is a natural one.
+
+Before I left I'd discussed the trip with my partner and sent him recent news about Komodo dive accidents. He said: "I won't support you, I won't stop you, but I just want to remind you that your role in life now is different from when you used to dive." Risk has never been the reason I love diving; even as a single woman, I wasn't going diving to get killed!
+
+Underwater, focused on inhaling and exhaling, you feel very calm — same destination as meditation, by another road. Over seventy per cent of the earth is ocean; our noisy daily world is only a small dot inside that other thirty per cent. The everyday annoyances, the trivial plans, even the self — all of it becomes negligible inside the embrace of seawater. The sea doesn't speak, but it always reminds me: you are small, the world is huge, and that is precisely where freedom begins.
+
+This was also my first time joining a Chinese-speaking liveaboard trip. Previously, whether in the Similan Islands or the Maldives, even though I had Chinese-speaking buddies, most of the group was European or American. When everyone swapped fun diving stories I often couldn't keep up. Volunteering on Phi Phi I didn't even have a Chinese-speaking peer; one of the white female dive instructors didn't hide her bias against Chinese guests — "Chinese always litter, always touch marine life, never on time — except for you, Mumu." On this Komodo trip we ate, chatted and sang together, communication was effortless, no cultural distance, comfort zone the whole way.
+
+Before leaving I'd worked out for five-plus months straight. Not back to peak body-fat, but fit enough to fit into a wetsuit.
+
+I hadn't been in the water in five-and-a-half years — first the pandemic, then pregnancy and the kid. Once we got in the water I realised: I wasn't alone! Everyone hadn't been in the water for too long. Issues popped up constantly; almost every dive had something go wrong.
+
+The textbook cases all happened — and more than once: running out of air and getting some from a buddy; losing buoyancy control and surfacing straight up; current too strong, separating from the group and meeting again at the surface, and so on. Within a few short days my dive experience exploded — I even learned how to deploy a properly inflated DSMB.
+
+**Day-by-day log**
+
+13 August 2023
+
+I've set off! Clear skies, good mood — even the heavy suitcase couldn't slow my light step.
+
+Three hundred and sixty-five days a year, I've finally pulled out ten of them to be myself. Wait — is that the right way to put it? Who am I? Who is "myself," really? Mumu Xu is me, the wife of Mr Fei is me, Du-ge's mum is me… I'm also a daughter, a sister, a friend, a colleague… missing any role I'm not a whole me. But for the next stretch I can spend a few days fully being the diver-me, and maybe a little time looking after the wants-to-read-a-book-me. Just thinking about it is exciting.
+
+So many kids at the airport. Wherever you look, kids. Maybe because of the summer holidays, or maybe I notice them more now that I'm a mother.
+
+In the check-in queue, a small boy next to me — three or four years old — keeps asking: "Why don't I see any planes? Why are we queueing? Are we getting an injection?" His mum is pushing his little sister in a stroller — flowered dress, two little antenna-pigtails — struggling to climb out and walk on her own. Her tottering steps are about like my son Du-zi's when he was just over one.
+
+I look across the terminal — a bunch of kids running and chasing one another. I think, *that* kid is wearing nice clothes, *that* kid's shoes look great; I should get something like that for Du-zi.
+
+Through security, around the corner into a bookshop — a rack of plushies at the door, and I spot the same little tiger Du-zi has.
+
+At the gate I see a boy of six or seven pushing his own little carry-on, a small backpack on his back with a neck pillow clipped to it, marching forward. I think, *in a few years Du-zi will be about this tall.*
+
+On the plane I watch a film. Any plot involving parents and children sets off my tear ducts. *Hachi: A Dog's Tale* — the main character bathing his puppy, and I think Du-zi should be in the bath about now. *Boonie Bears* — there's a scene where the bear dad turns into a hero for his sick daughter, and I can't stop the tears. The guy next to me looks puzzled — *what is wrong with this person.*
+
+Ah, Du-zi isn't here, but he is everywhere. I miss him so much.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/0.jpg)
+
+14 August 2023
+
+It's now 6:30 a.m. and I'm sitting drenched in sweat at the gate for Komodo.
+
+Earlier this morning I ran around Beijing Capital Airport T3 looking for the inter-terminal train to T2, then went into the wrong check-in hall at T2, then queued at the wrong counter. Luckily a kind ground-staff guy checked me in quickly.
+
+Sprinting through security, I spot the team in the distance, run over excitedly to join them — and realise my phone is back at the security counter. The security guy is waving and shouting "Phone! Phone!" Got it back; near miss.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/1.jpg)
+
+Smooth arrival in Labuan Bajo. As we step out of the airport I see our pickup wearing a panda hat. Smooth boarding.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/2.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/3.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/4.jpg)
+
+Over lunch I find out this trip was actually planned for three years ago. Pandemic kept pushing it back to now. Of the fourteen of us, everyone except me and one other woman had signed up three years ago.
+
+Yong-ge's son is studying abroad and had been stuck in China for the pandemic three years ago; Yong-ge had planned to bring him diving. But three years later the kid has gone back to school and can't come, so I get the seat. Ah, how I hope one day I can bring Du-zi diving!
+
+Afternoon check-in dive. Smooth, no surprises.
+
+In the evening, a sky full of stars, like crushed diamonds on satin. From the bow I even see a shooting star.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/5.jpg)
+
+At dinner the boat is rolling badly; many lose their appetite. I'm fine — appetite excellent.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/6.jpg)
+
+15 August 2023
+
+My first night on the boat. I wake twice — once a little past midnight, once a little after four. Exactly when Du-zi takes his night feeds.
+
+Just past five the boat starts up again; the engine rumble wakes me. Up to the top deck — distant glow on the horizon. Within a few minutes the sun lifts itself from behind the cloud. First a tiny bright dot, then bigger, then so bright you can't look. The cloud goes from pink to slow orange. Not extraordinary, but a quiet delight.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/7.jpg)
+
+By the second day the boat has moved further out; the mountains around us are bare rock, hardly any vegetation, and there isn't another boat on the horizon. I think: if we got separated from the main group, surviving the wild would be hard.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/8.jpg)
+
+First dive of the morning, at Manta Valley in south Komodo. We see a school of manta rays, three or four metres wingspan. First time using my octopus to share air with a buddy.
+
+One dive guide for five divers. A-kai runs out of air; the guide is helping him share air. I'm nearby doing a five-metre three-minute safety stop; the other two girls have surfaced directly. Photographer Tutu is below shooting the mantas.
+
+The guide signals me to buddy A-kai. I hand him my octopus. The now-free guide darts to the surface, takes a GoPro from another girl, and dives back down to shoot mantas. We finish the safety stop and surface; the guide takes ages to come up.
+
+Second dive, also Manta Valley. Incredible luck — the moment we descend we see groups of mantas circling and dancing. Three line up and swim past me, the middle one trailing a cloudy plume from its tail — *it's pooping*!
+
+The guide is constantly worried that A-kai will run out of air again, and stays glued to him; A-kai is also constantly worried, so the moment he descends he finds a sandy patch and crouches there. After surfacing he explains: "I just wanted to find a place to sit and breathe slowly to save gas."
+
+Seeing him sit down, the guide immediately swims over. Before the guide can do anything, someone else races over to them — second stage still in, *shouting* and gesturing furiously, very much an "what on earth are you doing?" energy.
+
+I thought it was another guide coordinating routes. On the boat we find out: the other team's guide was warning our guide that *that* sandy patch is a Manta cleaning station, a protected zone — no one allowed in.
+
+Their boat is waiting on the surface; the boats come alongside and ours gets a second lecture. Later I ask our guide; he'd only joined Komodo this past May and had never heard of the rule. A small alarm goes off inside me — *this is going to be okay, right?*
+
+In the afternoon we go to Pink Beach. The internet photos are a lie. From far away the sand really doesn't look pink. Up close, yes, you can see flecks of red coral powder.
+
+On the beach there's a bare-bottomed little boy playing with coral, all dark tan, running around looking for coral pieces, building himself a little "fort." Adorable.
+
+A bare-bottomed boy by the sea playing with sand is as carefree and happy as a child on land playing in mud. Humans really do contain every kind of possibility; different environments unlock different latent abilities.
+
+Night dive — saw a sea turtle. Twenty-six degrees, body says cold.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/9.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/10.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/11.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/12.jpg)
+
+16 August 2023
+
+Grandpa messages to say that after our video call with Du-zi yesterday, the kid cried for over half an hour. He asks me to ease off and not video him for a while. Heartbreaking and helpless.
+
+First dive at Secret Garden. Lots of small things: two seahorses, four manta rays, several blue-spotted stingrays. New dive guide today, two big front teeth, fierce style — he pulls aside corals with his bare hands. He's trying to find small things for us to look at, but he keeps pulling at the coral; I couldn't stand it and stopped him. *Protecting the environment comes first; showing us things comes second.*
+
+Second dive, at Three Sisters — three rocks with marine life clustered around them. Schools of fish, soft corals, all kinds of small life — I feel like I'm inside an aquarium. Big-teeth leads us around the rocks; current's a bit strong. After we round the corner I notice — *wait, are we short a few people?* I look 360 degrees and find A-kai and Sister Y have floated straight to the surface. Big-teeth goes up to fetch them; I find a nearby buddy and do a five-metre three-minute safety stop. Photographer Tutu even takes a picture of us.
+
+Third dive in the afternoon — the main group goes hiking. Du-ge, Qi-ge and I go with Hani to look at a wreck. A leisurely dive. Saw an octopus changing colour, a Spanish dancer nudibranch, a moray eel, a stonefish, a school of barracuda, tiny blue shrimps, and a fish with wings — the wing tips flashing with purple and yellow light. Nature is amazing.
+
+Night dive too cold — skipped.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/13.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/14.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/15.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/16.jpg)
+
+17 August 2023
+
+First dive of the morning is my hundredth dive. The Panda's crew sweetly prepared a "100th dive" sign for an underwater photo. After dinner they brought out a little hundred-dive cake. So ceremonial.
+
+Tomorrow we go to the legendary "shotgun current." Tonight, having skipped the night dive, I overhear our boat manager Guang-ge and team leader Xiao Yuan evaluating everyone's dive skills — who needs special attention, who shouldn't be on Shotgun. I get a little jittery.
+
+Tuanzi shares her near-death dive story over dinner. At the Blue Hole she lost the guide, floated on the surface for six hours, fully sunburned, tried to climb ashore but the rocks were too sharp and cut her legs, and was only rescued at sea once she'd become hypothermic. Hair-raising. Were I in her shoes I'd probably have given up diving.
+
+Today's dives were all easy drift dives. Saw countless black-tip and white-tip reef sharks.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/17.jpg)
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/18.jpg)
+
+18 August 2023
+
+I wake several times in the night, half-dreaming of Du-zi.
+
+Morning, the legendary Shotgun. Guang-ge and Xiao Yuan both on our group. Dive guide one-on-one with A-kai. Xiao Yuan one-on-one with Sister Y. Xiao M and I buddy up and follow Guang-ge.
+
+Shotgun lives up to its name. We come out of a beautiful coral basin through a hole; I see Guang-ge turn and clamp himself onto a large rock. I instinctively turn too — the current hits me face-on, like a north-China winter gale. I reach for a rock, miss the grip, and get blown out. I quickly hook into Guang-ge's BCD ring, fin against the current, and find the rock again. Guang-ge pulls me back. I find a hole and hook my fingers into it, exhale to sink, press myself against the rock. Once steady I look around for my buddy Xiao M — not visible. Guang-ge sees the reef hook on me, helps me clip it on properly. I still don't dare let go of my fingers from the hole, clinging on for dear life. Terrified of being blown away.
+
+The other rocks around us are studded with our team; big-teeth guide takes a group photo. Then he releases the line and lets us drift. I stay glued to Guang-ge; Xiao M catches up. After kicking against the current for a stretch we reach a sandy patch; Guang-ge signals me over, low to the sand, and does something to my tank behind me. On the boat afterward I learn my tank had come loose — probably blown loose by the Shotgun current. Guang-ge fixes it. Then he points: a white-tip reef shark gliding past. We've seen a white-tip or black-tip on basically every dive.
+
+Second dive was supposed to be easy, but we hit a downcurrent; Sister Y's tank pressure alarm went off; we ended early. At the safety stop we drifted into blue water, current still strong; I kicked back to my buddy. So far the most tiring dive of the trip.
+
+In this dive I deployed my first properly inflated DSMB in my life. Before I could feel pleased, the spool got blown away by the current; thankfully current was stronger than gravity and the spool went sideways straight to Xiao M, who grabbed it for me — quick reflexes.
+
+Third afternoon dive, briefed as an easy drift dive. Our group only has four — me, dive guide Hani, leader Xiao Yuan, and Sister Y.
+
+The first thirty minutes are pleasant; we drift past huge coral fields and see two white-tips chasing each other. Around a coral reef Hani signals us to go around. I kick in the direction he points but the current keeps pushing me further off. I try to lower my body and slice along the reef — no progress; I get pushed further and further out into open sea. The team is almost out of sight. I panic — through my regulator I make a loud *aaahhh* distress noise, signalling Hani for help. He starts swimming toward me. I scrabble for any rock to hold; I find a big one and grip. Hani comes down past me on the current, grabs a small rock behind me, and rock-climbs his way up the current to me. The current is huge.
+
+He grabs me and together we drift with the current into blue water and do the five-metre safety stop. Those three minutes are *very* long. Hani holds me tight, keeps checking my air. Around us, only blue water and current; I have no idea where we are. Maybe still drifting. I think: if Hani hadn't seen me, if I'd been swept away alone, doing the safety stop on my own would have terrified me to death.
+
+We surface and pull off masks. Hani's first words: he hopes Xiao Yuan and Sister Y are safe. The Zodiac spots our DSMB and picks us up. Once aboard, Hani scans the surface for Xiao Yuan's DSMB. Finally we see them, far away, with another dive group. Only then does Hani seem to relax. The Zodiac runs out to fetch them; it takes several minutes. By eye, we've been swept twenty or thirty nautical miles. Still racing with adrenaline.
+
+19 August 2023
+
+Morning first dive, an easy down-current dive near the reef. Our group still hasn't escaped the rule of "something every dive." Around the thirty-minute mark Tutu's tank runs out; he signals the guide. The guide gives Tutu his octopus. We all start preparing for the safety stop.
+
+Seeing the guide has his hands full, I gesture that I'll deploy the DSMB — ha, another properly inflated one! One of the biggest gains from this trip was lots of practice deploying DSMBs. While at the safety stop Sister Y floats up in front of me; I want to pull her down but worry I can't handle it. I give up.
+
+Second dive, back to Shotgun, Guang-ge with our group again. This time the guide takes the easy route — over the coral reef and down to a low-current sandy patch, not into the gun-mouth itself.
+
+Drifting on the sand I accidentally drift in front of the guide; having learnt from yesterday I exhale to lower body and ride the bottom. Current is right to left. The guide hasn't caught up; I grab a rock. A-kai and Sister Y are to my right, holding rocks; A-kai has clipped in. The guide drifts to my left and grabs a rock too — now he's at the head, Guang-ge at the back, we're in the middle. He signals: too much current here, don't hold any more, ride the current. I let go and follow him left, glance back — A-kai is still hooked in, Sister Y still grabbing rocks. I kick up to the guide and tap him: the rest haven't followed. He pings his ping-ping rod to call everyone, and the team regroups. Safety stop above a beautiful patch of reef. Another properly inflated DSMB.
+
+Third dive — easy fun drift dive. Current mild but enough to push us along. As soon as we descend, a big manta; at the safety stop another big manta, very close, slowly and elegantly waving its wings in front of us. Two or three white-tips. Almost every dive in Komodo has been a white-tip or black-tip dive. Fields of corals, varied species, brilliant colours, intact structure. Astonishing. Each time I see a diver's fin kick a coral or someone poke a hole into one with a ping-ping rod, I feel heart-sore and angry. Another properly inflated DSMB. Back on the big boat the guide shakes my hand and says "nice dive, thank you." Happy.
+
+In the evening I skip the night dive; Tutu and A-kai are up on the top deck talking about past dives. Hot pot for dinner.
+
+20 August 2023
+
+Last dive. The guide takes us to a gentle sandy zone for a group photo.
+
+We came across a cuttlefish family laying eggs in hard coral; the whole group gathered round in attendance.
+
+ ![](/images/wechat/ke-mo-duo-chuan-qian-ji/19.jpg)
+
+21 August 2023
+
+Heading home. In Jakarta I take a small moped on a city tour. Grab, Shopee, Vivo, Oppo, Mixue everywhere on the streets.
+
+Find an Instagram-y café in a so-called two-hundred-year-old Dutch colonial building and drink a very good avocado coffee.
+
+![](/images/wechat/ke-mo-duo-chuan-qian-ji/20.jpg)
+
+Transit through Singapore, revisiting old haunts, a thousand thoughts at once.
+
+On the flight back to Beijing I watch *The Secret Life of Walter Mitty*. I'd seen clips before but never the full film; finally watched it through, and it landed beautifully. Our literary culture lays so much weight on "poetry and far horizons," when in truth the people who can settle themselves in daily life and do their everyday work well are the ordinary heroes.
+
+"If you've seen Greenland, the Himalayas and the volcanoes of Iceland, life will never beat you down."
+
+---
+
+A divider for photos, mostly copyright at Tutu
 
 ![](/images/wechat/ke-mo-duo-chuan-qian-ji/21.jpg)
 

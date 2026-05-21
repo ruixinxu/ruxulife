@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "德奥湖山记"
+title_en: "Germany, Austria, Lakes and Mountains"
 date:   2025-12-25 18:08:24
-categories: wechat
-tags: [wechat]
+categories: ruxu-life
+tags: [ruxu-life]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483994&idx=1&sn=19480f95f00ed3d2cb37f16837d863c3&chksm=9b464ff2ac31c6e46ea8cb64bbe3d50623b85159620d5edb5f6850bd803e3bc911c25c7329f0#rd
 comments: true
 share: true
@@ -90,5 +91,91 @@ share: true
 ![](/images/wechat/de-ao-hu-shan-ji/3.jpg)
 
 猪杂粿条
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+This September and October I was on the road non-stop. After a business trip in Austria, a quick tour through Germany and the Czech Republic, then a brief stop in Shenzhen, and immediately off to Hubei, and then on to Shandong.
+
+I wanted to write about it as it was happening — and now, picking up the pen, it's already three months later. Just as well: I can record the impressions that survived after time had done its sifting.
+
+# What travel is for
+
+Every business trip, getting along with foreign colleagues touches my blind spots and gives me a small dose of "culture shock."
+
+First, the language barrier. My English is just enough to muddle through daily work, but in casual chat with foreigners I can't keep up. So many everyday expressions — not even slang — go right past me. One colleague was excitedly telling me about a home-cooked meal his Chinese mother-in-law had made. One dish he mentioned by a name I didn't catch; he gestured and explained "it's green, it's long" — but in the end I still couldn't tell whether it was celery, asparagus lettuce, or string beans.
+
+Second, the cultural gap. The essays we read as kids, the films we watched, the music we listened to, the celebrities we followed — they're all so different. Once at a hang-out, everyone went around sharing their "champion music." I didn't recognise any of theirs; and the Chinese songs I could think of (never mind whether the translation worked) they certainly wouldn't know.
+
+Third, my embarrassingly thin knowledge of world history. World history is a near-blank for me; many countries are only a name in my head. Before this trip to Vienna, I didn't know Austria was a German-speaking country. When a Polish-heritage colleague mentioned growing up in Kuwait, I was puzzled — why would a European grow up in the Middle East? On our one day in the Czech Republic we wandered around Prague and I was startled to see Kafka's house. Wasn't Kafka from the "Austro-Hungarian Empire"? How is his house in Prague? Thank goodness for Doubao, which patiently answered all my questions and gave me brief intros on "the 20th-century oil economy of Kuwait," "Poland's foreign labour-export policy," and "the historical-geographical evolution of the Austro-Hungarian Empire and modern Czech Republic."
+
+When I was younger this sense of distance from foreign colleagues used to bother me, and I thought about studying hard to fit in better. Now I'm at peace. I accept that the difference is there, I admit my blind spots, and I'm in no hurry to fill them.
+
+After getting home, I re-read Zweig's *The World of Yesterday*. The Austrian and German parts felt unexpectedly familiar. Strange place names like Salzburg that I used to skim over had now become concrete. I even read Zweig's account of his difficulty fitting into English society as a young man, and felt a small flicker of fellow-feeling.
+
+Going out and coming back to old books gives them a different flavour. The curiosity that fires up in unfamiliar territory turns me back into a child full of question marks. The world is wide, and there is still so much waiting to be explored. More than the food and the scenery, *that* is the more compelling meaning of travel.
+
+# The wonderful women
+
+Three other girls travelled with me on this trip, and for nearly two weeks we were together morning to night. Four people from utterly different backgrounds, with utterly different temperaments and tastes, somehow within those twelve-odd days settled into rhythm together, made up our own inside jokes, and would burst into laughter at the mention of a code-word — for a moment I was back in a girls' boarding-school dorm. To have an experience like that in mid-life is luxury.
+
+As I write this, the Germany–Austria trip is already three months in the past, and remembering it I still can't help marvelling: travelling with girls is *wonderful*. They make detailed itineraries; they hold actual planning meetings, so every person's preferences and wishes can be accommodated. Before departure they remind one another what to bring, sometimes even take care of one another's packing. From cold medicine to anti-theft phone tethers to all manner of spicy snacks — every imaginable thing, and many you wouldn't think of, they have brought. Out and about, every day, they eat properly and use the bathroom properly. They look after themselves beautifully.
+
+One of the girls was a car nut, not only an expert at finding our way and driving but always glad to share her car knowledge — every vehicle, to her, had its own personality. At the BMW museum I fell instantly in love with my dream car, the Isetta 250 ❤ — sadly long out of production. Later, on a Berlin street, we actually saw a tiny car uncannily like the Isetta in traffic. Look it up — turns out it's a Microlino, just as adorably round and silly. I hope it eventually makes it to China.
+
+![](/images/wechat/de-ao-hu-shan-ji/0.jpg)
+
+My dream car, the Isetta 250
+
+Off-topic — back to the girls.
+
+I work with many women too, and — at risk of being politically incorrect — I really do prefer working with female colleagues. They tend to have more sense of ownership; they see things through to the end, and respond. Communication is smoother. The female bosses I've worked under are nothing like the stereotyped fierce-or-hysterical female bosses of Chinese TV; they are clear-headed, rigorous, warm in expression, very good at fostering cross-team collaboration. The most precious thing is the sense of being a real person: they're honest about their limits, they share their inner feelings — and that I rarely see in male bosses.
+
+After my daughter was born, I am even surer of my "bias": women are wonderful from the very beginning.
+
+A daughter really is a wonderful thing. From early on, my little girl never cried hard at night; when hungry she just whimpered and rolled around on the bed, and the moment a bottle reached her mouth she went quiet. In the morning she sits up by herself, opens her eyes, and smiles at everyone in the room.
+
+Over the National Day holiday I took her alone, by train from Hubei to Shandong, then by plane back to Guangdong. I had braced myself for tantrums and screaming. Instead she was an angel: no crying, no fussing, no screaming the entire way; she greeted other passengers with smiles and little waves and chubby-hand hellos. At meal times she sat quietly in the middle seat waiting for Mum to finish. Getting off the train, getting off the plane, the surrounding passengers would talk to her and praise this little one for being so impossibly well-behaved.
+
+She isn't always so meek, of course. If she meets someone she really likes — especially pretty older sisters — she also shrieks, waves her arms, and demands attention.
+
+This first year after my daughter was born, my general state of mind has been: "with a daughter, all is well." There are always things in life that don't go the way you'd want, but every morning when I wake up and see her little sleeping face, six words drift through my mind: *that is nothing at all*.
+
+# The map of taste
+
+I have come to see that my husband only truly returns to himself when he returns to his hometown. Reading his pieces about how he misses the changes there, the deep tenderness and nostalgia between the lines — it's exactly the "notes from a homecoming" voice that first drew me to him.
+
+![](/images/wechat/de-ao-hu-shan-ji/1.png)
+
+Mr Hu's National Day homecoming notes
+
+Likewise, only when I'm back in Ji'nan, with my parents, do I really relax. Hands stretch out, clothes appear; mouth opens, food appears. Total lie-down, total surrender.
+
+When I got home, Dad asked what I wanted to eat. The home seafood and meat feasts didn't pull at me; the one thing I missed was Shanghe *laodoufu* — old-style tofu pudding.
+
+Shanghe *laodoufu* isn't tough at all — it's "duang-duang" tender tofu, ladled with a sauce of seasoned soy, seasoned sesame paste, chilli oil, and coriander. Forget the south or Beijing — even in Ji'nan it's hard to find one made right. The stuff can't be packed up and can't be flown. Once you leave Shanghe, you really can't eat it.
+
+When I was pregnant with my elder son I had my first real bout of homesickness, expressed simply as: I want *laodoufu*! I scrolled and scrolled on Dianping and finally found a single hole-in-the-wall comment that mentioned "Shanghe *laodoufu*" — I drove there immediately. When I got there it turned out to be a little roadside lamb-soup shop. The owner said *laodoufu* is only available in the morning, and they were sold out for the day. I went back the next morning early and finally had some. Not great, but it scratched the itch.
+
+![](/images/wechat/de-ao-hu-shan-ji/2.jpg)
+
+Shanghe *laodoufu*
+
+During the pandemic, when every city was publishing "notices to people sharing a positive case's movement," one day I saw on a family chat group that a confirmed case back home had eaten Shanghe *laodoufu* three meals in a row. *Envy*. I drooled onto my phone screen.
+
+Why has Shanghe *laodoufu* never broken out of Shanghe and gone national? I don't know the production constraints; purely on flavour grounds, I suspect Shanghe *laodoufu* doesn't have much of a market outside. Southerners largely don't have the savoury-tofu-pudding habit; and where they do, they tend to like Yunnan-Guizhou-Sichuan spicy-savoury notes, and many can't take the sesame-paste taste. Northern *doufu-nao* fans prefer a thick egg-and-wood-ear-and-lily-flower starch-thickened sauce. Even my parents in recent years have shifted to Gaotang *laodoufu*, on the grounds that "the texture is cleaner."
+
+I'm the only one in the family who is fixated on Shanghe *laodoufu* — which isn't hard to explain. I was born and raised in Shanghe until I left for boarding school in my teens. My parents only moved to Shanghe in adulthood for work; my brother only finished kindergarten there. So I'm the only one whose gut flora was shaped by *laodoufu*, and that's why it stays with me.
+
+Lately I notice that my taste buds seem to have quietly zoned themselves: in the north I crave *laodoufu*; in the south I'm hooked on pork-offal *guotiao*. It was after moving to Shenzhen that I tasted the wonder of pork offal for the first time. As Meishan puts it: "Cantonese are the gods of offal" — they can prepare pig offal to be "clean, springy and soft."
+
+A working mother with two kids spins like a top, and if one of the kids gets sick, you're done for — drained, ashen-faced. At that moment a bowl of pork-offal *guotiao* will revive you on the spot, back to full HP, ready for another five hundred rounds with life.
+
+![](/images/wechat/de-ao-hu-shan-ji/3.jpg)
+
+Pork-offal *guotiao*
 
 </div>

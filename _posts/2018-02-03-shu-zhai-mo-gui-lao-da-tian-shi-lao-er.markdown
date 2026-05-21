@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "书摘-魔鬼老大 天使老二"
+title_en: "[Book Notes] First-Born Devil, Second-Born Angel"
 date:   2018-02-03 14:39:19
 categories: wechat
 tags: [wechat]
@@ -72,5 +73,73 @@ share: true
 自己有时候也会想怎样的决定是对娃好的，是出国发展还是留在国内，是继续折腾还是安稳窝着。有人说走过的路去过的地方做过的事情都会变成后天基因遗传下去。有人说在一个地方积累足够的经验可以给娃更好的指引。也在一些转折时刻和父母有过分歧和冲突。争执回旋之后到底还是自己做了决定。朋友们笑说大可不必为娃考虑那么多，因为到时候他们会自己做决定根本不会听你的！
 
 妈妈聚会的话题兜兜转转还是回到“如何给宝宝断奶”上来，大家七嘴八舌分享自己的经验，向阳妈妈幽幽地说“我用了一次风油精之后，宝宝就再也不吃奶了”。叹为观止！人类智慧！赶紧拿小本本记下。我的理想是当妈妈，除了给自己的不羁放纵爱自由找个舒适的空间之外，我还为我的理想准备好了风油精。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/shu-zhai-mo-gui-lao-da-tian-shi-lao-er/0.jpg)
+
+---
+
+When a group of mothers gets together, the conversation inevitably drifts back to the kids.
+
+Yiyi hasn't even been weaned yet, and her mum has already spent ages researching school districts. She rattles off enrolment policies and school profiles district by district: this district's schools are excellent, but the classroom material is so thin that extra tutoring is the norm, the kids work themselves to death; that district allocates places "across the whole district," but "the rich and well-connected snap up everything, ordinary families never get the good schools"… not to mention the eye-watering price per square metre on the district housing. International schools, by comparison, mostly teach to the individual child, and kids tend to be happier. But other parents grumble about international schools too: too many activities, overly socially oriented, kids losing their personal space, depth of thought and capacity to be alone… not to mention the hefty tuition and how, once you step onto that path, it's hard to step back.
+
+The way they tell it, there's just no road forward!
+
+"Can't you just live within your means? Spend if you have it, scrimp if you don't?" I asked. The whole table of mothers gave me a unanimous *just wait until you have one of your own* look and said: "Parents always want to give their child the best!"
+
+So — what is "the best," exactly?
+
+*First-Born Devil, Second-Born Angel* is a parenting book by an "elite" mother, sharing her observations and reflections on education. It's been doing the rounds in my social circles recently. The author is an IT executive — in her son's words, his "beautiful boss." It's a slim, easy read; with all the diary entries to her children and the children's own naive drawings woven through it, it reads less like a parenting manual and more like a memoir of growing up alongside one's kids — warm, granular, and with a point of view. Even without a child of my own, looking back at my own upbringing — and at conversations with my parents — I found it deeply useful.
+
+**Everyone is born different**
+
+Personality is innate. People are extraordinarily different from each other.
+
+In the book, the elder son was, as a small child, a stubborn high-need baby absorbed in his own world. The mother had to spend enormous energy every day "stopping whatever he had latched onto, switching his state," fighting with him over brushing teeth, taking baths, going to sleep, getting up. He didn't like playing with other children. He didn't like team sports like football or basketball. For the first few months of kindergarten he didn't say a single word, and the teachers even suspected a language disorder. The younger son, on the other hand, was a born "angel baby"—obedient, sweet, mischievous and considerate, attuned to what other people needed and able to express things gracefully, "circling around when circling was called for, ingratiating when ingratiating was called for." "At kindergarten he was positive and outgoing, looked after his classmates, and was much loved." By the senior class there were seven little girls trailing after him calling him "husband."
+
+Personality, being innate, is hard to label simply as "good" or "bad."
+
+The elder son, as a small child, "was relatively dull about people and emotions, and that, paradoxically, also showed up as a virtue. The notion of 'a relationship between people' barely existed for him, so he wasn't proud, wasn't jealous, didn't form cliques, wasn't moved by worldly conventions. Whoever played with him, he played with. None of the flaws that come from people-complexity touched him; add to that the academic excellence that comes from sheer focus, and from the outside he did look like a perfect child." The younger son was "a child very sensitive to the human atmosphere, with different needs and worries. He could be unhappy, and he was afraid of others being unhappy, and he always wanted to behave well so everyone would like him. Sometimes this carefulness is a gift, and sometimes it's a constraint. The younger son is more affected by his environment: films, TV, pop culture, the opinions of people around him — he soaks them all in. The elder son, on the other hand, simply doesn't see or hear any of it. Whatever is fashionable at home or in society has nothing to do with him."
+
+Even more interesting: their innate ways of thinking are different too.
+
+The elder son "likes to see how a thing happens, traces causes step by step, and refuses to accept anything that hasn't been clearly proved." The younger son "loves to associate, loves to compare, enjoys the buzz of performing, and doesn't care all that much about the literal truth." Same situation — food has fallen on the floor. The elder son says, "Food fell on the floor. One ant sees food and goes off to call ten thousand more ants, and now there are ten thousand and one ants!" The younger one says, "Food on the floor is going to be eaten by bacteria! Soap can kill bacteria, and the bacteria think soap is really spicy." For the younger son, stepping into someone else's shoes — even imagining what a bacterium feels — is a perfectly natural thing. For the elder son, that empathy is harder; but doing arithmetic in his head is utterly natural.
+
+Jiacong and I are similar. I've always been the *can't-be-tamed-loves-her-freedom* type, "relatively dull about people and emotions," while Jiacong was born noticeably more delicate, sensitive, considerate. Growing up I was told more than once that something I'd just done had made everyone present horribly uncomfortable, and my parents were embarrassed along with them — and I myself hadn't noticed at all (I can't even remember the specific scenes now —_—!). Jiacong, by contrast, has always been the family entertainer, the buffer and lubricant between all sorts of relationships. In middle school, when a good friend stayed over at our place, I'd get up and just do my own thing in the morning, while our little warm-hearted brother would get up first, then run over to ask, "Sister, did you sleep well?" When he was small, though, he often worried: "What will Mum and Dad do if I don't get good grades?" I'd give him a long flat look — what do *your* grades have to do with Mum and Dad?
+
+"We don't need to push a kid who likes being at home out the door, and we don't need to drag a sociable kid back inside. The most important thing is to help the kid find a space where they're comfortable." Raising a child is like running an experiment — observe, explore, try things, adjust, observe again. So interesting.
+
+**The answer to happiness is "the ability to enjoy doing things"**
+
+"If we sit quietly and think about what we hope for our children, we'll find that the deepest hope is that they be happy. All the knowledge, grades, prestigious schools, and 'success' are just means we think will deliver a happy life. As modern parents, we know money can't buy happiness and that success doesn't guarantee happiness. We can teach our kids to be content with what they have, but we also know mindset alone isn't enough. So while we're equipping them with life skills, what should we be teaching them on the social-and-emotional side that points them toward happiness? Is there one thing — one skill that can be learned — that will make them happier across their entire lifetime?"
+
+The answer, she says, is yes: the ability to enjoy doing things.
+
+"The happiest time in a person's life is the time during which they are doing something, and in doing it, lose themselves."
+
+The other day I heard Nuoyan say on a livestream that our education has always been a "bitterness" education — *the sea of learning is endless, only bitterness will get you across*; *the plum's fragrance only comes after the bitter cold*; *eat the bitterest bitterness, become the best of the best*; *hang your head from the beam, prick your thigh with an awl*; and so on. Always "bitterness now in exchange for sweetness later," "the hardship of today buys the happiness of tomorrow." But equating "happy" with "bad student" is logically broken. Every stage and moment of life should be in pursuit of happiness.
+
+The author works in tech, and knows many American programmers who love programming, who enjoy the process of solving problems with elegant logic. Plenty of Chinese programmers who call themselves "code farmers," by contrast, even when their work is excellent, set their goal as: one day, when I've earned X amount of money, I'll quit and never write code again. "And then what will you do? Most of them haven't really thought about it. All they have is 'I don't like this.' People who set 'a life of leisure' as the goal are the ones who don't know that self-forgetting joy." 
+
+"Wisdom, talent, and achievement can coexist with happiness." You have to believe that some people really do find "studying makes them happy," and some people really do "love the work they do." A developer on my team genuinely enjoys "solving problems with code logic"; one day he called in sick on short notice, and later in conversation it turned out he'd been writing a PUBG cheat at home the night before, gotten lost in it, and looked up to find the sun was up. "I just love writing code. They even pay me to write code. How cool is that!"
+
+Every small child has that innate interest in *doing*. One of the big problems with exam-oriented education is that over ten-plus years it costs kids the ability to "like doing things." We might, while they're small, work to preserve their pure, undisguised, purposeless interest in *doing*.
+
+**Education lives inside everyday life**
+
+"Education isn't instant noodles. It isn't a crash course. There's no seven-step method to keep your kid off video games, no twelve-image infographic that will install virtue. Real education lives in the small details of daily life. It's a long process, never a finished one; it's human, not utilitarian; it's part of life itself, not something outside of life."
+
+For some things, modelling them is more useful than lecturing about them. "Manners, refinement, perspective — these aren't so much *education* as *cultivation* or *influence*. They're neither knowledge nor a technique; they're you, all the way through. A sensitive child will ignore everything you say, and imitate everything you do. Raising a child is, at the same time, a process of refining yourself. If you want your child to grow up into a certain kind of person — be that person first."
+
+And some things are things they'll figure out on their own when they're older. "Children have great wisdom. Mothers don't need to worry like the man of Qi who feared the sky would fall. Watching children play together with their parents, I sometimes feel that seventy or eighty per cent of the parents' instruction is unnecessary. A child's life is theirs to live, theirs to experience and understand. Most of the time, parents only need to keep one eye open and one eye closed, and let them be." Everything that's meant to happen, will happen. Almost a century ago, in *The Prophet*, Gibran wrote: your children come *through* you into this world, but they do not belong to you; you are the steady bow, and they are the arrow that flies. It still reads as wise.
+
+I also wonder sometimes what decisions would be "best" for my child: study abroad or stay in China, keep moving and trying things, or settle and stay still. Some say all the roads you've walked, places you've been to, things you've done become a kind of acquired DNA passed down to the next generation. Some say that accumulating enough experience in one place gives you better guidance to pass on. I've also had disagreements and conflicts with my parents at turning points. At the end of all the back-and-forth I made my own decisions anyway. My friends laugh and say I really don't need to think so hard on the child's behalf — when the time comes they'll make their own decisions and won't listen to you at all!
+
+The conversation among the mothers loops back, as always, to "how to wean the baby." Everyone pitches in their own experience, and Xiangyang's mum says, very softly, "After I used Wind-and-oil essence once, the baby never tried to nurse again." Awe! Human ingenuity! I quickly pulled out my little notebook and wrote it down. My dream is to be a mother, and apart from carving out a comfortable little space for my own *can't-be-tamed-loves-my-freedom* self, I've also stocked up on Wind-and-oil essence for that dream.
 
 </div>

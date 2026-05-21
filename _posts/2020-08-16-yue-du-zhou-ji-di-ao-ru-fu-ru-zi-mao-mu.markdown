@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "阅读周记：迪奥+如父如子+毛姆"
+title_en: "Reading Weekly: Dior + Like Father, Like Son + Maugham"
 date:   2020-08-16 12:29:13
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483748&idx=1&sn=9e208708e7638944d899bd747fa154ce&chksm=9b464cccac31c5dafdc60c4a68be4d001aaa0a56f980b01698db443ddc07f11894a8ea61bbba#rd
 comments: true
 share: true
@@ -48,5 +49,49 @@ share: true
 “在伟大的艺术作品面前，一个人的反应到底是什么呢？我知道我的感受如何，那是一种兴奋夹杂着喜悦的感觉，同时充满理性和感性，是一种让我获得某种力量进而从人性的束缚中获得解放的幸福感。同时，我感受到自己处于一种充满人类同情心的温柔心境之中。我因此而觉得踏实、内心平静，精神上也感到超然。如果艺术是一种慰藉，那么足以。这个世界充满了不可比拟的邪恶，如果人类偶尔能从古往今来遗留下来的艺术作品中寻求庇护，这样是极好的。但这并非逃避，而是汲取新的力量来面对这些邪恶。”
 
 毛姆认为善良是最值得崇敬的情感，在《人性的枷锁》里他给了菲利普一个圆满的大结局：和善良的莎莉在一起。当初读到这里只觉得太突兀而且明显菲利普是不爱莎莉的，在随笔中似乎找到了一些解释。毛姆认为善良是幽默对命运荒唐和悲哀的一种反驳，不同于美，善良可以达到尽善却不让人觉得厌倦，同时比爱更伟大，因为善良的光不会随着时间而褪淡。这样看来似乎没有比和一个善良又爱自己的人在一起更好的结局了。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Borrowing books works wonderfully on me as a reading motivator. Two main reasons: first, deadlines are productivity — more than once I've raced through a book right before the loan was due; second, before I return a book (especially when I've hit something I love), I always want to take some notes, mostly to maximize the return on the loan, which also forces me to organize what I've read. The next batch of borrowed books is sitting at my elbow right now; I'm itching to open them, but I haven't finished my notes on the previous batch — "You can't start the next batch before you finish the last batch's notes!" — ugh, my own obsessive streak is maddening.
+
+**Dior's Little Dictionary of Fashion**
+
+![](/images/wechat/yue-du-zhou-ji-di-ao-ru-fu-ru-zi-mao-mu/0.jpg)
+
+This slim little book is the fashion notebook of Dior's founder, Christian Dior. For each fashion element he offers his professional take and practical advice. The book was first published in the 1950s, and yet his advice on fabrics, design elements and accessory pairings reads, sixty-plus years later, not the least bit out of date. Monsieur Dior believes elegance is the right combination of *personality*, *naturalness*, *attentiveness*, and *simplicity*. Without those, there is no elegance. Most important of all is attentiveness — dress with care, groom with care. The most surprising thing is that Dior, of all people, as the face of one of the world's most iconic luxury brands, insists that *luxury is the opposite of elegance*. Elegance can be bold and unconventional, but never extravagant; ostentatious extravagance is bad taste. Better to err on the side of plainness than to be wasteful in dress and ornament.
+
+After Monsieur Dior's death in 1957, Yves Saint Laurent took over as creative director — he was twenty-one. Born in French Algeria (the setting of Camus's *The Plague*), he was conscripted in 1960 when the Algerian War broke out. Whether out of an introverted temperament or because of his being gay, he announced a nervous breakdown and was hospitalized; from there he parted ways with Dior and founded YSL. And so, eventually, the world got the perpetually-out-of-stock Touche Éclat No. 52.
+
+**Like Father, Like Son**
+
+![](/images/wechat/yue-du-zhou-ji-di-ao-ru-fu-ru-zi-mao-mu/1.jpg)
+
+Read *Like Father, Like Son* and bawled my eyes out. It's clearly a fictional story, the characters and plot have a heavily designed feel — and yet I was moved deeply. Two boys, about to start elementary school, are informed by the hospital that they were swapped at birth. To prepare the children for going back to their biological parents, the two families start meeting. One family: an architect father, busy at work every day, with no time for his son. The other: a small shopkeeper father who horses around with the kid all day, plays with him constantly, and can even fix electric toys. Different social classes, different home atmospheres, different ways of relating, all unspool into one story after another, and both families begin reflecting on themselves. The bonds built through raising a child — especially a child's love for his father — are equally pure in both households. This kind of family-bond story is a reliable button to push on my tear ducts, but I have to admit, Hirokazu Koreeda is unusually good at family stories. Last year I watched *Shoplifters* and *Our Little Sister*; both films have very few dramatic peaks; the inner emotions of each family member, and the ties between them, all leak out through the lightest descriptions of expression, gesture, and dialogue. Very East Asian, very Ang Lee.
+
+I didn't know while reading that *Like Father, Like Son* had been made into a film. After finishing the book I went and watched a film trailer and cried all over again.
+
+**Reading: A Refuge You Carry With You** (Maugham)
+
+![](/images/wechat/yue-du-zhou-ji-di-ao-ru-fu-ru-zi-mao-mu/2.jpg)
+
+Maugham's reading essays — entertaining and dense with substance. Maugham believes pleasure is the first principle of reading, and that writers (especially novelists) shouldn't shoulder the responsibility of disseminating knowledge.
+
+In "What kind of person writes what kind of book," Maugham shares the personal lives of many literary giants — read as gossip, it's juicy. Austen, Stendhal, Dickens, Flaubert, Balzac, Dostoevsky stop being cold names in literary history under Maugham's pen and become real, living ordinary people, struggling and bobbing in the chaos of life. Many of their great works weren't bolts of inspiration either — they were forced out of them, hammered into shape day by day by the pressures of life. The literary masters often dissect human weakness in their work; in real life, they themselves are often prisoners of the very same human weakness.
+
+![](/images/wechat/yue-du-zhou-ji-di-ao-ru-fu-ru-zi-mao-mu/3.jpg)
+
+Reading these literary giants' private lives alongside Maugham's *Of Human Bondage* is especially fun. You can see the originals and the shadows of many novel scenes. *Of Human Bondage* is Maugham's autobiographical novel — a thick volume, but easy to read; finishing such a doorstopper in not too long is satisfying in itself. In the novel, the protagonist Philip is studying painting in Paris and agonizes over whether to keep seeking the verdict of a master — that scene is taken from the young Balzac sending his play to a professor; even the professor's reply is the same. Philip funds a trip to Paris for the woman he loves, Mildred, with a philandering roommate; Dostoevsky funded the woman he loved, Maria Isaeva, and Vagonov as they completed their wedding. Philip and Dostoevsky also share a streak of masochism: as the woman they adore repeatedly slights and mistreats them, their devotion only deepens. Maugham even has Philip's first love refer dismissively to Maupassant's superficiality.
+
+The praise of beauty and goodness Maugham develops in his essays is fully echoed in *Of Human Bondage*.
+
+In Philip's poorest, most rootless days, when he had nowhere stable to live, he went to the museum to look at art for comfort. In his essays Maugham describes his own feelings this way:
+
+"What, exactly, is a person's response in front of a great work of art? I know what I feel: an excitement laced with delight, at once rational and sensual; a happiness that gives me a kind of strength and frees me from the bondage of human nature. At the same time, I feel myself sliding into a gentle frame of mind filled with sympathy for humankind. That makes me feel grounded, inwardly at peace, and spiritually a little above the moment. If art is a consolation, that is enough. The world is full of incomparable evil; and if humans can occasionally take shelter in the works of art left behind by all those who came before, that is wonderful. It isn't escape — it's drawing fresh strength to face the evil."
+
+Maugham believes goodness is the most worthy emotion, and in *Of Human Bondage* he gives Philip a tidy, happy ending: he ends up with the kind-hearted Sally. When I first read it, the ending felt abrupt, and it was obvious Philip didn't really love Sally. Maugham's essays seem to offer some explanation. He believes goodness is humour's rebuttal to the absurdity and sorrow of fate. Unlike beauty, goodness can be perfected without becoming wearying, and it is greater than love, because the light of goodness doesn't fade with time. Looked at that way, there really may be no better ending than ending up with someone who is kind and who loves you.
 
 </div>

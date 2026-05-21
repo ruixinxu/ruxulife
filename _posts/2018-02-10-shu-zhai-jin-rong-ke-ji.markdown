@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "【书摘】金融科技"
+title_en: "[Book Notes] Fintech"
 date:   2018-02-10 19:49:04
 categories: wechat
 tags: [wechat]
@@ -57,5 +58,55 @@ best way to predict the future is to invent it（最好的预测未来的方法�
 区块链不仅是一个工具，更是一种思想。它和互联网一样具备强叙事性，每个人都可以对其存有自己的理解。
 
 如果说互联网代表了开放、平等、协作、共享的精神，区块链则在其中加入了信任这个核心元素。今天，互联网之所以给商业社会带来了深刻的影响，正是由于它打破了信息不对称。然而，互联网对信息不对称的打破还远不够彻底。由于没有可靠的信用保障及传输机制，我们仍然需要以来大量中介机构来保证价值的可靠存储和转移。这些中介机构的存在不仅降低了价值传输的效率，也增加了价值流通的成本。下一个阶段，以区块链为核心技术，将在现有信息互联网的基础上构建出全新的信用传输层，使在网上传递的信息有明确的价值归属，实现价值在全网的高效流动，信息互联网就升级成了价值互联网。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/shu-zhai-jin-rong-ke-ji/0.jpg)
+
+This book is available to borrow — message us if you're interested.
+
+---
+
+Sitting in on a publishing house annual meeting, I heard an editor propose using blockchain to sell books. *Liberal arts kid brainwave levels are off the charts!* As someone who actually works in tech, I'm a little ashamed I've never really understood what blockchain is. Waves I can't catch, hype I can't ride, fans I can't grow — the three characters of "Mumu Xu" can pretty much be defined as "the slow-clap emoji."
+
+A few days later, when old-young-middle generations of tech workers gathered for a New Year's get-together, blockchain became the hot topic again. After we'd chewed through the basic concepts, the technical implementation, industry gossip and investment tips, someone asked, "So what fundamental problem does blockchain actually solve? Where exactly is its value?" — and a room full of nerds couldn't really give a good answer. I was delighted: I wasn't alone after all!
+
+A lot of tech people are sceptical of blockchain. They know all about digital signatures, hash encryption, consensus algorithms, Proof of Work, Merkle Trees… But is a decentralized system necessarily more efficient than a centrally coordinated one? Does this technology that seems to challenge conventional institutions actually have a future?
+
+Talking about technology without anchoring it to business is like floating in the air. This book, *Fintech*, lays out the value blockchain brings in the financial domain. Different people really do look at the same thing through very different lenses. There aren't many technical details in this book, but it explains the history of blockchain, its applications in finance and the likely shape of its future development very clearly.
+
+In a talk on blockchain, the investor Wang Chuan quoted Alan Kay: "A change in perspective is worth 80 IQ points." Being able to truly grasp how different groups, at the same time, read the same thing through different — even opposite — lenses is enormously important. For example: there are still billions of people in the world without reliable, convenient financial services; many countries in Latin America and Africa have chronic hyperinflation. A digital currency that holds value and is easy to encrypt is a real new option for them. The Cyprus government raiding depositors' accounts, Modi pulling India's large notes, Venezuela's hyperinflation — every time something like this happens, huge numbers of new users get pushed toward digital currencies, despite all their unresolved problems. People in developed countries may simply find this hard to understand.
+
+Understanding different groups is hard; predicting the future is harder. But Alan Kay has another, earlier line: "The best way to predict the future is to invent it." If blockchain really does usher in the era of the Value Internet, then publishing — an industry battered in the Information Internet era for lack of value protection — might genuinely rise again, and reclaim the value-respect it always deserved. "Using blockchain to sell books" may even turn out to be where things are headed.
+
+Note: *Fintech* is not a book specifically about blockchain. It takes "a more macro perspective on the logic of how fintech has evolved, on what the future shape of the financial industry might look like, and on how financial institutions may respond." For a finance "Muggle" like me there's so much dense material in it that I kept choking on it. I got the book in October of last year and only just finished it. "One day in crypto-land is one year in the rest of the world," so on crypto-land's clock this book is already a classic from a century ago.
+
+---
+
+The following passages are excerpted from *Fintech*.
+
+In the long river of human civilization, two inventions occupy a particularly singular place — nothing else can compare with them. They are *writing* and *money*. The invention of writing allowed humans to reliably communicate and pass things on at the level of mind. The invention of money allowed humans to do the same thing at the level of matter. In essence, writing is a medium of human communication and carries information; money is a medium of value transfer and carries credit.
+
+Since the birth of both, humans' ways of transmitting information and exchanging value have never stopped iterating and evolving. The means of transmitting information have advanced from writing to printing to electrical signals; the means of transmitting value, broadly speaking, are the history of money itself.
+
+The arrival of the Internet was a leap forward for the transmission of information: information could now flow point-to-point at high efficiency across the globe, without going through a third party. The Internet, however, has no built-in mechanism to protect *valuable* information. The cost of copying, transmitting, or even tampering with a piece of information online is essentially zero — we cannot transmit information with ownership attached, point to point. In other words, our means of transmitting value has not been upgraded in step. On the Internet, we face an awkward asymmetry: the capacity to transmit information far outstrips the capacity to transfer value. Information transmission and value transmission are inseparable; once we have an Internet — a global, efficient, reliable system for information transmission — we will inevitably demand a matched, equally efficient and reliable system for value transmission.
+
+At its core, blockchain is a much bigger narrative. From the angle of "money and ledger-money," its essence becomes clearer.
+
+*The Island of Stone Money* describes the curious currency of the island of Yap. Large, thick stone wheels — *fei* coins — make up the local monetary system. Islanders trade frequently, but the trades are mostly mutual debt offset; the actual settlement is usually left to roll into later transactions. Even at the final reckoning, the fei coins are rarely moved. The locals just place a mark on the stones to show that ownership has changed hands. The owner doesn't have to physically hold the coin. Yap's currency isn't the fei coin itself — it's the system of credit records, and the clearing of those credit records, behind it.
+
+That is exactly what blockchain is at heart: a decentralized accounting system. And Bitcoin is the "digitally instantiated" money living on top of that system — Bitcoin is only the visible token; the blockchain is the system of credit records and credit-record clearing behind it. It represents a credit system that can transmit value peer to peer, a system without an authority centre or third-party institution, where participants reach safe, reliable consensus and value transfer guaranteed by mathematics.
+
+Finance is an industry built on trust. To safeguard trust, alongside the development of finance, a large number of intermediaries have emerged: custodians, third-party payment platforms, notaries, banks, exchanges, and so on. They are an indispensable part of traditional finance, but by their nature they bring high cost, low efficiency and risk of single points of failure. In a traditional securities trade, for example, after the securities owner issues a trade instruction, the instruction has to pass in sequence through the broker, the custodian, the central bank and the central registry — four institutions in coordination — before the trade can complete. The whole process is slow, expensive, and produces powerful intermediaries. Likewise, each business system and back office inside financial institutions involves long workflows and many handoffs. VISA, MasterCard, Alipay — they all run on centralized architectures; money transfer has to go through third-party institutions, which makes cross-border transactions, currency exchange and internal reconciliation costly in time and exposes capital to risk.
+
+Blockchain can raise automation, simplify long financial-service workflows and lower operating costs. The process by which a transaction is confirmed on a blockchain can be thought of as simultaneously achieving clearing, settlement and audit. Because every transaction must reach network-wide consensus, it actually provides stronger oversight than an audit.
+
+Blockchain is not just a tool — it is also a way of thinking. Like the Internet, it has strong narrative power; everyone can hold their own interpretation of it.
+
+If the Internet stands for openness, equality, collaboration and sharing, blockchain adds a core element: *trust*. The Internet's profound impact on the world of business comes from breaking information asymmetry. But its breaking of information asymmetry is far from complete. Because there is no reliable mechanism for guaranteeing and transmitting credit, we still rely on a large number of intermediaries to ensure value can be reliably stored and transferred. The existence of these intermediaries lowers the efficiency of value transmission and raises its cost. In the next stage, with blockchain as the core technology, a brand-new credit-transmission layer will be built on top of the existing Information Internet — so that information transmitted online has clear value ownership, and value flows efficiently across the network. The Information Internet will be upgraded into the Value Internet.
 
 </div>

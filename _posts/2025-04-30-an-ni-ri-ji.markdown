@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "安妮日记"
+title_en: "*The Diary of a Young Girl*"
 date:   2025-04-30 15:18:12
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483847&idx=1&sn=b152ec7fdb46d5c26b6448c50d2c0990&chksm=9b464c6fac31c57945d7ed8a3d20e1b73a1cd2fa545fea675585de72e4e82658a7ed3ba0e10e#rd
 comments: true
 share: true
@@ -110,5 +111,111 @@ share: true
 虽然有时候我的确挺沮丧的，但我从不绝望。哈，我把这种“地下生活”看成一场浪漫又刺激的冒险之旅，那些艰难困苦的经历就是有趣的日记素材！我发誓，要过一种不同于其他女孩的生活，长大以后也不能像一个平凡的家庭妇女那样过一辈子。看呢，这儿的生活就是我人生精彩的开端。所以越是在危险的时刻，我就越要保持镇定，用旁观者的姿态一笑而过。
 
 我还年轻，还有很多潜质没发挥出来。对，我要以饱满的精神继续这场探险，不能整天唉声叹气！我要发挥我的优点，再积极乐观、再坚强勇敢一点。噢，我觉得自己每天都在成长，解放就要来临，大自然日渐灿烂，周围的人们无比友善，多么有趣的一场冒险啊！我还有什么理由绝望呢？
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/an-ni-ri-ji/0.jpg)
+
+Anne Frank was born in 1929 in Frankfurt, Germany, into a wealthy Jewish merchant family. She spent a happy childhood cared for by her family. In 1934 the Frank family moved to Amsterdam, in the Netherlands.
+
+In 1940, Germany invaded the Netherlands and instituted harsh anti-Jewish policies there. On 5 July 1942, the German authorities summoned Anne's sister. The next day, the Frank family fled in haste and went into hiding in the "secret annex." With four other Jews seeking shelter, they hid in the secret annex for two years.
+
+In her diary, the young Anne records, with sincerity, two-plus years of life in hiding: the day-without-light hiding, the constant companion fear, the extreme shortage of supplies, the warped human relationships, her adolescent rebellion, her curiosity about the opposite sex. And also: her longings, her dreams, and her reflections on war. She longs for freedom, for nature, for love; she refuses to live an ordinary life. She dreams of a cause worth giving her life to: becoming a journalist, writing great works, "living forever in the hearts of others."
+
+Reading is intensely personal. Each of us, with our different life experience, environment, and life stage, takes something different from a book.
+
+Reading *The Diary of a Young Girl*, two "selves" inside me kept getting touched. One was my younger self, who envied Anne — envied her wonderful teachers, the father who understood her, and the many suitors. The other was the mother in me. Every time I read a rebellious-teen rant about her mother, I'd sit up straighter and take it as a warning: I must not, on any account, become *that* kind of mother!
+
+Tragically, Anne did not live to see freedom return after the war. On 4 August 1944 the secret annex was betrayed; the Gestapo broke in and arrested the eight people in hiding, and shipped them to concentration camps. In the spring of 1945 Anne died at Bergen-Belsen; she was not yet sixteen.
+
+And yet her words carry her thoughts forward, and eighty years on still encourage me to keep writing my present.
+
+I often hesitate over whether to write, feeling my prose isn't good and my insight isn't deep. Anne's diary makes me believe more firmly that each of us is a unique piece of the great tide of our specific era. The individual voice is precious. What we have to do is just to set down, truthfully, what we think and feel. As Anne puts it: "Even if I don't have what it takes to publish a book or write for newspapers, I can still write something for myself."
+
+—————The following passages are excerpts from *The Diary of a Young Girl*—————
+
+**21 June 1942 — Anne writes about her maths teacher:**
+
+For a while Mr. Keptor, our maths teacher, was very angry with me, because I talked in class. He punished me with an essay titled "A Chatterbox." What was I supposed to write? At the time I had no idea, and only jotted the title down in my notebook, thinking I'd come back to it later. To stop annoying Mr. Keptor, I tried to keep my mouth shut for a while.
+
+In the evening, after finishing the rest of my homework, I remembered the essay. I put the back of my fountain pen in my mouth and thought about the topic: anyone can write a couple of sentences, but how do you actually argue *for* the necessity of being a chatterbox? I thought and thought and suddenly the inspiration struck, and I dashed off the assigned three pages. My argument: being talkative is a woman's nature. Yes, I'd like to overcome it, but it's a nature you can never quite shake — because my mother is as talkative as I am, maybe more so, and what can one do about an inherited temperament? Mr. Keptor laughed out loud when he read it, but when I started talking again in his next class, he set me a second essay. This time the title was: "An Incorrigible Chatterbox." I turned that one in too, and for the next two lessons Mr. Keptor made no complaint. By the third lesson he couldn't take it any more: "Anne, you really talk too much. I'll punish you with another essay. Title: 'Quack-quack-quack, said Miss Duck-Mouth.'" The whole class burst out laughing. I had to laugh too, but inside I was worried — the chatterbox topic had already run me dry. I had to find something else, something genuinely original. Luckily my friend Sanne is good at writing verse and she agreed to help me write this one as a poem. I jumped for joy.
+
+Mr. Keptor had meant to embarrass me with the silly title, but I fought back and made him a laughing-stock in front of the whole class. The poem was perfect. It told the story of a mother duck and a father swan, with three little ducklings; the three ducklings, after quacking all day, were bitten to death by the father swan. Mr. Keptor laughed himself silly, and read the poem out loud in our class with great praise; later he read it in other classes too.
+
+After that, talking in Mr. Keptor's class no longer got me punished with an essay. On the contrary, now he often makes a few jokes himself.
+
+**13 June 1943 — Anne's father's birthday poem for her:**
+
+You are the youngest, but no longer young,
+
+Life is not easy, and everyone wants to be your teacher:
+
+"We have been through it, listen to us, we are right!"
+
+"We are clever because we lived through it long ago."
+
+"You must understand that being older is its own kind of wealth."
+
+So life has always been!
+
+One's own faults are tiny,
+
+The faults of others are blown up large.
+
+Bear it, please —
+
+Your parents too are trying to care for you and love you.
+
+Everyone's criticism may grate on you,
+
+But for the peace of this little house,
+
+You must, even if it's bitter, swallow the medicine.
+
+Another year has passed,
+
+The time has not been wasted.
+
+Reading and studying all day, never tired,
+
+Bringing a freshness to all of us.
+
+You hardly grumble — at most: what do I have to wear?
+
+Not a single pair of shorts, my dress and skirt are too short,
+
+The vest barely covers my waist, and my shoes are far too small.
+
+Ah, my dear, how much pain is there that no one can speak of!
+
+**23 February 1944 — Anne writes about the power of nature:**
+
+> "As long as all this still exists," I thought, "as long as there is still bright sunlight and a blue sky, as long as I can still see them, I should not be sad!"
+
+For a lonely or sorrowful person, the best thing is to go out — speak with the blue sky, with nature, with God. There one discovers the truth that everything has its fate and follows its own course, and that God means for people to find joy in the beauty of nature. Because nature can soothe every wounded heart, and only those who love nature can overcome any difficulty and face life with courage.
+
+Perhaps, before long, there will be a like-minded person with whom I'll share the secrets of nature, and the unspeakable, immense happiness it gives me.
+
+**4 April 1944 — Anne on writing:**
+
+Here, I am my own sharpest, most objective critic. I know perfectly well where I write well and where I write badly. People who don't write cannot understand the joy of writing! I used to be sorry I couldn't draw, but now I'm at peace; at least I can write. Even if I never have what it takes to publish a book or write for newspapers, I can still write something for myself.
+
+But I must keep growing! I do not want to live like Mama, or Mrs. van Daan, or other women who busy themselves all day with housework and children and are then forgotten. Besides a husband and children, I want a cause to which I can devote myself!
+
+I want to live, to live on after death in the hearts of others! Oh God, thank you! It is you who gave me this gift, the ability to think, to write, to express with my pen everything that is inside me!
+
+**3 May 1944 — Anne reflects on the war:**
+
+People often ask in despair: "God! Why war? Why can't humans live in peace with one another? Everything is ruined. Why?" There is, to date, no satisfying answer. Yes — why do humans build bigger and bigger aircraft? Bigger and bigger bombs? Why, on the one hand, do we level homes, and, on the other, never tire of rebuilding them? Why, day after day, are we pouring millions into war, yet refuse to spend a cent on medical research, on artists, on the poor? Why are some people in the world hungry while elsewhere food is so plentiful it rots? Ah, why is humanity this insane?!
+
+Kitty, do you say the war is just the work of great men, politicians and capitalists? No, absolutely not! I think every small person, every ordinary person, also bears some responsibility — otherwise we would have rebelled by now! Right? Because in every person's heart there is some impulse to destroy, some urge to kill one another and tear everything down. War is the clearest demonstration of this: it tramples on everything humanity has built, nurtured, developed; it sends innocents to death and renders people homeless. I believe the only way out is to begin over again — only by a thorough washing of the human heart can we end war and make peace.
+
+Although sometimes I really am very depressed, I have never despaired. I treat this "underground life" as a romantic and exciting adventure, and these hardships are just interesting diary material! I have sworn to lead a life different from other girls'; even when I grow up, I won't live the life of an ordinary housewife. Look — this life of mine here is the wonderful beginning of my life. So the more dangerous the moment, the calmer I must be; with the stance of a bystander, smile and let it pass.
+
+I am still young, with much potential still unrealised. Yes, I must continue this adventure with full spirit, not spend the day sighing! I must use my strengths, be more positive, more optimistic, more steadfast and more brave. Oh, I feel I am growing every day; liberation is on its way; nature is more brilliant by the day; the people around me are immensely kind — what an interesting adventure! What reason have I left to despair?
 
 </div>

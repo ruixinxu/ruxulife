@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "关于珍·古道尔"
+title_en: "On Jane Goodall"
 date:   2024-01-03 19:02:46
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483789&idx=1&sn=5ef8fecc78d24cfdc4deb3fc04ea0b55&chksm=9b464c25ac31c533cd43564221f5aa23c8111acd9ef36cc8d9458f08c7dfd4c134509c06dad1#rd
 comments: true
 share: true
@@ -38,5 +39,39 @@ share: true
 “人类并不像我以为的那样与其他动物有很大的区别。”珍的这句话，让我想起最近非常火热的关于通用人工智能（AGI）威胁的讨论。OpenAI的首席科学家Ilya 在谈及AGI对人类的威胁的时候，曾经做过一个比如，AGI对待人类就像人类对待动物一样，“并不是说AGI会主动憎恨人类并想要伤害他们，并不是说我们讨厌动物。我认为人类热爱动物并且对它们有很多感情，但当需要在两个城市之间修高速公路时，我们不会争取动物的许可。”
 
 有很多人，包括Ilya自己在内，都在努力确保AGI能有人文关怀。而我在想，我们是不是可以先从自己做起，对动物们多一些人文关怀？比如拒绝野生动物制品？比如拒看动物表演？比如下一次再见到动物们的时候多几分同理心，毕竟，它们比我想象中的能感受到更多。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/guan-yu-zhen-gu-dao-er/0.png)
+
+**"Jane" (the documentary, *Jane Goodall: The Legendary Life*)**
+
+Jane Goodall has been called the Mother Teresa of animal protection. In her early twenties she set off into the primeval forests of Africa, and spent nearly forty years in the field observing chimpanzees. The documentary about her life was re-released in China this year. In it, the young Jane moves nimbly through the jungle in Gombe, Tanzania, sits down on a rock near a troop of chimpanzees, takes out her notebook, and records her observations with a face that is at once calm and content.
+
+Watching the film, two questions kept circling in my head: what kind of motivation and force, in *that* era, drove her to pull off such pioneering work? And what was she actually writing down in those notebooks? To find some answers, I picked up *Reason for Hope* and *Through a Window*.
+
+![](/images/wechat/guan-yu-zhen-gu-dao-er/1.png)
+
+**Reason for Hope**
+
+In the documentary, Jane mentions that she had loved animals and the natural world ever since she was small, and that after reading *Tarzan of the Apes* she'd longed for Africa. She often calls herself lucky to have had the chance to observe chimpanzees in Africa, and frequently says she feels like she's "living inside the dream of her childhood." But after reading *Reason for Hope*, I realized how many hard knocks the road had actually held.
+
+On her first trip to Gombe, she was the only observer. For the first few months she found nothing, and she was deeply anxious that the funding would run out before there was any discovery to show — and the research would simply have to stop. As the situation slowly opened up, she set up a chimpanzee observation station and brought on students to help with tracking and recording. But the challenges never let up: a student fell from a cliff and died; four students were kidnapped. Harder to bear than the kidnapping itself were the public denunciations Jane and her husband faced, and the crisis of trust among friends that followed. Once all of that had quieted, when Jane was ready to publish their findings to the international community, she ran into political problems inside the scientific establishment — "pressures, for political, religious or social reasons, on the question of whether to publish or not."
+
+All those darkest moments made me feel that luck alone could not possibly explain how far Jane had gone down this road.
+
+**Through a Window**
+
+![](/images/wechat/guan-yu-zhen-gu-dao-er/2.png)
+
+Reading *Through a Window* feels like following Jane into the African forest, walking in the chimpanzees' footsteps and slipping into their daily lives at zero distance. Jane gave a name to every chimpanzee she observed — used names, not numbers or codes, to refer to her subjects. She tells the story of the Gombe chimpanzee community in an essayistic, unhurried voice; reading her feels less like reading scientific literature, which one might expect to be dry, and more like listening to a grandmother spin family tales. You may, like me, be surprised to discover that personality, the full range of emotion — joy, anger, grief, happiness — reasoning, altruism, kinship, community, war, cooperation… none of it is uniquely human.
+
+"Humans are not as different from other animals as I had thought." That line of Jane's reminded me of the recent fervent debate about the threat of artificial general intelligence (AGI). OpenAI's chief scientist Ilya, talking about AGI's threat to humanity, once offered an analogy: AGI will treat us roughly the way we treat animals. "It's not that AGI will actively hate humans and want to harm them. It's not that we hate animals either. I think humans love animals and feel a lot of things for them, but when we need to build a highway between two cities, we don't ask the animals' permission."
+
+A lot of people, including Ilya himself, are working to ensure that AGI carries some humane concern. What I keep wondering is: shouldn't we start with ourselves, and extend a little more humane concern to the animals? Say no to wildlife products. Stop going to animal shows. The next time we meet another creature, bring a little more empathy. They feel far more, after all, than I used to imagine.
 
 </div>

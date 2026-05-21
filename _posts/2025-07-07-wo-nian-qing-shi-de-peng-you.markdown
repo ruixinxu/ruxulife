@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "我年轻时的朋友"
+title_en: "*Friend of My Youth*"
 date:   2025-07-07 18:05:58
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483879&idx=1&sn=28fffc3141a63ef21d8656cd04d53c72&chksm=9b464c4fac31c55928ae71193126f73cfd5df35f57f742b78d4dc9feb544bde00e0065eb14c0#rd
 comments: true
 share: true
@@ -110,6 +111,114 @@ share: true
 > 埃夫里尔在甲板上走来走去，听别人交谈。她心想航海旅行原本是为了摆脱一切，“一切”指的是你的生活，你的生活方式，你的家人。而在她听到的交谈中，人们却做着相反的事情。他们都在谈论自己—他们的工作，孩子，花园，容厅。他们交换水果蛋糕和肥料的制作方法。如何对付女婿和投资。疾病，背叛和房产的传言。我说过。我做过，我一直相信。嗯，我不知道你怎么样，但是我…
 >
 > 《善良与怜悯》
+
+![](/images/wechat/wo-nian-qing-shi-de-peng-you/1.png)
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+More than twenty years ago I was a boarding-school student. Each day was a three-point line — classroom, dorm, dining hall — life regular and simple. Back then I read *Mengya* magazine, the New-Concept Composition essays, *City of Fantasy*, *Cherry, So Far Away*, *The Sunflower Lost in 1890*… looking at the sensitivity and grief in those authors' prose, I was a distant onlooker.
+
+More than twenty years later, I stood in front of the bookshelves at the University Town Library, facing a row of Alice Munro, not sure where to begin. Out of the corner of my eye I caught "Translated by Zhou Jianing" — a name I had often seen in *Mengya* in my youth; later I had read several issues of the journal *Carp* she co-edited. As if by some cross-time connection, this *Friend of My Youth* now linked us. I picked it up without hesitation.
+
+![](/images/wechat/wo-nian-qing-shi-de-peng-you/0.jpg)
+
+*Friend of My Youth* is a collection of ten short stories. The characters range widely in age, and their situations are diverse and complicated. I would rather classify it as "a group portrait of women" — depicting women's troubles and struggles, growth and transformation, in every stage of life. There are male characters, of course, but their figures are mostly hazy by comparison, very much supporting roles.
+
+It's still the Munro style I know: several story-lines woven together with great precision; richer narrative technique — nesting, time-jumps, contrasts, metaphors — like a complex higher-mathematics function. Reading it brings one surprise after another, and the difficulty has gone up another notch from *Open Secrets*.
+
+Some passages remind me of friends from my own youth.
+
+In "Differently," for instance, Georgia and Maya play "role-play" when they go downtown for lunch. Angela and Huiping used to do that too. When they first started working they lived in a rental near Haidian South Road. At night, going to buy fruit, they pretended to be little nurses from Haidian Hospital just off the night shift.
+
+> She pretended to be a widow whose late husband had been with her on various imperial frontiers. In a virginal voice she'd talk to the listless waiters, asking them "Would you be so kind as to…" and then telling them they were very, very thoughtful.
+>
+> She and Georgia made up a story of an imperial widow; Georgia was written in too, as a moody, mysterious paid companion, a socialist, called Miss Amy Jukes. The widow was Mrs. Allegra Forbes-Bayley… Most of those rainy afternoons in the Mughal Courtyard, they were inventing the dreadful Welsh honeymoon of the Forbes-Bayleys at a damp guesthouse.
+>
+> "Differently"
+
+Reading "Wigtime," about Margot and Anita going to school through a snowstorm, reminded me of Pingping, my middle-school walking-to-school friend. My mum would cook *niànzhōu* in the morning (the Shandong version of corn porridge — a brief aside: this corn porridge is, in fact, a long-standing Shandong specialty. In *Mountain Valley Breeze*, Yu Hua mentions returning to Shandong to visit family in the late 1960s and drinking corn porridge every day. Reading that scene I felt my blood awaken, and an unexpected familiarity). She'd cool the porridge on the windowsill. Pingping would come for me. Sometimes she'd come early and wait in the yard while I finished the porridge. At first we walked to school; later when we had evening self-study sessions we cycled to save time. After exams, on the side of the road home, we'd spread out the test papers and check answers.
+
+> At noon they walked downtown, looking at the windows of a shop with beautiful carpet inside, where only wedding dresses and evening gowns were sold. Anita wanted to be married in spring, with bridesmaids in pink and green silk dresses with white organza over them. Margot wanted to be married in autumn, with bridesmaids in apricot velvet. They looked at lipsticks and earrings at Woolworth's. They burst into the drugstore to try perfumes. Whenever they had to buy something for their mothers and had a little extra money, they'd use the change for cherry cola or cotton candy. They were never particularly unhappy because they believed something good was bound to happen. They were going to be heroes; some kind of love and power was waiting for them.
+>
+> "Wigtime"
+
+When Anita and Margot meet again after thirty-plus years and talk about their lives — so different from one another — "they had so much to say. They had no intention of stopping. They were genuinely glad." On the last day before my maternity leave ended, I met Yan, who came to Shenzhen on a business trip. Twenty-some years ago we'd taken Train T73 from Jinan to Beijing for university together, and switched at Deshengmen Gate to the 919 to Dengzhuang, Changping. Yan was an outstanding student, transferred majors, ran the Beijing University of Posts and Telecommunications website operations brilliantly. After graduation she went home to work at China Mobile, married early, had kids, led a team, moved into a big home. I, on the other hand, kept wandering — and the wandering kept taking me further away. Years later, meeting again, we talked work, family, parent-child relationships, the squashed-flat selves. It felt like different paths arriving at the same place — both of us going through similar growth on our separate roads. No one is spared.
+
+Reading Munro is mostly an experience of distance. I'm pulled back into my younger self's onlooker posture, watching from afar the drama and the subtleties of human nature she paints. Every story deserves its own essay. With limited bandwidth, I'll just excerpt a few passages here.
+
+---
+
+Munro is wonderfully good at narrating ten or twenty years' worth of life in a few sentences.
+
+> Averil flew Bugs's body back to Toronto, where a funeral was held, with very nice music. On the plane she was seated beside a young man also flying from Scotland to Canada — he was there to participate in a famous amateur golf tournament, and the result hadn't gone well. Failure and frustration made them kind to one another, and they were easily transfixed by each other's ignorance of the worlds of sport and music. The young man lived in Toronto, so he naturally appeared at the funeral.
+>
+> Averil married him soon after. Not long after that, they were no longer so kind, no longer so transfixed; Averil thought she'd chosen this husband mainly because Bugs would have thought the choice silly. They divorced.
+>
+> "Goodness and Mercy"
+
+> Hazel had once sat with the other young wives listening, both meek and proud — at least she had been — completely smitten. Their husbands had been good-looking, brave. Hazel pitied the women who had married weak men.
+>
+> Ten or fifteen years later, the same group of women sat listening to those stories with stony faces, sizing one another up, or simply going blank (sometimes Hazel did this too). The men telling the stories were already old, and would only get older.
+>
+> "Hold Me Fast, Don't Let Me Pass"
+
+> She was tired of the visit, but she had to tell her story. No, she wasn't married. Yes, she worked. She ran a farm and a publishing company with the friend she lived with. Things were awkward; not much money. Interesting, yes; the friend is a man.
+>
+> "Differently"
+
+Her stories also often feature women ruined by men, and their power to save themselves.
+
+> She didn't mind anyone knowing that, in her thirties, she had once had a breakdown. For nearly two months she couldn't leave the room. Most of the time she stayed in bed. She filled in children's colouring books with colour pens. That was the only thing she could do to control the fear and the diffuse grief. Then she got it under control. She subscribed to university calendars. What lifted her? She didn't know. She really didn't. Maybe she was just tired. Maybe she was tired of breaking down.
+>
+> She knew that when she left the bed (she didn't say so), she'd left a piece of herself behind. She felt that piece had to do with Jack, but she didn't think any abandonment was permanent. In any case, it was simply what it was.
+>
+> "Hold Me Fast, Don't Let Me Pass"
+
+> She didn't need to see him; for years she had not thought of seeing him. A man ruins your life for some uncontrollable period, until one day there is nothing, only an emptiness where he used to be. These things can't be explained.
+>
+> "Do you know what just flashed through my head?" Margot said. "What the shop looked like in the morning. We were freezing half to death. We had it that hard, and we didn't even know."
+>
+> *We had power*, Anita thought. When you are full of fear and expectation, you have the power of transformation — there's nothing in your life that isn't huge. You never imagined losing that power, because you didn't even know you had it.
+>
+> "Wigtime"
+
+Her descriptions of women's beauty are distinctive.
+
+> She had spent years gardening, hiking, speed-skating; she had muscle on her. These sports also made her skin dry and creased; from some point on, she stopped worrying about that. She threw out all the makeup she'd bought in stubbornness or despair, the pencils, the magic ointments. She tied her hair back, and let it grow into whatever colour it would. She tore open the doubting, expensive shell of her beauty: she stepped out of it.
+>
+> Even in the years before Jack died, she had been doing this. It had to do with how she held her own life. She had thought, and said, that at a certain time she had to hold her own life, and she demanded the same of others. She demanded action, practice, direction.
+>
+> "Hold Me Fast, Don't Let Me Pass"
+
+> But before that, before Matilda found work or cut her hair short, June had already felt — by then she had long since stopped loving her — Matilda's unquestionable beauty. She knew that kind of beauty set you apart — at least in Logan it did — as much as being lame or stuttering. Beauty isolated you; it was worse than a mild disability, because it could be read as a kind of shame. When June realised this, watching Matilda do her best to slough off or hide her beauty, she was a little disappointed but not surprised.
+>
+> "Oh, What Avails?"
+
+She catches a woman's mind on the brink of an affair.
+
+> She waved goodbye to Maurice without seeing the slightest doubt on his face. But perhaps there was a little disappointment. He had two fewer days of company, and two more days of loneliness. He wouldn't acknowledge that feeling. Maybe it was only her own imagining. She imagined this maybe because she felt she too was waving goodbye to husband and children, to everyone she knew, except for the man she was going to meet. Everything was so easy, so perfect — the deception. Of course she felt guilty too. She was struck by their innocence. She knew an irreparable fissure had appeared in her life. All this was real; all the sadness and the guilt was real; and they would never disappear. But they could not stop her either. She was very happy. She felt she had no choice but to go on.
+>
+> "Oh, What Avails?"
+
+She also catches a woman's mind on discovering she's been cheated on.
+
+> She drank a little wine. Various thoughts flashed through her head. Lawyer. Divorce. Punishment. These thoughts beat against her like brass gongs and then died away, telling her nothing about how to continue. What was she to do first, then second; how would her life go on? The children had this and that going on — the boys had summer work, Debbie needed a minor ear operation. She couldn't take them away, or she'd have to bear all the gossip alone — she'd been through that before. And the next weekend she and Reuel were invited to an anniversary party; she had to get gifts. And a man was coming to fix the drains.
+>
+> "Wigtime"
+
+There is also her omnipresent irony and sharpness.
+
+> She noticed something about married women: many of them had to invent their husbands. They generalised about appearance, opinions, autocratic ways. They'd say, oh, yes, my husband is very particular. He won't touch turnips. He won't eat fried meat (or, he'll only eat fried meat). He likes me always in blue (in brown). He can't bear organ music. He can't stand a woman going out without a hat. He'd kill me if I smoked. And so, the complex, indirect man was described, declared a husband, head of household.
+>
+> "Meneseteung"
+
+> Averil walked back and forth on the deck, listening to other people's conversations. She thought a sea voyage was meant to escape everything — "everything" being your life, your way of life, your family. But in the conversations she heard, people were doing the opposite. They were all talking about themselves — their jobs, their children, their gardens, their living rooms. They exchanged fruitcake and fertiliser recipes. How to handle a son-in-law and investments. Rumours of disease, betrayal, real-estate. "I said. I did. I always believed. Well, I don't know about you, but I…"
+>
+> "Goodness and Mercy"
 
 ![](/images/wechat/wo-nian-qing-shi-de-peng-you/1.png)
 

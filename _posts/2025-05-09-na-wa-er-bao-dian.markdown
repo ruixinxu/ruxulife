@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "纳瓦尔宝典"
+title_en: "*The Almanack of Naval Ravikant*"
 date:   2025-05-09 17:05:43
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483861&idx=1&sn=979b6d10d199a9bef4aae1e0d78b6200&chksm=9b464c7dac31c56b32d34d75a5f8bbb661d2db6f95eeb03fe0ce85bcae90990d43d981ea9428#rd
 comments: true
 share: true
@@ -136,5 +137,133 @@ share: true
 不要花自己的时间去取悦别人。别人快不快乐是他们的问题，不是你的问题。你快乐了，别人也会快乐。你快乐了，别人会问你是如何快乐起来的，他们会从中学到点儿什么，但是你没有责任让别人快乐。
 
 #纳瓦尔 #幸福 #财富 #读书
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/na-wa-er-bao-dian/0.jpg)
+
+Naval Ravikant is a Silicon Valley investor who has put money into around two hundred companies, earning both fame and fortune. He came from a poor immigrant family and went through a long stretch of struggle and confusion. In his pursuit of wealth and happiness, he put in enormous effort.
+
+Naval believes that the building of wealth and the pursuit of happiness are both "skills you can learn." He has gathered up his lessons and insights into a book, *The Almanack of Naval Ravikant*, which has gone viral online.
+
+*The Almanack* is a compilation of Naval's tweets, talks and transcribed remarks; each chapter is self-contained. It's a little like the *Analects* of Confucius, and a little like a list of "theorems" in a maths textbook. You can open the book to any page and read on without losing the thread. The text is spare, but information-dense, and rewards further chewing.
+
+Some of his ideas and framings struck me as fresh; I've copied a few below. With limited space, I am inevitably cherry-picking. The good news is that the Chinese edition of the book is freely available on WeChat Reading. I recommend going straight to the source — you'll likely take away things different from what I noticed.
+
+**On wealth**
+
+> Pursue wealth, not money or status. Wealth is the assets that earn while you sleep. Money is how we transfer time and wealth. Status is your position in the social hierarchy.
+>
+> Cultivate iterative thinking. Every reward in life — wealth, relationships, knowledge — comes from compounding.
+>
+> If you want to specialise in something, pursue real interest and passion, not the latest hot thing.
+>
+> The process of building expertise feels like play to you, and like hard work to others.
+>
+> To create wealth, you must use leverage. The forms of business leverage are capital, labour, and products with zero marginal cost of replication (code and media).
+>
+> When you finally do become rich, you'll realise it wasn't what you were originally after.
+>
+> *The Almanack of Naval Ravikant*
+
+Naval believes that pursuing wealth means "productising yourself." Your "self" is unique; "productising" is wielding leverage. Your "self" carries accountability; "productising" requires specific expertise. Your "self" actually carries that expertise too.
+
+"The only way to avoid competition is to be uniquely yourself." At its core, competition is imitation: you compete with others because you're doing the same things they are. But every person is one of a kind. Don't imitate.
+
+Whatever stage of life you're in, the effort should aim at increasing your independence, not at promotions and raises. The ideal state: being independent, accountable for your unique output (not, as in a job, for your hours).
+
+The best jobs aren't credentialled or appointed. The best jobs are creative expression of life-long learners in a free market. The most important skill for getting rich is being a lifelong learner — whatever you want to learn, you can find a way to learn it.
+
+The old earning pattern: study for four years, get a degree, work thirty years in one specialty. Now everything has changed. You must master a new specialty in nine months — and that specialty will be obsolete in four years. But in the three years that specialty exists, you can get very rich.
+
+I could not agree more — especially working in tech. The pace of technology change is staggering. I came back to work from six months of maternity leave and it felt like another era. When I left, everyone was talking LLMs and Copilot; in a few short months, everyone is talking Agents and MCP. On one hand, the pressure of catching up has me out of breath; on the other, I am quietly grateful to be at the early stage of a new wave, with infinite possibilities ahead.
+
+![](/images/wechat/na-wa-er-bao-dian/1.png)
+
+> Stop categorising people as rich/poor or white-collar/blue-collar. The modern dichotomy is "people who use leverage" and "people who don't."
+>
+> *The Almanack of Naval Ravikant*
+
+Naval breaks leverage into three kinds. The first is labour leverage — getting people to work for you. The second is capital leverage — using money to amplify the impact of your decisions. The third is products with zero marginal replication cost — books, media, films, code. So, by writing this post, I am also using the third type of leverage.
+
+> Earn with your mind, not with your time.
+>
+> Spending your time saving money will not make you rich. Saving your time to make money — that's the right approach.
+>
+> In the modern economy, how hard you work doesn't matter that much; judgment is often underrated.
+>
+> Set yourself a high hourly rate and stick to it.
+>
+> *The Almanack of Naval Ravikant*
+
+For workers who use leverage, judgment matters far more than effort or hours worked. If you have specific expertise, you are accountable, and you know how to use leverage, society will reward you in proportion to your value. From there, you save more time and become super-efficient. You don't need to attend meetings for the sake of attendance, you don't need to perform, you don't need to write status reports to *prove* your work — you can focus on the work itself.
+
+When you only focus on the work itself, efficiency skyrockets. You can structure your work intelligently: work when you have energy, don't grind through pointless work when you're in a poor state. That way you get back your own time.
+
+The forty-hour work week is a product of the industrial era. A knowledge worker's schedule should look more like an athlete's — periods of training and sprinting, and periods of rest and reassessment.
+
+In fact, slack time is essential. If every day is packed with meetings and busyness, you can't think. Without thought, no excellent business ideas, no good judgment.
+
+Great ideas come from a relaxed mind. A person who is stressed, buried in paperwork, racing around, and on edge cannot think. So you must carve out time for thinking.
+
+> The difference between people isn't "educated" or "uneducated"; it's "loves to read" or "doesn't."
+>
+> The only reason to read is because you enjoy it; no other reason is needed. Don't treat reading as a task; read because you delight in it.
+>
+> Don't compete on reading speed. The better the book, the more slowly you should read and absorb it.
+>
+> *The Almanack of Naval Ravikant*
+
+**On happiness**
+
+> Happiness is peace of mind. To have peace of mind, you must first have peace in the body.
+>
+> A happy person is not someone who is happy every moment.
+>
+> A happy person is someone who can easily interpret events in a certain way and keep peace in their heart.
+>
+> *The Almanack of Naval Ravikant*
+
+Naval thinks happiness is a state that requires no active doing. Its essence is the absence of pain, the absence of desire, the absence of being lost in the future or the past, and the genuine embrace of the present, of what is, of reality as it is. When the sense of "lack" is removed from life, happiness arises by itself. When you feel nothing is missing, the mind goes quiet — no longer recalling yesterday, no longer dreaming of tomorrow, no regret, no scheming.
+
+Happiness is not the same as positive thinking, and it is not the same as the absence of negative thoughts. Every positive thought contains within it a negative one. Positive and negative are inseparable relatives. Success doesn't bring happiness either. Happiness is being content with what is. Success comes from being discontent with what is, from changing what is. You can only have one.
+
+> A personal metric: how much of the day is spent doing things out of obligation rather than out of interest?
+>
+> *The Almanack of Naval Ravikant*
+
+There may be a translation issue here. The Chinese edition reads as though "fulfilling obligations" is the path to happiness. The English version (which I also agree with more) actually argues the opposite: "pursuing interests" raises happiness. Reading a book, writing a passage, dancing a dance — doing the things I *want* to do — usually leaves me feeling full and energised. Doing the chores I have to do mostly just leaves me drained.
+
+**On self-redemption**
+
+> Impatient with action, patient with results.
+>
+> *The Almanack of Naval Ravikant*
+
+![](/images/wechat/na-wa-er-bao-dian/2.png)
+
+Once you've decided to do something, move fast, focus completely, give everything. At the same time, be patient about the result, because the only thing you fully control is yourself; others and the world are complex and full of variables.
+
+It takes time for a market to accept a product. Business partnerships and workplace collaborations all need a settling-in period. Excellent products take time, because you must polish them again and again. So: once you act, act quickly; once you wait, wait calmly. Inspiration is fleeting. When it flashes, move on it immediately.
+
+> The hardest part isn't doing what you want; it's knowing what you want.
+>
+> Be your truest self.
+>
+> Courage isn't charging through enemy fire. Courage is not caring what others think.
+>
+> *The Almanack of Naval Ravikant*
+
+Naval treasures freedom. Earlier, his definition of freedom was "do whatever I want" — do what you like, when you like. Now what he pursues is inner freedom, "freedom from worry": freedom from anger, freedom from sadness, freedom from the need to react, freedom from being compelled to do anything.
+
+Treasure your time. The only thing you truly own is time. Time matters more than money, more than friends, more than anything. Your time is everything. Don't waste it.
+
+Don't spend your time trying to please others. Whether they are happy is their problem, not yours. When you are happy, others will be happy. When you are happy, others will ask how you got there; they may learn something from it. But you have no duty to make others happy.
+
+#Naval #Happiness #Wealth #Reading
 
 </div>

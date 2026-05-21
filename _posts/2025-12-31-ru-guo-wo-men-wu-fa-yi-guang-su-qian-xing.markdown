@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "如果我们无法以光速前行"
+title_en: "If We Can't Travel at the Speed of Light"
 date:   2025-12-31 19:20:00
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483998&idx=1&sn=f0186f69dd5675c5f2210937d731a8af&chksm=9b464ff6ac31c6e06badaea7cf943778dae914cdca3b5f6c9479a7607c1e0df93525e5af0d0b#rd
 comments: true
 share: true
@@ -54,5 +55,55 @@ share: true
 或许，正如金草叶的故事里给我们的启发，在简单的二元对立之外，也许还存在着某种中间地带。在那些被忽视的角落里，我们还有机会找到新的可能，寻找美好存在的正确位置。
 
 拭目以待，期待 2026 年的到来。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+*If We Can't Travel at the Speed of Light* is a short-story collection by the Korean science fiction author Kim Choyeop, gathering seven pieces on themes including extraterrestrial civilizations, interstellar travel and embryonic modification. The stories are short, restrained, and the reading experience is light and pleasant.
+
+What kind of impact will technology have on human society? Can earthly and extraterrestrial civilizations coexist peacefully? Will the loneliness, depression and pain that people experience now, and the discrimination, exclusion and pressure faced by vulnerable groups, actually be improved by the advance of technology?
+
+In Kim Choyeop's stories, you rarely get a clear conclusion. More often the characters take the reader along on the act of exploring — and the joy of reading is precisely in how beautifully that exploration unfolds. The author's imagination, the way her plots are designed, even her storytelling methods, often feel fresh; and underneath all of it is a humanism gentler than what you usually find in science fiction.
+
+When human beings meet aliens in science fiction, it usually triggers enormous conflict. In "Spectrum" and "The Symbiotic Hypothesis," Kim Choyeop runs a thought experiment of a different kind.
+
+In "Spectrum," the female biologist Hee-jin goes missing during a deep-space mission and unexpectedly encounters an alien intelligent being she calls Louis. Louis has a lifespan of only three to five years, and when one Louis dies, its "soul" continues into another Louis. Generations of Louises care for and protect Hee-jin for forty years, until her spacecraft's signal unexpectedly reaches her again and she returns to Earth.
+
+Hee-jin claims to be the first to have discovered intelligent extraterrestrial life, but to protect Louis she refuses to share specific information about the planet, and faces widespread doubt as a result. Louis's language uses colour as its basic unit. Back on Earth, Hee-jin learns to read it, and finds that Louis had been observing and recording her this entire time, leaving unforgettable sentences in colour: "She is a strange and beautiful creature."
+
+In "The Symbiotic Hypothesis," the relationship between extraterrestrial life and human beings is even more intimate. Before its extinction, the life of the planet Lyudmila injected its "thinking" into human infants, transmitting love, ethics, and altruism. To avoid exposure, these "thoughts" vanish once a child reaches a certain age.
+
+One child, from the age of five, can draw a dreamlike and beautiful planet, and grows up to become a world-class artist. Adults love her work too — people often weep, without quite knowing why, in front of it. Because what she paints is Lyudmila, the home that had once lived inside each of us.
+
+What Kim Choyeop's science fiction shows us is the future — futures still impossible in present reality. Yet they don't feel far off, because current social problems run sharply through every story.
+
+In "Lost in the Library," there is a library that collects "minds." People can use data simulations to meet relatives who have passed away. Zhimin learns that the index to her late mother's "mind" has been lost inside the library and starts searching for traces of her. Her mother had depression in life and caused Zhimin deep wounds. In the search Zhimin discovers that her mother had interrupted her career because of pregnancy and developed postpartum depression — and that her mother's life had already been disconnected from the world long before her index was erased. Isn't this, in some sense, a mirror of how marriage and pregnancy disconnect women from the world?
+
+In the end Zhimin sees her mother's "mind" again. With difficulty she puts into words an understanding of her mother, sends a signal of reconciliation to their once-fraught mother-daughter relationship, and expresses the wish to find threads that reconnect women who have been disconnected from the world.
+
+In "Why Do the Pilgrims Never Return?", Lily is an extraordinarily smart scientist. She has invented "new humans" — beautiful, talented, robust. Ironically, she herself carries a genetic disease and has a scar on her face. She has always thought of herself as a "deviant," and precisely because of this, she truly believes in creating an ideal world where everyone is healthy and free of defects.
+
+But things don't go as she imagines. Embryonic modification of humans does not deliver utopia — it produces something more like a dystopia. The hierarchy between perfect "modified" and imperfect "non-modified" people becomes sharper, and more brutal.
+
+So Lily leaves Earth and establishes a "village" in outer space. There, every child has some kind of defect, and there is no discrimination, no exclusion. When the children grow up, they must return to Earth on a "pilgrimage." But with every cohort of pilgrims, some never come back. If the village really is utopia, why are these people unwilling to go back to it?
+
+Maybe technology by itself cannot guarantee a better world, which is why a simple binary like "Does technology end in utopia or dystopia?" isn't really meaningful. What may matter more is that in imagining and exploring the future, we are nudged to remember those who have been considered "abnormal" and ignored, and find new value for many different forms of being.
+
+A true utopia, perhaps, is not eliminating every physical defect, and not segregating those with defects, but having everyone face and think together: what is disability, what is discrimination, what is love and what is exclusion, what is perfection and what is suffering. Maybe what we ultimately need to dissolve is not the defects of a minority, but the assumption that "everyone must be perfect."
+
+Today is the last day of 2025. Looking back over the past year, AI keeps charging forward at full speed. Some people have been lifted by the era; startups have been bought at huge prices; new wealth myths keep appearing; for the first time in human history we have five-trillion-level tech companies. At the same time, others are spending a long winter in pay cuts and layoffs.
+
+Some convictions we used to hold are loosening. We used to believe effort pays off, that if you studied hard and earned a respectable degree you could spend the rest of your life safely inside a big firm. These no longer feel reliable. But on the other hand, the development of technology has also delivered a once-in-a-century productivity opportunity. Inside all this uncertainty there are countless new junctions.
+
+So what will the new year look like? Will technology magnify social inequality, or broadly improve most people's lives? Will it free us, so we have more time to enjoy life, or will it crush people and make reality even more brutal?
+
+I don't have the answer.
+
+Maybe, as Kim Choyeop's stories suggest, beyond a simple binary there's some middle ground. In the corners we've ignored, there's still a chance to find new possibilities, and the right place for goodness to live.
+
+I'll watch and wait, looking forward to 2026.
 
 </div>

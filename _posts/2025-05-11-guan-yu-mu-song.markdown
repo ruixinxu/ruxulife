@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "关于《目送》"
+title_en: "On *Watching You Go*"
 date:   2025-05-11 07:37:27
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483869&idx=1&sn=638ea5acf2def215fd94f4c85e9ad654&chksm=9b464c75ac31c5635747e1f28d743c42146bab6779c0f150b060245a1da6a47d90dfffe66048#rd
 comments: true
 share: true
@@ -60,5 +61,61 @@ share: true
 感谢老妈。
 
 “点赞”“在看”，让更多人看到
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Today is Mother's Day. I'm posting an old piece I wrote more than ten years ago — when Lung Ying-tai's *Watching You Go* had just come out, and I was barely in my twenties.
+
+These words now feel of a different era: back then "校内网" had not yet rebranded to "Renren," Google hadn't been blocked, large language models hadn't appeared, deep learning wasn't yet hot, and the IT crowd was still reading *C++ Templates* ![](/images/wechat/guan-yu-mu-song/0.png).
+
+I was so young at the time that I hadn't fully realized how unusual my mum was. She isn't the kind of mum who brings an umbrella to pick you up in the rain, or tells you to wear long johns when the weather turns, or calls to remind you to eat on time. There are moments when she's even more scatterbrained than I am. But she has her own kind of charm: walking down the street, she'll suddenly bust out a dance move she's just learned, full of girlishness. The most precious thing is the unlimited trust she has always given me. Especially at the big crossroads in my life, I was always certain my mum was 100% in my corner.
+
+More than a decade later, I'm a mother myself now. I keep seeing my mum in me. I'm careless with the kids — I'll pick crumbs off the table and pop them back into the baby's mouth; at night I'll crank the AC too cold and give the kid a runny tummy. I wonder how my children will see me when they grow up.
+
+![](/images/wechat/guan-yu-mu-song/1.jpg)
+
+> Slowly,
+>
+> slowly I came to understand,
+>
+> that the bond between father, mother, daughter, son —
+>
+> only means
+>
+> that the fate you share with him is, in this life,
+>
+> to keep watching his back move farther and farther away.
+>
+> You stand at one end of the little road,
+>
+> watching him disappear gradually where the road bends.
+>
+> And,
+>
+> with his back, he silently tells you:
+>
+> Don't follow.
+>
+> — Lung Ying-tai, *Watching You Go*
+
+I don't have a reading habit; I almost never reach for a book on my own.
+
+When I was small, all the various storybooks were read to me by my mum at bedtime, right up until I finished primary school. I'm lazy. Always have been.
+
+Watching the engineer-types and academic-types around me devour everything from *C++ Templates* to research papers, eyes shining — that's a feeling I have known, too. The semester I was studying analog electronics, racing through the slim textbook right before finals, I was astonished to realize I had no idea, all term, what I had been studying — and I felt, suddenly, that there's a kind of systematic understanding in books that you can't simply Google. But in an environment without pressure, I am absolutely not going to pick up a book.
+
+Reading the excerpt of *Watching You Go* that a younger student posted on the campus network — those were words I could actually keep reading. Plenty of truths I "know" without understanding, "understand" without acting on. About watching backs disappear, I have always felt deeply regretful toward the me of four or five years ago.
+
+When Lung Ying-tai rode her father's cheap little truck to school for enrolment, when Zhu Ziqing held the oranges his father had bought for him on the way north — they were probably about my age now. I don't know if I'm grown up and clear-eyed yet either. Thirty years from now, when I look back, will I also mock today's self for being "too clever"?
+
+I wonder if many people, when life gets hard, have the line "Heaven is about to lay a great responsibility on this person" surface naturally in their minds and pull themselves back together. The years of fairy tales and fables I heard as a child were my earliest, deepest sense of *beautiful*. They were the original source of strength on a not-always-smooth path to growing up, and made me who I am.
+
+Thanks, Mum.
+
+"Like" this post, "in-view" this post — help more people see it.
 
 </div>

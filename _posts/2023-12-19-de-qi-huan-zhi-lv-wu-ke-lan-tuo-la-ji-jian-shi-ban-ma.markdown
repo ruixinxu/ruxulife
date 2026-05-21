@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "x的奇幻之旅+乌克兰拖拉机简史+斑马"
+title_en: "The Joy of x + A Short History of Tractors in Ukrainian + Zebra"
 date:   2023-12-19 18:12:41
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483775&idx=1&sn=ad62c9c6afc8b606926735e8b73a23c5&chksm=9b464cd7ac31c5c1bacb025c5cc9c169fc38c50f2a3ca38c1d3db9d13a4e00dcc96c8cf15ef5#rd
 comments: true
 share: true
@@ -38,5 +39,39 @@ X的奇幻之旅，把一个个听起来很复杂地数学概念，生动、浅�
 傅真的文字温润舒服，能恰当好处的表达自己的心境，观点又深度有启发，比如冻卵看似是对女性的解放，但可能会带来的新的不平等，进一步拉大女性群体内部的阶级差异。
 
 带娃疲惫崩溃的时候，读到书中角色艰难的求子路，看看身边健康活泼的度子觉得心怀感激。有娃之后常常怀念单身的自由自在，不止一次想抛家弃子离家出走。典型的围城心理。乖乖女做太妹梦。但是如果真有机会重启人生，你愿不愿意尝试过另一种完全不一样的生活，代价是隔断所有与这个世界已有的连接呢？每个人都有自己的答案。傅真把故事引向这个方向是我始料不及的，意外的惊喜。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+After becoming a mother, reading and writing have become more of a luxury. But this new state has also drawn out new abilities in me. I've gradually adapted, and even come to enjoy, turning a few pages of a book in scraps of time, jotting down passing reading impressions — like dropping a little oxygen into my thoughts between one breath and the next.
+
+**The Joy of x**
+
+![](/images/wechat/de-qi-huan-zhi-lv-wu-ke-lan-tuo-la-ji-jian-shi-ban-ma/0.jpg)
+
+*The Joy of x* takes mathematical concepts that *sound* complicated and lays them out vividly, accessibly, and entertainingly. Math is everywhere in life. Math doesn't exist purely for calculation or proof; at its origin it was a way to explain the things we see in life, and even to solve everyday problems. The math problems that gave us all headaches in school may have been, a few centuries ago, open puzzles for the very best mathematicians of the world.
+
+Each topic is a self-contained essay laying out one mathematical idea in approachable language. For instance, the geometric proof of the Pythagorean theorem is accessible enough for a kindergartener; and yet by the end of the chapter, the author notes that "the importance of the Pythagorean theorem lies in describing a fundamental theorem of *flat* space," implicitly assuming that space is flat rather than curved. If you bring in curved planes, you find yourself walking into Einstein's general relativity — and the topic suddenly soars.
+
+**A Short History of Tractors in Ukrainian**
+
+![](/images/wechat/de-qi-huan-zhi-lv-wu-ke-lan-tuo-la-ji-jian-shi-ban-ma/1.jpg)
+
+This is a book you can't put down once you open it — and also a book that, when you've finished, you may not be sure you actually understood. The seemingly innocent victim in the book may be a megalomaniac. The apparent tormentor may be the real victim. Habits are the product of lived experience. People who have known hunger are more eager to hoard food. People who have been betrayed grow more paranoid. Even so, the hardships of life aren't worthless. Dostoevsky once told the young Frank, who came to him for writing advice, that the secret to producing great work was suffering. Liu Zichao has written that he became a travel writer because he believed his own easy, smooth childhood made it impossible for him to write great fiction.
+
+Of course, given a god's-eye view, I hope neither I nor my own child has to live through too much suffering for the sake of doing something great. Being an ordinary, unremarkable person is enough.
+
+**Zebra**
+
+![](/images/wechat/de-qi-huan-zhi-lv-wu-ke-lan-tuo-la-ji-jian-shi-ban-ma/2.png)
+
+*Zebra* is travel blogger Fu Zhen's first novel. I didn't go in with high expectations; the reading experience exceeded them. The book is about reproduction. I got hold of it just before giving birth and planned to read it while waiting in labour (ah, what *too simple, too naïve* delusion — I imagined giving birth as a kind of holiday; god knows that once contractions start you cannot read a single thing), and finished it in fits and starts after the baby was born. The first few chapters made me feel the author wanted to say *too much*; certain characters drone on with a heavy moralizing tone, breaking the spell. From the middle on, the plot starts to unfold and pulls you in; you can't wait to know what exactly the male lead really does for a living. I finished the rest in one sitting, closed the book reluctantly, and savoured the aftertaste.
+
+Fu Zhen's prose is warm and easy on the eye, captures her state of mind just right, and her observations have real depth — for instance, that egg freezing, which on the surface looks like an emancipation for women, may bring new inequality, and widen the class gap *within* the female population.
+
+When I'm collapsing under the exhaustion of caring for my own baby, reading about the characters' difficult fertility journey in the book, and then looking at my healthy, lively child next to me, I feel grateful. After having a child, I often miss the freedom of being single — more than once I've fantasized about walking out of the family and leaving everything behind. Classic besieged-city psychology. The good girl dreaming of being a *taimei* — a delinquent. But if you really got the chance to reboot your life and try a totally different one, at the cost of cutting all your existing ties to this world — would you? Everyone has their own answer. I didn't see Fu Zhen steering the story in that direction, and it was a lovely surprise.
 
 </div>

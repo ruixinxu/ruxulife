@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "AI来了，何去何从"
+title_en: "AI Has Arrived — Where Do We Go From Here?"
 date:   2026-03-13 13:27:28
-categories: wechat
-tags: [wechat]
+categories: ruxu-life
+tags: [ruxu-life]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247484086&idx=1&sn=bab2b992f567f1125515f95dc664312b&chksm=9b464f1eac31c60810ef3cdb73e818b1bb5e92f4b0d5fba9d70a1cb6589528b6656f10abf943#rd
 comments: true
 share: true
@@ -56,6 +57,60 @@ share: true
 飞机上我一口气读完了陈慧《她乡》。陈慧被称为“菜场作家”，白天在菜市场摆杂货摊，下午收了摊就读书写作。她的文字优美、干净、动人。写的都是身边人的故事，真实不做作。读陈慧让我感觉，我们其实不需要有那么丰厚的物质基础，也可以好好过日子。生活里处处是细节，值得停下来，看一看，听一听，想一想。
 
 也许有一天，AI真把我们从那些不得不做的事情里解放了。到那时候，但愿我们每个人都能像陈慧那样，在世间寻一方小角落，静看人来人往，闲观云卷云舒。
+
+![](/images/wechat/lai-le-he-qu-he-cong/0.jpg)
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+A few days of travel, plenty of friends — and what came up most was AI. I work in IT, and in the past two or three short months the changes AI has brought have been enormous, touching every dimension of how we work.
+
+# Productive forces shape the relations of production
+
+A dozen-odd years ago, when I had just started working, the software industry still had its classic "three-horse troika" — developer, tester, product manager — each in their lane, working together to ship big software releases.
+
+Later, the test role gradually faded out. TDD (Test-Driven Development) took off: before starting a new project or feature, developers design the test cases first, replacing manual QA with unit tests and automation.
+
+By the spring of 2026, AI's abilities in the code world had taken a huge leap. It is no longer just chatting with you or polishing your docs. With the right guidance, AI can understand the problem itself, attempt to solve it itself, verify the result itself, reflect on its own output, audit itself, iterate on itself — and if it thinks it got it wrong, throw the whole thing out and start again.
+
+> "When the productive forces have developed to a certain stage and the existing relations of production no longer fit them, change becomes a demand."
+>
+> — Marx and Engels, *The Communist Manifesto*
+
+In IT, a new round of change in the relations of production is now unfolding at unprecedented speed. Developers no longer have to write code line by line. They become AI commanders: prepare the raw materials (APIs) and the scaffolding (a project index / introduction), hand them to the AI, and let it write the underlying code, building out specific features. Product managers no longer have to write long, formal specs — they use AI directly to analyse the market, research competitors, evaluate the priority of requirements, draft success metrics, mock up prototypes, even participate directly in development. Designers no longer have to draw every pixel and every page by hand — bundle up the visual elements, give them to the AI, and let it produce the design comps.
+
+For a long time, big projects have been broken into relatively independent modules, each owned by a team of domain experts. To pull everyone toward a shared goal, you've needed periodic planning cycles and constant cross-team alignment. In practice, every team has its own plans and its own priorities, and cross-team coordination is expensive.
+
+With AI, every person can — in principle — work on any module. Or rather, can direct AI to do it. Throw the requirements into one big pool, and whoever has bandwidth grabs the next task. You don't even need an exhaustive plan. Spot the problem, spot the opportunity, just ship it, push it out to the market quickly, validate quickly.
+
+Someone asked me: doesn't this sprint-style work produce a lot of throwaway output? Not a problem — AI can just rewrite it. But what if we can't read the generated code? Also not a problem. As long as AI can.
+
+# The anxieties AI brings
+
+With AI in the loop, every role expects a five- to ten-fold improvement in efficiency. On the surface, everyone is being supercharged by AI. Look more closely, though: every interaction is teaching AI how to do *your* job better. Programmers are sprinting forward on the road to digging their own graves.
+
+Many people feel uneasy: will the code world soon not need humans at all? We build software, tools and services for our customers. But if customers can just use AI directly, what is the value of our product itself? Going further still — if we get used to leaning on AI and stop doing our own thinking, will the human brain quietly atrophy over time?
+
+Many of us have spent the past few decades enjoying the dividends of intellectual work. We studied hard, got the marks, got into the good schools, learned skills with high barriers to entry, took on challenging work, climbed step by step. Most of the people around me are like that — we got used to being "good students," and we always had a sense of which way the road was supposed to go. Now that AI has arrived, is that road still open? And where do we walk from here? Nobody can say for sure. A person's vision and thinking is sometimes hemmed in by their own past.
+
+# About the future
+
+As I type this in March 2026, I am still, on balance, optimistic about AI.
+
+I am not in denial: AI is going to replace many existing jobs. That tide is set, and it isn't going back.
+
+But I believe that the liberation of productive forces that AI brings will, in the long run, further raise human living standards. Just as the agricultural revolution let more people eat their fill, and the industrial revolution made life more convenient for more people, AI will let more people enjoy the fruits of intellect.
+
+Pulling back from the virtual world of code into the physical world of everyday life: there are still so many real-world problems waiting to be solved, so many people waiting to be liberated. Better healthcare. More sustainable energy. The things humans don't actually want to do but have to — housework, childcare. I'd love for AI to make even faster progress in those areas, freeing more humans to space out, to think, to let their nature breathe.
+
+From another angle, this is an opportunity, isn't it? An opportunity to return to our human nature and ask what, fundamentally, makes us irreplaceable. To dig out the unique gifts inside each of us. Curiosity? Creativity? Empathy? A sense of responsibility? Maybe even our imperfection? Our fragility, our flaws?
+
+On the plane I read Chen Hui's *Her Hometown* in one sitting. Chen Hui is called the "market-stall writer" — she runs a sundries cart at a Zhejiang vegetable market in the morning and reads and writes in the afternoon. Her prose is beautiful, clean and moving. It's all about the people around her, real, unposed. Reading her made me feel: you actually don't need a thick layer of material comfort to live well. The details of life are everywhere, and worth stopping for — to look, to listen, to think.
+
+Maybe one day AI really will free us from the things we don't want to do but have to. When that day comes, may each of us, like Chen Hui, find our own small corner of the world, watching people come and go, watching the clouds roll out and roll back in.
 
 ![](/images/wechat/lai-le-he-qu-he-cong/0.jpg)
 

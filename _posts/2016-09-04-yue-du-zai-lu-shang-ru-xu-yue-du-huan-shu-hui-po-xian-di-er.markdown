@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "悦读在路上! “如许阅读”换书会坡县第二期"
+title_en: "Reading on the Road! Ruxu Reading Book Swap, Singapore #2"
 date:   2016-09-04 22:28:11
 categories: wechat
 tags: [wechat]
@@ -45,5 +46,46 @@ https://www.eventnook.com/event/ruxubooksmeetup2bookexchangetravelbooks （复�
 如有问题请联系
 
 木木徐 (微信号：pooh1949)
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/yue-du-zai-lu-shang-ru-xu-yue-du-huan-shu-hui-po-xian-di-er/0.jpg)
+
+Starting with this round, "Ruxu Reading" will run a series of themed book swap events. The first theme is **Travel**.
+
+Have you ever gone somewhere because of a book?
+
+Have you ever stumbled across a wonderful book in some unfamiliar corner of the world?
+
+Or have you only finally finished that long-cherished book during a long journey?
+
+On the third Friday evening in September, come to Ruxu Reading and share your reading-on-the-road story.
+
+**Time**: 2016-09-23, 19:30 – 21:30
+
+**Venue**: booktique – Where Writers Shop, 1 Raffles Link, #B1-17A Citylink Mall, Singapore, 039393
+
+**Capacity**: 10 people
+
+**Fee**: $5/person (venue fee — please register and pay at the booktique counter on the day of the event)
+
+**Registration**:
+
+https://www.eventnook.com/event/ruxubooksmeetup2bookexchangetravelbooks (Copy into your phone's browser, or tap "Read original".)
+
+**Other notes**:
+
+- Pre-registration is required for this event — tap "Read original" to submit the form.
+- Each guest should bring at least one book and share it with the group in turn. You can talk about the content, style, anecdotes — or share your own reading impressions or travel stories.
+- Anyone is welcome to ask questions or offer their own views on whatever has been shared. *Junzi he er bu tong* — a gentleman lives in harmony with others without being a copy of them. Every perspective deserves respect.
+- Open mingling, lending books to each other, agreeing on return dates. Any books that aren't borrowed can be taken home.
+
+For questions, contact
+
+Mumu Xu (WeChat: pooh1949)
 
 </div>

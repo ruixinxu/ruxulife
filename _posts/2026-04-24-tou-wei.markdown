@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "投喂AI"
+title_en: "Feeding the Machine"
 date:   2026-04-24 18:45:28
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247484129&idx=1&sn=f76b338ccf1628af2399c249bea95e21&chksm=9b464f49ac31c65feac238b8babe1b4c75c02b121c55cf3d023d03dae93688da06a5a65cb75d#rd
 comments: true
 share: true
@@ -54,6 +55,58 @@ AI错综复杂的全球生产网络，通过其特有的结构，将劳动者紧
 ---
 
 \*投喂AI (Feeding the Machine: The Hidden Human Labour Powering AI)\*
+
+\*James Muldoon / Mark Graham / Callum Cant\*
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I often feel I live in a folded world. At work, the latest large language models sit at my fingertips, my customers and colleagues are scattered across the globe, I'm building one of the fastest-growing data products, and there's that sense of standing right inside the wave. Then I leave work, and the visual style changes hard — two children under five, calling for mama, mama, mama, non-stop. Even just reacting to them is enough to hollow me out. My younger one is a year and a half; she needs two bottle-feeds and two diaper changes through the night. From the day I went into labour with my elder, getting a complete night's sleep has been a luxury.
+
+By day I stand at the leading edge of technology. By night I struggle at the very base of Maslow's pyramid.
+
+So if you ask me what I think about AI, I'm always optimistic. The reason is plain: there are still too many people in the world like me, who need to be liberated.
+
+If AI could mix a bottle for my younger one at night and gently pat her back to sleep — if AI could softly wake my elder in the morning, brush his teeth, wash his face, dress him, drop him at school — then I would get a full night's sleep and a quiet morning. Even just imagining it makes it feel worth fighting for.
+
+Unlike the anxiety of being replaced by AI at work, in the scenes above, the human in question is *hoping* to be replaced — even longing for it. And every family's needs are different. How clothes are folded, where toothbrushes go, the one-of-a-kind taste of the food a particular mother makes — can AI really learn these tiny, warm everyday textures?
+
+To learn them, you need training data.
+
+I had even thought about building a platform where homemakers could naturally contribute this kind of data while doing what they were already doing every day, and earn extra income for helping train embodied-intelligence robots. They're already doing the work — why not?
+
+It was right then that I came across *Feeding the Machine*.
+
+---
+
+![](/images/wechat/tou-wei/0.jpg)
+
+*Feeding the Machine* is a book of revolution. It treats AI as a machine of exploitation and human beings as that machine's raw material. From data labellers to engineers, data-centre technicians, logistics-warehouse workers, content creators — every role except the investors is, in some sense, just feedstock for this exploitation machine.
+
+AI's tangled global production network, through its specific structure, ties workers tightly together — and, before the race has even properly begun, has already pre-decided who wins. AI hasn't made the world more equal; it has buried inequality deeper.
+
+Data-labelling work is concentrated in the "Global South," and its geographical distribution maps almost exactly onto the European colonial map of centuries ago. If large models are the "brain," fibre-optic cables are the "arteries." And many of the world's cables today follow precisely the old European sea routes. Where there is connection, there is the urge to control. The geography of technology has never been neutral; behind it lie tangled political histories of European colonialism, global capital markets, hot wars, cold wars.
+
+The large models themselves carry their biases too — like "a political elite formed in private schools, sounding very reasonable until you realise it's just that class's view of the world." Bluntly: they are not thinking, they are restating the structures of power in a polished register.
+
+The book mentions the "California ideology" — the belief that technology can solve every social problem. It sounds beautiful and in practice, under the banner of equality, quietly widens the gap between elites and ordinary people. The idealist shell is filled with elitism.
+
+But the book is not only diagnosing the problem; it is also exploring how to act. Slavery, serfdom — which of them ever abolished themselves? The powerful never give up power on their own. Change always requires people to stand up. Working people across the world should join together and dismantle this AI machine of exploitation.
+
+---
+
+Alain de Botton said that reading is like bringing a radio into a room. You had thought the room was quiet, and then you switch the radio on and realise: signals at every frequency have been there the whole time, you just couldn't hear them before.
+
+*Feeding the Machine* tuned that radio in for me. I can now hear what AI is doing, and to whom.
+
+It showed me a reality crueller than I had imagined. Strangely, though, I didn't come out of the book in despair. What rose up instead was Romain Rolland's heroism: AI should be used to liberate the people who truly need to be liberated. The road ahead is long, but not unreachable.
+
+---
+
+\*Feeding the Machine: The Hidden Human Labour Powering AI\*
 
 \*James Muldoon / Mark Graham / Callum Cant\*
 
