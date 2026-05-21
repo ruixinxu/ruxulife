@@ -1,0 +1,12 @@
+{
+  "_comment": "Copy this file to config.json and fill in the values. config.json is gitignored.",
+  "_capture_instructions": "See README.md section 'Capturing the cookie and token'.",
+  "token": "PASTE_TOKEN_QUERY_PARAM_HERE",
+  "cookie": "PASTE_FULL_COOKIE_HEADER_VALUE_HERE",
+  "fakeid": "",
+  "_fakeid_note": "Optional. Leave empty to list articles from your own account (default). Only set this if you want to list a different account's articles that yours has access to.",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "request_delay_seconds": 4,
+  "default_categories": ["wechat"],
+  "default_tags": ["wechat"]
+}
