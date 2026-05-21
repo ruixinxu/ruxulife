@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "［书摘］山河岁月 五四运动"
+title_en: "[Book Notes] *Mountains, Rivers, Years and Months* — The May Fourth Movement"
 date:   2016-10-03 00:21:15
 categories: wechat
 tags: [wechat]
@@ -98,5 +99,99 @@ share: true
 五四时代是个分水岭，从此军阀要过时，国会的花要谢，从曾国藩李鸿章张之洞幕府以来的士，从袁世凯训练下来的新兵，都要让给新的知识分子与北伐革命军了。
 
 五四时代是中华民国要发生无数大事之前，酿花天气风风雨雨的豪华。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+I think Hu Lancheng is something like an elegant rake of an uncle, casually painting his own world in plain ink-brush strokes, a world full of "warmth and quiet good," in which all things let you feel "brimful of joy." His soft sensitivity and untroubled ease of conscience often startle me. Beside it, moral principle looks too coarse and stiff to match his warm, polished poise. Most people lean toward private feeling, and even more so for a man who lives so close to himself — even if denounced by all, there will always be someone who knows him standing firmly by him.
+
+Recently, reading *Mountains, Rivers, Years and Months* I was struck again by Master Hu's prose. Writing of the flowers of West Lake, he says they "open as if about to speak, and fade as if lost in thought, leaving themselves to the *late sun and the sparse bell*." Writing of students heading north to study: "they travel a thousand miles to study, follow famous professors from school to school, indifferent to diplomas. Their love is as *bright as the stars in the sky*, and their pursuit of reason is as *distant as the stars in the sky*." Writing of the era: "the May Fourth era was the lavish blooming-weather of wind and rain, just before the Republic of China was to bring forth countless great events." Words fail me; I will simply transcribe the whole chapter below.
+
+The May Fourth Movement began at Peking University. It was political at its root, but because the Yellow River basin had so small a share in the new urban prosperity, and its countryside had been in long decline and had just suffered great famine, the imperial aura of Beijing had dimmed — not even as lively and brash as Manchuria — so politics could not give it colour, and it became only a New Culture movement.
+
+Even that depended on Jiangnan scholars then living in Beijing, but soon turned inward into mere study-room serenity. They loved the Greek spirit and Shakespeare, but in fact they were detached and cold.
+
+In Guangzhou the May Fourth Movement looked different. The First World War had ended the year before; foreign cloth had come pouring in and ruined the cotton mills. The Pearl River basin felt the blow especially hard, because even in its previously good years its prosperity had been less even than the Yangtze basin's. The new was new, but always carried something abrasive; now it was shaken and unsettled, and so the moment May Fourth lit a spark, Guangzhou caught fire and burned, and later this grew into the Northern Expedition.
+
+But when Lu Xun arrived in Guangzhou he was disappointed; he felt the romantic atmosphere there was too thick. Lu Xun was unsatisfied with Beijing, left it for Guangzhou, then left Guangzhou too, and finally settled in Shanghai.
+
+It was in the Yangtze basin that May Fourth truly flowered with most abandon. If the countryside there had not also been in decline, May Fourth in that region could have grown into something like a second 1911 Xinhai uprising, and might have done even more, politically, than the subsequent Northern Expedition out of the Pearl River basin.
+
+What had preceded it was the urban-rural prosperity set off by silk, tea, and tung-oil from the Taiping era onward, layered over modern industrial construction from Li Hongzhang and Zhang Zhidong onward — these were what allowed the Yangtze basin to produce so vigorous a 1911 uprising. May Fourth, by contrast, only caught the tail-end of the new urban prosperity stirred up by the cotton mills; so in Shanghai too, May Fourth could only be a New Culture movement, with more secular bustle than in Beijing and a clearer, more level air than in Guangzhou.
+
+Later the Pearl River basin's Northern Expedition was romantic intellectuals leading impoverished peasants, immediately followed by the witch-magic of the Communists. Mercifully, by the time it reached the Yangtze basin, the party was purged — otherwise the Northern Expedition forces would have ended like the Taiping forces. A pity that, unlike the Xiang army of old, the Northern Expedition forces did not have a flourishing countryside behind them.
+
+Since the late Qing, the Yangtze basin had become the seat of Chinese civilization. The local style was that of the Xiang army and the 1911 Xinhai uprising. Although it could not now itself stage a Northern Expedition, it corrected the Northern Expedition — just as it had once corrected the Taiping forces — and proved itself a clarifying power. And May Fourth too, only here, truly opened Chinese civilization, on all fronts, to the modern West.
+
+At Peking University, the birthplace of May Fourth, the chancellor Cai Yuanpei hired professors without restriction by background, and treated thought and scholarship without taking sides between schools. Teachers and students respected one another, and yet students could question professors, and professors could publicly disagree with and challenge one another. None of it carried the buried lethality of the later Communist "criticism meetings" or "self-examination meetings." They publicly attacked the warlord premier Duan, but without the bitter venom of revolutionaries. Their lively unconstrained spirit was the play of heaven and humanity together.
+
+In the universities of Beijing in those days, attending class was like attending a lecture, with professors also coming to listen. When a famous scholar spoke, you had to use the great hall instead of a classroom; the windows and doors were jammed with listeners. New journals and books were snapped up by young people the moment they appeared, with the freshness of buying greens and fruit at dawn. They travelled a thousand miles to study, followed famous teachers from school to school, indifferent to diplomas. Their love was as bright as the stars in the sky; their pursuit of reason was as distant as the stars in the sky.
+
+The young of that day loved Western science and literature, and also loved the *Ziye*-song *Bamboo-Branch* lyrics and *Dream of the Red Chamber*. They revered Copernicus and Darwin, and admired Washington and Lincoln, but because they loved so many things, the love became merely warm goodwill. What they loved in the West was the Greek spirit — a love without any sense of time. They didn't read much history, and they did not undertake any systematic comparison of Western and Chinese things.
+
+They said with their mouths that they were unhappy with China, but they loved her sun, moon, mountains and rivers, and respected Chinese women. Still less did they pursue the shadows that lay even behind the best of what the West offered. They could look at things without judging, and as on a clear day after snow, even mud has a feel of cleanliness.
+
+I was fourteen or fifteen then, a student at Hangzhou Middle School. There were no classes on Saturday afternoons, and the days felt very long. If I did not go out, I would sit alone in the classroom and study. The Western-style school building had the stillness of reason, and reason taken to that pitch of stillness was at the same time a flooding of feeling. I would open the English textbook to read, and even sniffing the clean foreign paper there was a fragrance to it.
+
+May Fourth had begun in protest against the Twenty-One Demands, but the young people of that time soon said politics and economics were muddy things, and did not even hate Japan, because it was such fine bright weather and the world had so many fine things to do. They threw out classical Chinese and demanded the vernacular, broke superstition and demanded science, opposed the old rites and demanded free love between men and women.
+
+In the early years of the Republic, women in Shanghai and Hangzhou wore narrow-sleeved cheongsams, a snake-waist line, with glass rhinestones along collar and cuff, fine eyebrows and bright eyes, with face powder thick like nine-autumn frost — bright with an undertone of unease. By the May Fourth era this had changed to a short jacket and long skirt, the jacket sky-blue, the skirt dark, very little powder, the look come naturally into its own. The young men all could write poetry; the young women all could climb mountains and approach water. They did not like meetings, did not court crowds. With a friend or a beloved, they would wander by day and talk by night until the fog thickened and the moon slanted low.
+
+They thought nothing of leaving home and country; no one could accuse them of unfaithfulness. And to Greece or Rome or America they went; Greece and Rome and America, like an honoured guest before whom one should not pour out one's hardships and grudges, simply receive them. Wherever they arrived, the place turned auspicious. They had this kind of extravagance — even rouge, they feared, might smudge the colour of their own faces.
+
+At that time, in Hangzhou through my cousin Wu Xuefan I came to know a few of his classmates and friends. One was Xiu Ren — I never met him in person, but I still remember the opening lines of one of his vernacular poems:
+
+The wax-plum is delicate and beautiful,
+
+What is in my wife's heart, I know.
+
+Another was Liu Zhaoyang, and there was also Cui Zhenwu.
+
+Liu Zhaoyang, a young man from Yiwu, broke with his family in protest at the arranged-marriage system and studied mathematics and astronomy at Xiamen University. He studied for one year, then went out to teach school for half a year to save up for the next year's tuition. He had a lover; for three years running, every year, he went to Hangzhou for her.
+
+May in Hangzhou: purple haze in red dust, a thousand willow-threads on Huansha Road, women carrying water and washing clothes passing by with the moist clarity of clear weather, the bell of a rickshaw under a flag, the clatter of vegetable-poles, kindling-poles, flower-poles, dew and mud on them all. The din of the Shanghai-Hangzhou railway station was like a tide coming and going, like fine flowers opening over a wall, with wandering bees and butterflies adding to the spring's noise. The water of West Lake was pale and plain. On the Bai dike a lonely Zen temple stood with no one passing through, its gate latched. Inside, on the stone-paved courtyard, the peach and plum blossoms had finished blooming. Those blossoms, in their opening, seemed about to speak, and in fading seemed lost in thought, all given over to the late sun and the sparse bell.
+
+Liu Zhaoyang stayed in a small inn in Hangzhou. The room had only board walls, a bed and a chair and a desk. On the board wall a single spot of sunlight, so still it seemed pasted on, golden. The bedding, because it was simple, because he was young, in the morning when he woke had its own clean fragrance. On the desk lay an old edition of *Zhuangzi* and a heap of newly arrived loquats.
+
+He had come this time to talk with his lover about marriage. She had been about to lay down some condition — probably about how their life after marriage would be secured — when he, on the spot, broke it off with her. What had been good before was still good, and ending it this way left no regret.
+
+Liu Zhaoyang later became a professor at Cheeloo University, a well-known Chinese astronomer. Truly, if he had simply talked it through with the woman, she would have agreed. But Liu Zhaoyang's pride was that strong, and the woman was deeply wronged by it; one cannot help recalling the line from *The Song of Everlasting Sorrow*, "her delicate brows died turning before the horse." Twenty years later, when the Sino-Japanese War ended, I took refuge in Shanghai in a Japanese family's house. There was a little girl there who played with her mirror-box and a little brocaded chest, and I watched her dismantle them — I felt a pang, but in her world everything was precious; if she didn't dismantle these, what else was there to dismantle? And so I thought of Liu Zhaoyang. The ancient Greeks, lacking completeness, would rather have nothing; Liu Zhaoyang, by contrast, could even cut down something complete in a single slice. Toward the world he set no conditions — he was even more capricious than the Greek gods. Looking back, Zhuo Wenjun's break with Sima Xiangru was, after all, just a pretext woven from jealousy and pride; she too could renounce, without flinching, a love of many lifetimes, set it aside in an instant, and see again the wide clarity of sky and earth.
+
+This kind of pride, this kind of heroic spirit, is the boundless luxury of life's tender vanity, taken to a point that becomes ruthless. In *Dream of the Red Chamber* there is Yuanyang, who thought herself the most heartless person there was; the deeply feeling people of old could turn suddenly to "the way of heaven, no kinships left," and Liu Zhaoyang had this same hard hand.
+
+Cui Zhenwu was from Zhangcun in Ningbo, also at Xiamen University, and worked with Lu Xun editing *Morning Blossoms Ten-Day Journal*; he later followed Lu Xun to Sun Yat-sen University. In that era, the young who travelled a thousand miles to study under a master thought nothing of delaying graduation. He was very rational, because his feelings were healthy. Both Cui Zhenwu and Liu Zhaoyang had come from comfortable families — Cui Zhenwu's father owned a shipping company — but Cui Zhenwu too had broken with his family over the arranged-marriage system.
+
+He had a lover, but she had been promised to another, and the engagement could not be undone; she went through with the marriage. He, in turn, never married. The woman cherished him for it, and he kept on respecting her. When she returned from Guangzhou to Ningbo, he saw her along the way, like the legendary man who escorts the maiden through the long road. He carried the infant in his arms for her. They made an agreement that every year, when the silk-tree flowers bloomed, he would come to her husband's village to see her.
+
+Even his surname, Cui — that character is beautiful. He was good at getting things done. Over a summer he went home to Ningbo and helped the farmers oppose a despotic landlord's monopoly. The case dragged on for years. He organised the farmers to burn incense and petition, to appeal to the authorities; only then did they win. Later he came to believe in materialism, simply because in materialism's universe and human-affairs framework he felt a kind of clean clarity. In opposing the despot, he had never meant to play the chivalric knight; and later when he took part in political activity, that too was just an expression of his bright, straightforward nature. He kept his promise to his lover.
+
+He also had a cousin, a sister-figure. Her face was rather common, her voice unpleasant. Seeing her cast off by her husband's family, Cui Zhenwu brought her out to try to help her find work; when that did not succeed, he simply supported her ever after. Cui Zhenwu was Greek in temperament, and yet this respect of brother for cousin-sister makes one think of Chinese ritual — *li*, ritual, which does not look at what the other is like, but expends only one's own goodwill. His friends, for his sake, had to be patient with this cousin too, and came to feel that between human beings there really ought to be a respect that has nothing to do with whether one is pleasing or unsightly.
+
+This Cui Zhenwu: later he was killed in Guangxi by Huang Xuchu. In his hometown, white clouds over the far horizon, only the silk-tree flowers in front of the village, when spring came, bloomed in unrestrained brilliance for the passers-by on every branch. Up in her bedroom, the young wife would do a little needlework and pause, thinking of him, feeling that the world flowed on without end, and yet in distinct, clear detail.
+
+My cousin Wu Xuefan, of Fujiashan Village in Shengxian, also wanted to break off the engagement his parents had arranged for him. His father said, "Such a thing — I can't bring myself to say." So Wu Xuefan went to Ma'ao Village himself to tell the elders of the woman's family openly. They thought very highly of him. In the end they said: "But we don't know what is in the young woman's heart."
+
+So Wu Xuefan had to speak with the woman herself, in person. The two of them sat in an upper room and spoke for half a day. In the countryside no one had ever done such a thing before. The household assumed the two of them had reached an understanding and been reconciled. When Wu Xuefan said he wanted the girl to go to school, the family happily agreed. They did not realise that Wu Xuefan was doing this so that her mind could open, so she might come to see that breaking off the engagement was good for them both — not because he disliked her.
+
+He sent her to a women's continuing-education school in Jiaxing, brought her home at vacation, looked after her on boats and carriages and at inns, treated her with every kindness and respect. Seeing the two of them writing to one another and travelling together, the family was delighted.
+
+Two years went by. The woman finished school and returned. The two of them reached Sanjie ford, with only five miles still to go home. She wanted to sit a while on the ridge between wheat fields by the river. Suddenly she began to weep. She said, "Don't ask. As I cry now, my heart is very still." Then she dried her tears, lowered her head, and said: "You have always been good to me. As a person I have no complaints. At school the teacher once taught us a Tang poem — *I know that your heart toward me is as the sun and moon* — and I thought of you at once. But when I came to the next line, *I will keep faith with my husband, ready to share life and death*, I cried. I have not had that kind of blessing. Now, thinking it over, the first line alone is enough. I will follow whatever you decide."
+
+At this she shed more tears, but lifted her eyes and smiled at Wu Xuefan. Sitting there on the ridge between the fields, her humility and gentleness had become a kind of uprightness. She said, "There is in the world a thing that is right, that is good, simply because it is so. From now on I will still remember you, like a moon high and far. I will not need to think about it or look at it; it will always be there. And in my room I will be doing my needlework. I won't even say thank you. Only today did I learn that human kindness has, in fact, a still larger kind."
+
+When they reached home she at once took from her mother the betrothal slip and gave it back to Wu Xuefan.
+
+Both later married others. Wu Xuefan died in Yanzhou during the war of resistance against Japan. His coffin was brought back to his home village, and the woman came to make sacrifice before it. As if praying, as if speaking aloud, she said: "For fifteen years I have not regarded you as having left me, nor as if you had not left. In the next fifteen or twenty or thirty years, I will likewise not bring myself to imagine you dead or not dead. From you I once learned that love is not the greatest thing; now from you again I have learned that separation in life and parting in death can also be very plain. The woman who comes to your altar today is still the girl of the Ma family of those years. As I cry now, these are no longer ordinary tears. Don't ask — I myself had thought I would no longer be able to weep. I light incense for you; the curling smoke is bright blue. I offer you tea and pour wine, with the same courtesy you once paid me." After making sacrifice, she met Wu Xuefan's wife as a guest meets a host; she saw the children too, sat a while, and then took her sedan-chair away.
+
+The young of the May Fourth era were like this — gold boys and jade girls.
+
+And because of that purity of these gold boys and jade girls, there could later be an "anti-feudalism," even though China had never really had a feudal society of the kind the West had once known. And because they saw Western things better than Westerners knew them themselves, they were qualified to censure the West, and so came the later "anti-imperialism."
+
+The May Fourth era was a watershed. From here on, the warlords would pass out of fashion; the flowers of the parliament would wither; the literati formed in the *mufu* private councils of Zeng Guofan, Li Hongzhang, and Zhang Zhidong, and the new troops trained under Yuan Shikai, would have to yield to the new intellectuals and to the Northern Expedition forces.
+
+The May Fourth era was the lavish blooming-weather of wind and rain, just before the Republic of China was to bring forth countless great events.
 
 </div>

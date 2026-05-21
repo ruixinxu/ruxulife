@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "我与《读库》"
+title_en: "Reader and Du Ku"
 date:   2025-04-23 18:48:47
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483842&idx=1&sn=5727034952c96152f5c575939ea60418&chksm=9b464c6aac31c57c590df866d4c59b34622669cfbda2868504fbd5e2b17e7914da0843000435#rd
 comments: true
 share: true
@@ -70,5 +71,67 @@ share: true
 老六在《读库2502》主编写给读者的一封信里讲到“在达利欧看来，未来的成败取决于人类如何相处，而他强调的，是“社区”的重要性。当财富和权力在满足基本需求后，便开始与幸福感无显著相关，而社区和人际关系，才是幸福的最大决定因素，而非物质财富。”
 
 我梦想着有一天可以建立一个栖身之所，被书环绕。周围的男女老少可以来这里阅读、喝茶、聊天。我希望她可以变成街道的一部分，每个人的城市地图的一部分，最终不可避免地成大家记忆的一部分。一处避世的地方，一个存在的理由。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Today is World Book Day. I want to share the story of *Du Ku* and me.
+
+If this is the first time you've heard of *Du Ku*: it's a *mook* (magazine + book), published every two months, with 5–10 non-fiction pieces per issue. It started in 2006 and has been running for almost twenty years.
+
+Lao Liu, *Du Ku*'s founder, says: "Sticking with non-fiction lets people find a pillar of spirit when they face hard times, and brings out empathy that radiates from one's own self outward." "The responsibility a book carries is, as much as possible, to record the individual voices of a time."
+
+The first time I heard of *Du Ku* was around 2013. On a TV show, Gao Xiaosong said Lao Lang was the real literary type — he reads *Du Ku*! I went looking out of curiosity, and then bought up every back issue I could find, filling two full rows on my bookshelf. To my embarrassment, those books mostly served as interior decoration. I hadn't actually read most of them.
+
+![](/images/wechat/wo-yu-du-ku/0.jpg)
+
+In 2015, when I decided to leave Beijing for Singapore, sorting through my belongings, I couldn't bear to throw out, sell or give away those two rows of *Du Ku*. Fortunately the lovely, kind Xiao Yao said she'd keep them for me. Only after I came back to China in 2017 did I retrieve them from her place.
+
+At the Dragon Boat Festival in 2017, I bumped into Lao Liu at an event at UCCA. I went up to ask for a photo and his WeChat, harbouring grand notions of "a possible collaboration" (ah, how cocky a young me could be). I said I wanted to do something book-related; the *Du Ku* team at that time happened to be exploring how to use technology to improve their internal workflows. After I officially moved back to Beijing in autumn, Liu invited me to the *Du Ku* office at Taiyanggong to discuss the design of an internal workflow system with Mr. Yang Dun and his colleague Yi Chun. Liu opened the meeting by trying to gently talk me out of it: "If you love *Du Ku*, you should just settle in as a reader." Sure enough, not long after, the "*Du Ku* internal workflow management system" quietly fizzled out on my end.
+
+![](/images/wechat/wo-yu-du-ku/1.jpg)
+
+After that, I started subscribing to *Du Ku*. Every few months, when the *Du Ku* package arrived, that whole day (and often the following days) became unusually happy. And I, paradoxically, actually started reading.
+
+The day after my daughter was born, Fei brought me the current issue, *Du Ku 2405*, from home. We were preparing to move to Shenzhen at the time, and I discovered, to my delight, that the first three pieces were all about things that had happened in Shenzhen over the past twenty years. I lay in my hospital bed reading happily, savouring that luxurious quiet.
+
+![](/images/wechat/wo-yu-du-ku/2.jpg)
+
+I don't know what other family members bring when they visit new mothers, but when our nurse aide saw Fei pull a book out of his bag, she couldn't hide the surprise in her eyes. After he left, she said to me: "You must have been a really good student — you love reading so much, and the incision hasn't even healed." I laughed and cried at the same time. Looking back, I honestly didn't experience the joy of reading when I was a student. It's only in the past few years that I've come to feel, more and more, that the act of reading itself is a kind of bodily and mental joy. And being able to put my thoughts and feelings into words after reading is even more joyful. And if what I write happens to resonate with someone else — that's joy to the Nth power. 🥳
+
+During maternity leave I built a new routine: after I drop my son off at kindergarten in the morning, I find somewhere quiet to read for a while, then rush back to take care of my daughter. Those few hours of morning reading refill me with enough energy to cope with the rest of the day. For a stretch, my bag held both Munro's *Too Much Happiness* and *Du Ku 2502* at the same time — one like a suspense series, the other like a documentary. Reading them in tandem was like a numbing-spicy hotpot served with soy milk; after too much dramatic fiction you need some non-fiction to take the edge off.
+
+By the end of my maternity leave the US–China trade war was raging. In a time as uncertain as this, it's hard not to be anxious. A few stories in *Du Ku 2502* showed me that every generation has its own fate. Our situation is not even the worst, and even in worse situations there have always been ways to keep living.
+
+In "Xuezhi's Path to Tenure," Xuezhi, because of her family background, spent twenty-six years getting from being a "people-run-school" teacher to an official tenured teacher. You can imagine the hardships along the way. And yet in her recollection there's not much resentment, and quite a lot of tenderness — the hearing-impaired children she taught with care, the teachers and friends who helped her along the way.
+
+In "The 'Victim' Invaders" I was shocked at how powerfully mind control can shape people. During WWII, kamikaze pilots took pride in being able to carry out suicide attacks. There were even wives who, in order to free their husbands of all earthly ties before their final mission, drowned themselves and their two children ahead of time! Ironically, those suicide attacks did very little damage to U.S. aircraft carriers in practice; the whole thing was a tragic exercise in self-moved sacrifice. There were also deserters in the kamikaze ranks. The most famous one deserted nine times in total, witnessed the end of the war, and lived to 96. "Deserter" is usually code for cowardly and weak — but if the tactic itself is wrong, isn't being a deserter on that battlefield actually the wiser choice?
+
+**You, always, in this world**
+
+Lao Liu once wrote an essay called "You, always, in this world," excerpted in part below:
+
+> In *The Return of the Condor Heroes*, the brothers Wu Jingru and Wu Xiuwen are at each other's throats over Miss Guo Fu, and Guo Fu herself can't decide between the two of them —
+>
+> **Guo Fu watched Wu Jingru's back as he disappeared behind the rockery — not once did he turn around. She thought: "Whether it's the elder Wu or the younger, if there were only one of them in this world, wouldn't that be perfect?" She sighed deeply and went back to her room alone.**
+>
+> **Yang Guo, after she had gone, smiled and asked, "If you were her, which one would you marry?" Xiaolongnü tilted her head and thought for a moment, then said, "I would marry you." Yang Guo laughed: "I don't count. Miss Guo doesn't like me at all. I mean: if you were her, between the two Wu brothers, which one would you marry?" Xiaolongnü gave a soft "hm," compared them in her mind, and finally said: "I'd still marry you." Yang Guo was both amused and grateful, and pulled her into his arms.**
+>
+> Yang Guo asked Xiaolongnü a hypothetical question, but the lady had no second thoughts. That moment of tender intimacy is also the most beautiful state a life can be in: I genuinely cannot imagine, or find, a state better than this one.
+>
+> At yesterday's event in Hangzhou, a reader posed a question like Yang Guo's, and I answered without hesitation — and my answer had nothing to do with the choices in the question. It was "keep editing books, keep publishing them."
+
+"If you could do whatever you wanted, what would you choose to do?" I keep asking myself that. Eight years ago, the thing I most wanted to do was be a mother; after that, do something with books. Now, that wish hasn't really changed. In this turbulent, fractured era, I want to swim against the current, using paper books to connect real people in the real world.
+
+![](/images/wechat/wo-yu-du-ku/3.jpg)
+
+I once saw this photograph and it stayed with me — a library, bombed to ruins, and three men in formal hats reading calmly in the rubble. The harder the era, the stronger people's pursuit of peace and reason. The same goes for civilization: the more demonic the era, the more unstoppable people's longing for civilization.
+
+In his editor's letter to readers in *Du Ku 2502*, Lao Liu writes: "In Dalio's view, the future depends on how human beings get along, and what he emphasizes is the importance of *community*. Once wealth and power have met basic needs, they no longer correlate significantly with happiness — and the biggest determinants of happiness are community and human relationships, not material wealth."
+
+I dream that one day I can build a place to dwell, surrounded by books — where men, women, the young and the old around me can come to read, to drink tea, to talk. I want it to become part of the street, part of each person's mental map of the city, and ultimately, inevitably, part of everyone's memory. A place to step out of the world for a while. A reason to exist.
 
 </div>

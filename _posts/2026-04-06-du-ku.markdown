@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "读库2601"
+title_en: "Duku 2601"
 date:   2026-04-06 17:51:10
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247484106&idx=1&sn=7602ad0bd91544b48e6ad73a155e00cc&chksm=9b464f62ac31c674521ddac13ef25437c9c5e3cc915c4b48c554fa610a8b3f8c65166358ca06#rd
 comments: true
 share: true
@@ -50,5 +51,49 @@ share: true
 《年轻人和鱼》是作者参加平遥电影节遇到的人和事。是年轻人写的会发生在年轻时候的故事，陌生人之间那么容易就可以建立连结，观众和刚毕业的导演之间也可以很轻松的就对话聊天。
 
 《商品的合唱》写八十年代的商标、包装与海报广告，是本期共鸣度最低的一篇。可能那时候自己还小，且文字大部分是对标签的描述。从平面广告、广播电视广告、到数字广告、流媒体广告，广告业的发展变迁也是大时代进程的一部分。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/du-ku/0.jpg)
+
+This issue of *Duku* (a Chinese literary anthology series) is noticeably more international. *2601* opens with **"Poverty,"** by an Austrian mother who tells the story of her own middle-class family slipping into hardship. Both she and her husband are educated and never imagined a life without work. After their fourth child was born with a congenital illness, treatment costs were enormous and family expenses ballooned. To care for the child the author cut her working hours; income dropped. Her husband overworked to keep the family afloat, his body broke down, he could no longer work, and the family slid into a vicious circle of poverty.
+
+From early on — full of hope, struggling to save themselves — to later, when they had run out of options, the author tries to make clear that poverty is a structural, social problem. Even in a welfare state like Austria, the social-safety net is far from transparent to the people who actually need it. From government agencies to social-counselling centres, the people in poverty find it genuinely hard to learn which benefits they are entitled to. And misinformation, or simply bad advice, can be fatal for the person on the receiving end.
+
+With enormous courage the author talks honestly about the humiliation, marginalisation and stigma she experienced in the process. The public attributes poverty to laziness and lack of effort, and very often the people in poverty internalise this view, drenched in self-blame and a sense of failure. When the author couldn't come up with a few euros for a school excursion lunch, the teacher's response was not understanding but a remark that "parents who can't even budget for basic costs are irresponsible." After her family fell behind on rent and utilities, the landlord caught her one summer taking her children to an open-air pool and harangued her — "spending money on entertainment when you haven't even cleared the rent." She heard, again and again: "Are you poor? Then you have to work 180% as hard!" As if poor people are not allowed to relax or to rest. In reality, many people in poverty are already working hard to earn money — and every human being, rich or poor, needs rest.
+
+Another spine-chilling insight: a properly functioning society depends on low-income workers, and income has very little to do with contribution. A 2009 study by Britain's New Economics Foundation analysed which jobs matter most to society and which jobs do the most damage. The most valuable job turned out to be hospital cleaner: without their work, viruses and bacteria would spread unchecked, leading to longer hospital stays, more complications and more deaths. The economy itself would seize up, because too many people would never recover from illness. On the other side, the most socially harmful job was tax adviser — people whose work reduces government revenue.
+
+Poverty isn't just something that happens to other people; poverty can land squarely on us. The structural cure is still far off. But honestly speaking your own experience aloud, building networks so people in poverty know they are not alone, and exchanging information — that is an important first step.
+
+---
+
+**"Tuesdays in Therapy"** is the author's psychotherapy journal. A "mid-life young woman" approaching forty, she had a less-than-rosy upbringing — an alcoholic, abusive father, parents who divorced when she was a teenager, grew up with her mother — but is by nature open and lively, and was not depressed or emotionally disordered. Her conversations with a skilled therapist stirred up fogs at the bottom of her psyche she hadn't known were there, and let the long-sealed murk drift up and out. She shares her experience because, she wants to say, ordinary mentally-healthy people *should* and *can* also have their own therapist. It widens our view of ourselves and the world, and offers a deeper kind of healing.
+
+---
+
+**"The Sister Two Years Younger Than Me"** reads very much like last year's piece, *"The Aunt Two Years Older Than Me."* Both use a double narrative — the protagonist's life on one track, popular-science about immunology on the other. They turned out to be by the same author. Shang Zhou was born in rural Jiangxi in the 1970s, was a rare university student of his generation, then went to Germany to study and became an immunologist. He's unusually good at using simple language to explain complex, dry concepts in biological immunology, and his trick of weaving the science into a family story makes you feel directly how immunology shapes a person's whole life. Each of our lives and fates is never about us alone.
+
+His sister was born in 1976. At two she caught measles, with a severe pneumonia complication; she was lucky to survive, but the damage to her young lungs followed her for the rest of her life. The author starts from the very first vaccine in human history — Jenner's 1796 cowpox-smallpox vaccine — and goes step by step through attenuated vaccines, inactivated vaccines, protein vaccines, viral-vector vaccines, nucleic-acid vaccines. The first measles vaccine was invented in 1954. China started using it in 1965, and from 1978 included it in the National Immunization Programme, rolling out planned, universal coverage. The measles outbreak that hit his sister became, by the way, the last such outbreak in his hometown.
+
+---
+
+**"A Classical Beginning of Sadness"** widened my own frame of reference. It's a piece I'd never have sought out on my own, and no recommendation algorithm would ever push to me. The author opens by asking whether Qu Yuan ever actually existed as a historical figure, then traces his life through the works he left behind. The piece moves through the alliances and intrigues of the Warring States era — the shifting diplomacy of "vertical and horizontal" alignments. Qu Yuan argued for an alliance with Qi against Qin, and was for a time deeply trusted by King Huai of Chu. As the situation changed he was pushed to the political margins. In exile he kept his country in his heart, and amid drifting wrote *Li Sao*, *Heavenly Questions* and other poems — folding personality, conviction, will and literary genius into one great body of work.
+
+With my own limited grasp of history and classical literature, this was initially hard going. Then I found a useful trick: I treated myself as someone "from Qi" (matching my hometown), my husband as "from Chu," and friends from elsewhere as coming from Qin or Yan-Zhao — mapping each state onto a real person I know. Reading suddenly became smooth, and a little absurdly fun. I came away wanting to dig out the *Chu Ci* and study it.
+
+---
+
+**"Notes on the Trivia of the Nobel"** gave me my first real look at the people and stories behind how the Nobel Prize came to be. Never mind the rollercoaster saga of the Nobel family, fortune built on dynamite and arms — just the story of Ragnar Sohlman, the executor of Nobel's will, who broke through endless obstacles to actually make the prize happen, is astonishing. Sohlman was Nobel's personal assistant and chief executor. Nobel's brief deathbed instructions left countless hidden problems. "Furious Nobel family members, a hesitant Swedish Academy of Sciences, a timid Swedish Academy of Letters, a covetous Karolinska Institute, a disgruntled Swedish royal family, and a French government circling like a tiger." Sohlman spent four years smoothing every conflict by force of will. He later turned the whole ordeal into a book, *Ett Testamente*; I couldn't find a Chinese translation but would love to read it.
+
+---
+
+**"Young People and Fish"** is about the people and events the author encountered at the Pingyao Film Festival. A story by a young writer about things that happen when one is young; how easily strangers can connect, and how easily an audience can fall into casual conversation with a director straight out of school.
+
+**"A Chorus of Goods"** is about logos, packaging and poster ads in the 1980s — the piece I found least resonant in this issue. I was still very young then, and most of the text is descriptions of labels. From print to radio and TV ads to digital ads to streaming ads, the evolution of the advertising industry is also part of the larger arc of an era.
 
 </div>

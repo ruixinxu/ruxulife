@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "“如许阅读”换书会第三期来北京啦！"
+title_en: "Ruxu Reading Book Swap #3 — Coming to Beijing!"
 date:   2017-02-12 00:50:06
 categories: wechat
 tags: [wechat]
@@ -40,5 +41,41 @@ share: true
 - 自由交流、互相借阅、约定归还时间。没有被借走的书籍可以自行带回。
 
 如有问题请联系木木徐，微信号 pooh1949。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/ru-xu-yue-du-huan-shu-hui-di-san-qi-lai-bei-jing-la/0.jpg)
+
+If you always have a few old books gathering dust on your shelf…
+
+If the storylines that thrill you never seem to have anyone to share them with…
+
+If the endless lists of titles out there often leave you not knowing where to start…
+
+Then bring your books to the "Ruxu Reading" Book Swap!
+
+**Time**: 2017-02-18, 15:00 – 17:00
+
+**Venue**: Bai Ye Meng Lan, 218 Deshengmennei Avenue, Beijing
+
+**Fee**: 20 RMB/person
+
+**How to register**: Scan the QR code below, or tap "Read original".
+
+![](/images/wechat/ru-xu-yue-du-huan-shu-hui-di-san-qi-lai-bei-jing-la/1.png)
+
+**Other notes**:
+
+- Pre-registration is required; please wait for a confirmation message to confirm your spot.
+- Each guest should bring at least one book and share it with the group in turn.
+- You can talk about the content, style, author, or anecdotes; you can also share your own reading impressions, favourite passages, and scenes.
+- Anyone is welcome to share their own views on whatever is being discussed, and join the conversation. *Junzi he er bu tong* — a gentleman lives in harmony with others without being a copy of them. Every perspective deserves respect.
+- Open mingling, lending books to each other, agreeing on return dates. Any books that aren't borrowed can be taken home.
+
+For questions, contact Mumu Xu, WeChat: pooh1949.
 
 </div>

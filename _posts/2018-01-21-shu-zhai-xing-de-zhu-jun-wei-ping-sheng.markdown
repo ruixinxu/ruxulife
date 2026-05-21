@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "【书摘】幸得诸君慰平生"
+title_en: "[Book Notes] Lucky to Have You All to Comfort My Life"
 date:   2018-01-21 23:59:55
 categories: wechat
 tags: [wechat]
@@ -42,5 +43,43 @@ share: true
 PS: 书外封底印着“以为活着是为了收悉美。某公笑叹，什么是美？即‘不知生活艰辛’。我点头，但转头还得给他补半句，‘或佯作不知生活艰辛’。本书就是这么个情况。” 二十九岁之后常感慨生活不易，不光是自己那一亩三分地儿，看周围每个人也是各有各的苦，泥沙俱下，如影随形。生活既已如此不如就多些“妇人之见“，关注细微琐碎，佯作不知其艰辛。
 
 PPS: 本书（2017年12月第3次印刷版）最大槽点是印刷用纸太白还反光，像加多了漂白剂的白面馒头，要是换成微微泛黄的轻型纸或者纯质纸阅读体验应该会更好吧。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/shu-zhai-xing-de-zhu-jun-wei-ping-sheng/0.jpg)
+
+---
+
+One of the pleasures of working with Huiping is constantly receiving little surprises — like this book *Lucky to Have You All to Comfort My Life*, by the pen-named author "Guyuan Fengyu Qian" (Wind-and-rain Before the Old Garden). Before I opened the package, looking only at the title and the author's name, I guessed it would be one of those retro boudoir-grievance pieces in the style of An Yiru or Bai Luomei. Turned out to be nothing of the sort. The book is full of "womanish remarks" about the everyday world — written by a hostess with wildly alive senses, a deliciously scattered attention, prose so precise it draws blood, and a built-in sense of comic timing. You can feel the heat coming off her through the page, and you laugh out loud at her offhand quips and her wild-imagined metaphors.
+
+She writes about her elegant neighbour: "The woman I bumped into in the lane that morning — even though she's well past sixty-five, I just can't bring myself to call her *old auntie*, because, very subtly: her white hair is freshly permed, she has red on her lips, she's holding her granddaughter's hand, and her fingernails are studded with little stones. The granddaughter is acting up and trying to pry one off, and Granny is scolding her in that affected, doting way. The last time I saw her was twenty years ago — back then she wore qipaos year-round, went dancing every day. Her husband, very tactfully, died early."
+
+She writes about her aunt making clothes for her uncle: "I won't pass judgement on the clothes themselves, because I love my aunt very much. I only remember how my uncle looked once he had them on — the upper half of him sheathed in a vertical kraft envelope, neck gone missing. But that wasn't a piece of clothing — that was love. Why else would he wear it… He would wear anything she made for him. She saw a jacket in a magazine, she made him a jacket. Her colleague brought back a shirt from Shanghai; she took it home as a pattern. A leading man in a film wore a tie a certain way; she'd buy a similar scrap of fabric and cut him one to match. She put her whole self into dressing him up, and he meekly went about flowery-resplendent for years — until her lower back gave out and she could no longer work the sewing machine."
+
+She writes about her single Uncle Dan, living through the absurdity of his era: "All the various forms of awkwardness, comedy and being-out-of-step we saw in him were probably a trauma response. He could never quite make peace with this world, because he was on the same side as Ye Wenjie. He just chose not to act on it the way she did. He tried, or at least tried to look like he had, to forgive this world." Uncle Dan, when buying vegetables, loved celery in particular. "Watching him pick through celery stalk by stalk, with such concentration and such barely-suppressed fervour, I sincerely hoped the celery might be moved by his sincerity, be reborn as a person, and marry him."
+
+She writes about picking her child up from school: "He's in front, I'm behind, ten body-lengths apart. I stare at his back, and the longer I stare the angrier I get. These trousers are too big for him. I told him a hundred times this morning to keep hitching the waistband up. Apparently I was talking to a wall. Now his backpack is rucking his jacket upward, and god knows what scrap of junk in his pocket is pulling the trousers down, and his middle is bare. 'PULL UP YOUR PANTS!' I roar. To my astonishment three or four people in front of him whip around in alarm, see that it's just some unrelated woman, and dejectedly turn back. But — among them an old man and a young guy *both* slid a hand to their own waistbands — I'd bet there's a hot-tempered woman who loves them in their lives too."
+
+She writes about people braving the Beijing winter to make it to Uncle's family dinner: "In winter, the bare-stripped vegetation adds a stark, ghostly chill, and at night it tips toward eerie. The road is long, and you only see the perpetually-locked back doors of the apartment blocks lining it, so there are almost no people. On a winter night the crosswind is like an icy ocean swell, makes you want to weep aloud for no reason at all. So every guest arrives at the door looking exactly like the Little Match Girl, tragic past and all. And one bowl of hot soup later, every Little Match has been awarded a happy, family-reunion ending."
+
+Most dazzling of all is when she writes about food. "Beef, tomato, and onion together — heaven assigned this combination. It's their fate, the three of them. The fatty milk-fragrance of the beef is hidden in the fibres; one bite and it bursts open, slightly unhinged, your appetite suddenly and violently satisfied — it flips you over in an instant. But you don't die from it: the sweetness and acidity of the tomato and the faint pungency of the onion call you back. That kind of soothing-yet-edged stimulus is the spice of the woman who loves you most — she's sharp because she cares."
+
+She writes about how, at a little restaurant, the slices in the *huiguo rou* (twice-cooked pork) have been "scaled up" until they're much larger than usual, easily covering a 7 Plus phone. "This single change turns the traditional flirtation between *huiguo rou* and the taste buds into an outright assault on the taste buds. Once a 7-Plus-sized slice goes into your mouth it instantly fills the entire oral cavity; the chilli-bean red oil, the meat's own fat, the green-garlic juice, all wrapping the meat juice and occupying every corner of your mouth. There's no need for careful tasting. It's not that the meat belongs to you — it's that you belong to the meat. You have to control the oil from creeping up into your nasal cavity, and hold back tears of overwhelmed joy. To make a cross-domain analogy: eating this huiguo rou makes you involuntarily go full fervent — like being pinned to a wall by someone you have a crush on. Traditional huiguo rou is, by comparison, much more modest, leaves space in the mouth, gives up the corners, lets you keep your composure, lets you not lose your dignity. But I would happily lose my dignity."
+
+How alive! How flush in the cheeks!
+
+In his preface, Wang Kailing sings the praises of "the womanish woman": "They understand people, they understand the world, they're diligent; the grain and texture of life — they know it intimately. They show endless loyalty and warmth to the everyday world, full of energy, working it with care, and their small days come out full and abundant and thriving. The trouble with modern people is: too many *fine ladies*, not enough *women*. The women only seem to be busy with what goes on the cover."
+
+And Huiping is exactly that kind of clear stream in our age. Yes, she has fair skin, large eyes, long lashes and a voice as sweet as Lin Chi-ling's, but the fine-lady face cannot hide the womanish potential underneath. She "always watches life with the eyes of a hungry person," and has an enthusiasm for wet markets and household life hacks well beyond her years. Angela and I often feel there's an old soul living inside her young body. When we watched *20 Once Again* and saw Yang Zishan strolling around the wet market with a basket on her arm, we both screamed: that's just Huiping!
+
+One day the topic came up: "What if my friends all turned into baozi?" Huiping said the fiery Angela was a "durian baozi" — anyone who doesn't like her runs the other way, anyone who does can't stop reaching for her. Mumu Xu was a "three-diced baozi" — meat, bamboo shoots and shiitake — at first bite you taste bamboo and meat and you think it's a tough, strong-willed baozi; chew a bit more and there's soft shiitake hiding in there. She herself was a "sugar triangle" — white sugar, peanut, and sesame in the belly, easily chilled but indifferent to heat, because a cold sugar triangle is no good at all. Duo Duo's Luffy first jumped in saying he was a "meat baozi", then started agonizing over whether he was a "xiaolongbao" or a "big meat bao"… A bunch of us, very seriously, talking complete nonsense — and after laughing ourselves silly, it left a warmth behind. Lucky to have you all to comfort my life.
+
+PS: On the back cover the book says: "I thought living was for harvesting beauty. Someone laughed and asked, what is beauty? It is 'not knowing the hardship of life.' I nodded — but then turned and added half a line for him: 'Or *pretending* not to know the hardship of life.' This book is exactly that kind of thing." After turning twenty-nine I often feel life isn't easy — not just my own little square of land, but everyone around me, each with their own grief, sands and gravel all rushing down at once. Since life is already like this, I might as well lean a little more into "womanish remarks," pay attention to the fine and trivial, and pretend not to know how hard it is.
+
+PPS: The biggest gripe about this edition (3rd printing, December 2017) is that the paper is too white and reflective, like a steamed bun with too much bleach in it. Switching to slightly-yellowing light paper or pure-pulp paper would make the reading experience much better.
 
 </div>

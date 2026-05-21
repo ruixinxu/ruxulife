@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "二胎记"
+title_en: "Second-Child Diary"
 date:   2024-12-26 10:33:18
-categories: wechat
-tags: [wechat]
+categories: ruxu-life
+tags: [ruxu-life]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483800&idx=1&sn=e6d5bf522090f7ffe05e28b4a53dbaea&chksm=9b464c30ac31c526d388af127d77cf69920ea845f8ff022fcdd2c21232d8d4f0b63e60c50ef3#rd
 comments: true
 share: true
@@ -56,5 +57,57 @@ share: true
 “繁殖真的是一件残酷且毫无人性的事。小时候，我经常弄不明白，为什么我妈总是看起来那么疲惫且焦虑？她就不能看起来高兴点吗？现在我明白了，女人只有不带孩子的时候，才会神采飞扬。”不能同意更多！
 
 二胎这么难，为什么还要生二胎呢？这个问题我也在思考，还没想好怎么回答。对了，这本《二胎记》就是我亲爱的弟妹拿给我的，如果上一辈没有生二胎，我就会错过这本有意思的小书了吧。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/er-tai-ji/0.jpg)
+
+It's been almost two months since our daughter was born. At first I actually felt fairly composed — until early this month, when I brought both kids back to Jinan and got my first real taste of the chaos that is life with two.
+
+**Composure, at first**
+
+The second pregnancy and the period right after gave me, often, a surprisingly relaxed, in-control feeling.
+
+When some prenatal indicators came back outside the normal range and the doctor recommended further screening, I confidently said no! Every child has their own growth rhythm — how can you require every individual at every stage to fit the statistical distribution? Look — she came out healthy, didn't she? Don't *blindly* worship modern medicine!
+
+During my postpartum month at home, faced with the usual newborn issues — jaundice, eczema, possible calcium deficiency — I stayed calm. Sun her when sun is needed, dab on the cream when cream is needed. Within days the symptoms cleared up. I felt I had the hang of it.
+
+I also let myself comfortably slack off during the postpartum period. With this second baby my milk supply still wasn't quite enough. With the first I tried every possible method to chase it up, dreaming of exclusive breastfeeding — to the point where my cervical spine flared up and I had trouble even getting out of bed. With the second I simply accepted reality, gave up chasing the supply, walked away from the cult of breastfeeding, and went mixed-feeding. Mixed feeding works just fine.
+
+With the first child, I fed by the clock — every three hours, even if the baby was sleeping peacefully I would haul him out for a feed. At night, the moment he stirred I would jump up and check on him, terrified something would go wrong. In the end my own sleep was crushed into fragments. With this baby I'm a Buddha. As long as she's not howling at night, I leave her alone. Sleep first. Before she was even a month old, she occasionally slept from midnight to five in the morning!
+
+At the six-week follow-up, all my indicators were excellent — actually noticeably better than after the first delivery. I got the report and thought to myself: "See? No road we walk is wasted."
+
+**Domestic chaos**
+
+Bringing my son and the baby back to Jinan for a stretch this month, I felt the full chaos of life with two.
+
+The big brother can't tolerate the little sister yet. Every time he sees me nursing her, he wants to hit her. At this stage I'm not expecting some Disney-level sibling love, but I can't let them turn into siblings-in-mortal-combat either, so I never leave them in the same room.
+
+The baby needs to be fed at night. At bedtime, her older brother insists I lie down with him. If he wakes up and sees grandma or grandpa, he flies into a rage and cries and screams. So I coax him to sleep first, hear the baby start crying, and then sprint to the next room to nurse her. Just as her eyelids are starting to droop and she's about to sleep, my son yells from next door: "Mama! Mama! Mama, come sleep with me! Don't feed sister!" I yank the food out of the baby's mouth, run to soothe him; the baby, startled awake, starts wailing again.
+
+**Three monks and no water**
+
+After back-and-forth like this through the night, I feel utterly emptied out. My mum, hurting on my behalf, took my son out during the day so I could rest at home. The baby and I were lying down in the bedroom; the baby was squirming and grumbling, I couldn't really sleep — and then, on top of that, I could hear my dad *singing* in the living room. Rage rose in an instant. My mum and I are running ourselves ragged, you're not helping, and now you're singing?!
+
+When my mum brought my son back at lunchtime, the kitchen was cold and no one had cooked, and I complained to her about my dad — not only does he not pitch in, he sings! My mum had spent the whole morning chasing my son around outside and was already drained. With my words she boiled over too, and unloaded on my dad: "You could have steamed the *mantou*. The floor's filthy — you could have swept the floor." My dad, on the receiving end, was furious; he turned and walked out. I was instantly ashamed. When I'm not around, those two get along just fine. The moment I come home, I trigger the conflict and drag us all into the "three monks and no water" awkwardness.
+
+People always say working women need to balance family and career. I think it's working men who need to take on more family responsibility. Not only to share women's load, but for their own sake. Otherwise, by the time they retire, they can't lift a finger around the house, and they're not close with their kids either.
+
+**A second-child manifesto, spoken for me**
+
+We finally waited until my husband came to pick up our son, and the rest of us could exhale and recover a little. While my son was gone, in the gaps between the baby's naps, I sped through Mao Li's *Second-Child Diary*. Ahhh, she has spoken for me word for word.
+
+"Travelling as a two-child family is harder than the Tang Monk's pilgrimage west. Taking only the little one is not so bad — she'll fall asleep. Taking only the older one is not so bad — there are stretches when he listens. Take both, and I'm a member of an emergency response unit: blocked on one side, leaking on the other, never a free minute." Tell me she isn't talking about *me*?!
+
+"On the second child, I've also got some heartfelt wisdom now. If you absolutely must have one, be ready to be enraged to death. Mothers of two, as I have observed, all walk around like soldiers on a forced march, with the bleak look of someone who has just narrowly survived." Terrifying. Truly terrifying.
+
+"Reproduction really is a cruel and inhuman thing. When I was little I couldn't understand why my mum always looked so tired and anxious. Couldn't she just look happy? Now I understand: a woman only looks radiant when she isn't with the kids." Could not agree more.
+
+If a second child is this hard, why have one at all? I'm thinking about that too, and I haven't worked out my answer yet. By the way: my dear sister-in-law gave me this copy of *Second-Child Diary*. If our parents hadn't had a second child, I'd have missed out on this entertaining little book.
 
 </div>

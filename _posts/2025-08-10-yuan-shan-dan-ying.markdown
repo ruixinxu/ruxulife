@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "远山淡影"
+title_en: "A Pale View of Hills"
 date:   2025-08-10 17:24:13
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483891&idx=1&sn=bc6ab74165e70ece36a438770217b98e&chksm=9b464c5bac31c54de0cc4f73adfaada4f35fdaccfc2661508dbeed3dfafcd69cd8321787bc1d#rd
 comments: true
 share: true
@@ -34,5 +35,35 @@ share: true
 石黑一雄没有明确的提到任何历史性的时间或者事件。我查了一下，1945年8月9日，美军在长崎市投下原子弹。长崎市约60%的建筑物被毁，伤亡8.6万人，约占全市总人口的37%。当年9月2日，日本签署投降书，第二次世界大战至此结束。
 
 今年刚好是长崎原子弹爆炸八十周年。唯愿世界和平🙏
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/yuan-shan-dan-ying/0.jpg)
+
+*A Pale View of Hills* is Kazuo Ishiguro's debut novel, first published in 1982. There are no dramatic plot turns. The story mostly tracks a few quiet days when Niki comes home to visit her mother Etsuko, the small routines of their time together, and Etsuko's recollections of the past. Read end to end, the book feels exactly like its title: distant, faint, drifting.
+
+Etsuko's memories belong to Nagasaki just after World War II. The details of those memories—and sometimes dreams—are full of contradictions that don't quite stand up to scrutiny. From the fragmentary conversations between Etsuko and Niki, and from her dream-like remembering, you can piece together roughly the following story (spoilers ahead).
+
+Etsuko is a Japanese émigré living alone in England. She has had two daughters by two husbands. Her older daughter, Keiko, was born in Japan and came to England with her mother as a child; Etsuko then remarried in England and had her younger daughter Niki. Both of Etsuko's husbands have died, and Keiko took her own life several years earlier. During the few days Niki is home, Etsuko recalls events from years ago in Japan—her friend Sachiko and Sachiko's daughter Mariko, her ex-husband Jiro, and her father-in-law, Mr. Ogata.
+
+In post-defeat Nagasaki, it isn't only the buildings that have been devastated, but people's inner worlds. The traditional values represented by Mr. Ogata are openly attacked by the younger generation, without restraint.
+
+Etsuko, Sachiko, Mariko, and Mrs. Fujiwara are all survivors of the war. Each has lost people they loved, witnessed too much disaster, lived through displacement. And yet their plans for the future are very different. Mrs. Fujiwara is content to run her noodle shop and believes things will get better. In Etsuko's memory, she herself is pregnant, her husband Jiro's career is on the rise, and her days are full of hope. Sachiko, on the other hand, is determined to leave Japan and take her daughter Mariko to America. She is convinced "America is a better place for a girl to grow up." There, she can do all sorts of things—become a businesswoman, become an artist. "Japan isn't a good place for a girl. What can she possibly hope for here?"
+
+Read to the end and you'll realize: Sachiko *is* Etsuko, and Mariko *is* Keiko. Etsuko has found a stand-in for herself inside her own memories. On one hand she insists, "My motives for leaving Japan were proper, and I know I had Keiko's interests at heart all along." On the other hand she admits: "I knew from the beginning she wouldn't be happy here. But I still chose to bring her along." Etsuko has been blaming herself for Keiko's death her whole life, fighting a brutal internal battle.
+
+The power of language really is extraordinary. In Etsuko's recollection, on the night before Sachiko and Mariko are to leave Nagasaki, Mariko runs away from home because her mother has broken her promise to keep a kitten. Etsuko goes after Mariko in Sachiko's place. When she finds Mariko by the river, the conversation suddenly shifts—from outside-looking-in to first-person speaker. The shock of it is immense; you believe this conversation really did happen, that it is the actual exchange between Etsuko and a young Keiko. The narrator herself has stopped pretending.
+
+> She was silent a long time before she said: "I don't want to go. I don't want to go tomorrow." I sighed. "You'll like it. Everyone's a little afraid of new things. But you'll like it there." "I don't want to go. I don't like him. He's like a pig." "You can't talk like that," I said angrily. We looked at each other for a moment, and then she looked down at her hands again. "You can't talk like that," I said, more gently. "He's very fond of you. He'll be like a new father. Everything will turn out fine, I promise." The child said nothing. I sighed again. "Anyway," I went on, "if you don't like it there, we can always come back." This time, she looked up and watched me, suspicious. "Yes, I promise," I said. "If you don't like it there, we'll come back at once. But we have to try. We have to see whether we'll like it. I think we will."
+>
+> *A Pale View of Hills*
+
+Ishiguro never names a single historical date or event. I looked it up: on 9 August 1945, U.S. forces dropped an atomic bomb on the city of Nagasaki. About 60% of the city's buildings were destroyed; 86,000 people were killed or injured, roughly 37% of the total population. On 2 September of that year, Japan signed the instrument of surrender, ending the Second World War.
+
+This year happens to mark the eightieth anniversary of the atomic bombing of Nagasaki. May the world know peace. 🙏
 
 </div>

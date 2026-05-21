@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "【书摘】时而夏洛特"
+title_en: "[Book Notes] Sometimes Charlotte"
 date:   2017-08-17 01:48:19
 categories: wechat
 tags: [wechat]
@@ -88,5 +89,89 @@ share: true
 拔掉了刺，失去了光。我们终于可以心平气和的坐在一起了。彼此无话，却很自然地坐着。一切都挺好的，我想，只是实在想不出还有什么再见面的必要了。
 
 胶水坡。伯爵。狸猫。鳄鱼。鸽子。十九。吹风机。Bel Canto。断翅的蝴蝶。昂宿星团。Scarlet。我把这些与你有关的词语写了下来。它们是沿途散落的面包屑，大多数都被风吹走了，又或者是被谁吃掉了，只剩下那么寥寥几颗。它们已经无法作为路标，让我们循着回到来的地方了。
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+![](/images/wechat/shu-zhai-shi-er-xia-luo-te/0.jpg)
+
+My high-school Chinese teacher Xiao Caomei (Little Strawberry) once said Zhang Yueran's prose was "like dewdrops on the lotus leaves of Daming Lake — full of tension." More than a decade ago, she wrote, "This is a dry-bone winter suited for parting." That sensitivity, that grief, that elegiac fineness, peculiar to youth-literature. Recently, sorting through some things, I dug out the old anthology *Carp · A Room That Doesn't Belong to You*, and re-read Zhang Yueran's "Sometimes Charlotte" — a story about meeting her younger self again. The story is set in the "small island" (Singapore), and I came across so many familiar terms: Kinokuniya bookstore, Alice Munro, Ngee Ann City, durian puff, Orchard Road, Holland Village, the crows in the hawker centres, laksa… It brought back my own two years on that small island, which felt like an extension of post-adolescence. "Things too violent, like an over-strong exposure, can't develop in memory — they leave only a haze of white brightness." Maybe one day the thorns get pulled out and the light is lost, the fever of youth is cured, and you live healthily and normally inside your life; looking back, perhaps it is no more than a bright spot too.
+
+---
+
+Sometimes Charlotte (excerpts)
+
+Zhang Yueran
+
+Of course I have a list. Inside my head, written with the places I want to go. Of course I also know it's dangerous. All revisits to old places very easily become your last visit to them — and afterwards you stop missing them. That means a certain emotional completion, or, more candidly, the end of a piece of the past.
+
+The Kinokuniya bookstore is on the third floor of Ngee Ann City. I used to come here often on weekends; so many traditional-character books. I would sit cross-legged among the shelves and read through an entire afternoon, and then, with great difficulty, choose one to take home. Alice Munro's first book I bought here — back then she was translated as Meng Ruo. I also discovered Angela Carter; *Fireworks* was so expensive, I had to brace myself twice before finally buying it. The Bible I kept by my side for years, in traditional characters, I bought here too — only because she had told me the words in it were beautiful.
+
+I took the escalator down to the basement of Takashimaya and bought durian puff, missing that feeling of slightly chilled durian flesh reviving inside the mouth. A box has four; I sat on the rest bench and ate them slowly. In the centre of the mall the giant Christmas tree had already been put up.
+
+I wonder what the lights of Orchard Road will look like this year. Celebrating a cold-weather holiday in tropical heat is like performing in someone else's script. That Christmas she took me to a church; I drank the fruit-wine that stood for the blood of Christ, and burst into tears during prayer. On the way home, at Swensen's, we bought an enormous Yule-log cake. So sweet — we kept eating it until the New Year. So much memory is tied to sweet food… Munchy's peanut-cream biscuits. Tofu pudding with sweet syrup. Bobo chacha thick with coconut milk.
+
+I locked myself in my room and ate and ate. A claustrophobic needs a sweet stomach.
+
+By dusk I had reached Holland Village, on the newly built MRT line. The same shabby building is still there, with all kinds of odd shops — antique furniture, saris, lurid perfumes. A few years ago, the landlady of the apartment I rented from had her shop on the second floor, selling flowers. Silk flowers, gaudy, shipped over from a small city in southern China. She was a woman from Jiangnan with a kind of weathered grace, living a lonely life on this small island. She lived with a male undergraduate ten years younger than her, supporting him. When he left her, she almost strangled herself with the wire stems of the flowers.
+
+The supermarket is still in its old spot. Next to it, the Indian-run newsstand where you can buy cigarettes and change money. At the corner, the bakery. Across the road, a row of cafés where I used to come to do schoolwork. My schoolwork was bad; I couldn't get the books to go in, no matter what. Whole afternoons would go on staring into space, scribbling on tissue paper.
+
+When I cut class and didn't want to go home, those were the times I'd come to Holland Village. Everything that could soothe was here. Food and alcohol. Oh, and medicine. At the end of the row of cafés was a small clinic. There, the doctor gave me a little packet of sleeping pills, and a medical note recommending a temporary withdrawal from school.
+
+Turn again, and behind the cafés is the neon-lit little street, both sides crowded with bars. That bar has changed its name. It has been redecorated; chairs and tables are new, but the dark colour scheme is the same. I sat down on the second-floor terrace. The ceiling fan turned slowly above my head, as before. It was right here, in this very seat, that I got drunk for the first time in my life. At the time I thought alcohol was very bitter, and life was very long. Both conclusions turned out to be wrong.
+
+That drunken time, I ran from home in the middle of the night. I only wanted to escape that house. Anywhere else was fine.
+
+But now what I want is to go back to that house. I have been to every place we used to go, and the memories I can stir up are pitifully few. All of them, added up, are less than what stays inside that house. I miss it so much.
+
+Memory always makes mistakes. I had thought that after I left, she still lived in that house. Lived on, indefinitely. A few times I dreamed of going back to see her, all in that place. The living room still dim, the air conditioner still broken, magnets on the fridge holding down a couple of electricity bills, everything as before, waiting for me to return at any moment.
+
+But she had left. Left that house. Left the small island.
+
+Her city. In my heart I have got used to calling that small island this. After she left, it became an empty city.
+
+The hotel was in the city centre, not far from the museum on the map. On a free afternoon I suddenly wanted to go and look. In all my five years of living here I had never been there.
+
+I felt as if I had never come to this part of town. No residential buildings nearby, no supermarkets, no open-air eateries. Everything here is unrelated to daily life — it belongs to tourists. Like me, now. Although I tried hard to deny that identity, I still got lost on the way to the museum. It felt too humiliating to ask passers-by, so I just kept searching alone.
+
+I walked through the small colonial-style rotundas; tree-shadows shifted on the walls. Across the wide lawn, scattered frangipani flowers. The midday fountain glittered with clean white light. A little girl, clutching her sun hat, stumble-ran across the path. As I walked, without my noticing, rain began to fall, yet the sunlight still poured down thickly, and small mint-coloured points of light jumped before my eyes. This city is so beautiful, I sighed — and I had never sighed that before. There was even a moment when I helplessly thought: maybe I could stay here a little longer.
+
+When I found the museum the rain had stopped. Two white pigeons stood on the steps. I don't remember seeing pigeons before on this small island. I only remember the crows, circling above the hawker centres. When I had just arrived, I didn't know how fierce they were. Once, I left my seat for a moment to fetch a spoon, and when I came back, they were already pecking at the unfinished food on the table. That sight was crushing — as if even the birds in this city had to bully you; I couldn't even be granted basic respect. Later, in the very early mornings, or after rain, in those lonely hours, I would hear the crows. "Ah. Ah. Ah." A sigh as of sudden realisation, as if they had discovered some terrible secret. It seemed that every time my mood was at its worst, I would suddenly become aware of them: a sly black shadow brushing past my eyes, like a taunt.
+
+This time I did not see a single crow. Where had they all gone?
+
+Perhaps this city has two worlds. One belongs to crows; one belongs to pigeons. Until now I had lived in the world the crows governed. An underpass-like world: dim, lacking, undignified. No light, and love grew like a deformed tumour.
+
+In the sunlight, the pigeons on the steps stepped in small paces, gracefully shook the water from their wings.
+
+In the museum were hand-drawn botanical prints of tropical plants. "If you watch for them, you'll find they are right around you…" a teacher told a group of visiting children. I had not seen even one of them. There were also the large birds with brilliant plumage, the strange spices in coloured jars.
+
+Looms from the 1930s, cheongsams from the 1960s. So even a small island has its own fine times now passed.
+
+Standing at the second-floor window I looked out and saw, on the far lawn, a couple kissing. They kissed so long that I had thought they were a sculpture. But the kiss was real. There are people here, of course, who are in love. Lush love under the sun.
+
+> "Here no one says 'last winter' or 'next spring,' because this place has no seasons. Year on year, day after day, like New York in a heat wave, everyone goes through life as though it were perpetually summer — yet the body remains strong and well."
+
+That was how a *National Geographic* reporter in 1940 described this country. In the empty galleries of the museum I read this line aloud, quietly, trying to make the acquaintance of this small island once again.
+
+I have forgotten how we, in the end, fell apart. And how I moved out of that house. Things too violent are like an over-strong exposure — they cannot develop in memory, leaving only a haze of white brightness.
+
+Later, I left that city; you chose to stay. From then on, no contact. It was as if everything should end this way. Later still, my memory of the tropics gradually fused with my memory of you. The smell of rain made me think of you. The dense spicy broth of laksa made me think of you. Your country — that was how I called that hot small island in my heart. Carefully I missed it, imagining what it would be like to visit again — our solemn reunion.
+
+Neither of us imagined we'd see each other again in Beijing. Six years on, you came to the city I was living in, settled. With a change of place and time, both of us carrying a kind of seasoned poise, we resumed contact. As if you had recovered something dear and wanted to set it in a place of honour. Hoping to bring you back into my life, this afternoon I invited you over.
+
+We sat face to face. I looked at you and suddenly felt sad. The you before me was too normal. Too healthy. That fascinating and terrifying sullenness was gone from you. I had feared it the way one fears an evil spirit, feared being filled with it, sinking together with you — I had believed that was the destiny you could not escape. But it turned out to be only a youthful fever. You had recovered, been reborn. And yet looking at this new you, I felt only deep disappointment. The ordinary, I realised, is a hundred times more terrifying than degeneration.
+
+You were watching me too. The face before you didn't have what you were looking for either. Dejected, you turned your head away.
+
+I knew you were disappointed in me too.
+
+The thorns pulled out, the light lost. We could finally sit together with calm in our hearts. We were silent with each other, but the silence felt natural. Everything was quite all right, I thought; only, really, I could not see any reason for us to meet again.
+
+Glue Hill. Earl. Civet. Crocodile. Pigeon. Nineteen. Hair-dryer. Bel Canto. Broken-winged butterfly. Pleiades. Scarlet. I wrote down these words that have to do with you. They are breadcrumbs scattered along the road; most have been blown away by the wind, or eaten by someone — only a few are left. They can no longer serve as signposts to lead us back to where we came from.
 
 </div>

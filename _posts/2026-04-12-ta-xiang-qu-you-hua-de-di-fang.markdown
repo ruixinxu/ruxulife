@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "《她乡》+《去有花的地方》"
+title_en: "*Her Hometown* + *To the Place Where the Flowers Are*"
 date:   2026-04-12 20:18:34
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247484124&idx=1&sn=4547d8f1eff84fa0b4b9cde691c31ff6&chksm=9b464f74ac31c662f06506c3bbb64e31da5306db8af48e47a90e7bf0b31af5978205d51a8101#rd
 comments: true
 share: true
@@ -60,5 +61,61 @@ share: true
 > 闲是有段位的，有的人闲极无聊，有的人闲极崩溃，有的人则闲极生趣。如我这般将日子过得像针脚一样密实的中年人，早已习惯了在时间褶皱中自得其乐。
 >
 > 陈慧《去有花的地方》
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+Chen Hui is known as the "market-stall writer." She runs a small dry-goods cart in a vegetable market in Zhejiang — a "third-tier vendor" by trade — and she is also the author of five essay collections.
+
+She runs her stall in the morning, writes in the afternoon, and has, over the years, become well known. She has been covered by CCTV, talked with Chen Luyu, been interviewed by Zhang Yue. People have urged her to write full-time, or to ride her fame into livestream commerce — she has not budged. She still sets up her stall every day, not only to earn a living but because she loves the human warmth of the market.
+
+I first met Chen Hui through the podcast *Yan Zhong Hua Shu* — more precisely, met her voice. Her voice is crisp and bright; she talks short and fast, like beans clattering, full of life. She was born in 1978 in Rugao, Jiangsu province. Sent away to a foster family as a child, married off far from home in her youth after falling ill, divorced in mid-life — on paper, it doesn't sound like a happy life. From her own mouth, though, it never sounds bitter.
+
+The foster parents, and the grandparents in that household, were warm and doting; they gave her an affectionate childhood. She had a sweet tooth, and her foster father indulged her — snacks and pocket money were always plentiful. When her grandmother braised pork, she'd first ladle out a small bowl for Chen Hui to "test the salt."
+
+She's clear-eyed about how complicated, how multi-faced, people are. To her, her foster father was a one-hundred-out-of-a-hundred father, but a failing-grade husband. Through the families of her birth parents, her foster parents, her grandparents, her aunts, she saw many different samples of married life. About her own marriage, she only ever brushes past it; she never goes into details. She says: "Breaking out of a marriage is a long process; chewing on past pain over and over is just being cruel to yourself." She refuses the label of "alpha woman" and doesn't push other women to chase self-realisation by leaving their marriages. She is candid: "Whether or not to divorce is a weighing of real-world pros and cons."
+
+After that podcast, I felt deep affection for this guest — full of life wisdom, lucid and at home with herself. Recently I read two of her books, *Her Hometown* and *To the Place Where the Flowers Are*. The reading experience was light, easy and joyful.
+
+![](/images/wechat/ta-xiang-qu-you-hua-de-di-fang/0.jpg)
+
+*Her Hometown* is Chen Hui's book about the women around her. Each piece compresses a "her" — one woman's life. On a work trip, I read it straight through on the plane. The prose is plain and warm, and yet enormously strong; it records the decades-long arcs of ordinary women, true and stirring.
+
+![](/images/wechat/ta-xiang-qu-you-hua-de-di-fang/1.jpg)
+
+*To the Place Where the Flowers Are* is a collection of essays Chen Hui wrote while travelling with apiarists, following the bloom from place to place. It calls to mind Li Juan's writing on herders moving between pastures. The essays are about people and incidents met on the road — light in flavour, but with a long aftertaste.
+
+For me, though, the biggest takeaway from the book may just be a small clutch of "strange knowledge": that professional beekeepers, like nomadic herders, follow the bloom season from one place to the next; that queen bees come in two specialisations, "honey queens" and "royal-jelly queens"; that the process of producing royal jelly is intricate; even that snakes are afraid of goose droppings.
+
+Not long after I read the book, a small thing happened. A delivery notification said my parcel had been signed for at the door, but I couldn't find it anywhere. I called the courier and learned he had once been an apiarist. A peculiar warmth bloomed in me right there, and I let the matter go.
+
+---
+
+> The noonday sun glittered, the heat pressed down, as if it were trying to sun-dry something in this frozen courtyard. The grey old house wore its peeling plaster in patches; the wind crossed the low compound wall and stirred the camellia in the corner. There was a clumsy old well, its rim slathered thick with moss. The second-floor balcony was shallow, and on the west side a door's paint was neither red nor yellow. Behind that ambiguously coloured door, in the space called "home," was the one crack open to Xiang Qiunan. The other cracks — even when she bent low, swallowed her piercing pain, and beat herself out of shape — she still could not slip through.
+>
+> — Chen Hui, *Her Hometown*
+
+> Qin was clever-handed, meticulous in her work, never one to stir trouble. Her employer thought the world of her. The lady of the house where she worked as a nanny was an acupuncturist at a traditional-medicine hospital; after probing into Qin's family circumstances in detail, she refused to believe in this "wet-nurse muteness" thing and insisted on taking Qin to the hospital for a full examination. Qin had two minor operations, on her mouth and throat. The acupuncturist then patiently treated her with acupuncture for half a year. A miracle: Qin, whom everyone had assumed would be mute for life, slowly began to speak.
+>
+> The acupuncturist took pity on the gentle Qin, couldn't bear to keep her as a nanny, and sent her to a tailor's shop as an apprentice. Two years on, Qin opened a small tailoring shop in town. Her work was excellent, her manners impeccable, business was non-stop, and the money she earned not only rebuilt three brick-tile rooms for the Yang Guangming household but put Juan through the entire technical-college programme.
+>
+> — Chen Hui, *Her Hometown*
+
+> Qin was good-looking and slender. Perhaps because of that unusual stretch of her youth, her bearing was more quietly elegant than that of an ordinary girl. Some warm-hearted women customers in the shop scrambled to make matches for her — she politely declined them all.
+>
+> Against Yang Guangming's objections, she insisted on marrying her classmate from the school for the deaf and mute — a sunny, open-natured deaf-mute young man. Qin left all her speech outside their home. The moment she returned to that tiny home of just the two of them, not one word came out of her mouth. What they shared was dance-like hand gestures, gazes meeting in silence, and the unspoken understanding of a shared smile.
+>
+> — Chen Hui, *Her Hometown*
+
+> With the *shaobing* gone, Bali's standing in my heart fell off a cliff. I am a stubborn member of the "post-1970s." In an era without KFC, McDonald's, cakes or bubble tea, a seven-fen spring-onion big *shaobing* was a flash of light cutting open my childhood. When the crisp crust and the fragrant scallion oil met in the mouth, happiness bloomed across the top of your head like a flower. In all my years, whichever city I went to, the first thing I'd hunt for was the local *shaobing* stall in some alley — through that small dialogue between taste-buds and a still-warm "native *shaobing*," I'd try to touch the soul of a strange place. I've eaten the *shaobing* of Yangzhou, of Huangqiao, of Wenzhou, of Anhui, of Guangxi, of Wuxi… same raw materials, different region, and the taste can be worlds apart.
+>
+> — Chen Hui, *To the Place Where the Flowers Are*
+
+> Idleness has its grades. Some people bore themselves to death in idleness, some collapse, some make idleness into a source of small joys. As a mid-life person with my days packed as tight as needle-stitches, I've long since learnt to find quiet pleasure inside the folds of time.
+>
+> — Chen Hui, *To the Place Where the Flowers Are*
 
 </div>

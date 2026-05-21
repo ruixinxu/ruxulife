@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "大家一起来换书！\"如许阅读\"换书会坡县第一期"
+title_en: "Let's Swap Books! Ruxu Reading Book Swap, Singapore #1"
 date:   2016-06-21 00:05:45
 categories: wechat
 tags: [wechat]
@@ -45,5 +46,46 @@ https://www.eventnook.com/event/register/details?eventId=58149&orderid=be34ce2d-
 如有问题请联系 木木徐（微信号：pooh1949）。
 
 点击“阅读原文”注册报名
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+<p class="ai-generated-note">AI-generated translation.</p>
+
+If you also have a few unused books that have been collecting dust on your shelf…
+
+If the storylines that made your heart race have never had anyone to share them with…
+
+If the sheer abundance of titles out there leaves you not knowing where to start…
+
+If you happen to be in Singapore on the first Saturday afternoon of July…
+
+Then bring your books and come to the "Ruxu Reading" Book Swap!
+
+**Time**: 2016-07-02, 15:00 – 17:00
+
+**Venue**: Booktique – Where Writers Shop, 1 Raffles Link, #B1-17A CityLink Mall, Singapore, 039393
+
+**Capacity**: 10 people
+
+**Fee**: Free
+
+**Registration**:
+
+https://www.eventnook.com/event/register/details?eventId=58149&orderid=be34ce2d-b0d0-4bb5-98c3-0e6522118283#
+
+(Copy into your phone's browser, or tap "Read original".)
+
+**Other notes**:
+
+- Pre-registration is required for this event — tap "Read original" to submit the form.
+- Each guest should bring at least one book and share it with the group in turn. You can talk about the content, the style, the author, anecdotes — or share your own reading impressions and favourite passages.
+- Anyone is welcome to ask questions or offer their own views on whatever has been shared, and join the discussion. *Junzi he er bu tong* — a gentleman lives in harmony with others without being a copy of them. Every perspective deserves respect.
+- Open mingling, lending books to each other, agreeing on return dates. Any books that aren't borrowed can be taken home.
+
+Questions? Contact Mumu Xu (WeChat: pooh1949).
+
+Tap "Read original" to register.
 
 </div>
