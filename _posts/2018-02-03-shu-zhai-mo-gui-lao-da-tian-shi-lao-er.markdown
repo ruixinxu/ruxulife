@@ -3,8 +3,8 @@ layout: post
 title:  "书摘-魔鬼老大 天使老二"
 title_en: "[Book Notes] First-Born Devil, Second-Born Angel"
 date:   2018-02-03 14:39:19
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483691&idx=1&sn=28bcced42c2c43191305c95ab0486f39&chksm=9b464c83ac31c5957ee55aaa27419b3d669857cecd6fda22131c2874d3ac1c721f10c9ddcc15#rd
 comments: true
 share: true

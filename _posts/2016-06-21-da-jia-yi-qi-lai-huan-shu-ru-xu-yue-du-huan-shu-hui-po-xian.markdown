@@ -3,8 +3,8 @@ layout: post
 title:  "大家一起来换书！\"如许阅读\"换书会坡县第一期"
 title_en: "Let's Swap Books! Ruxu Reading Book Swap, Singapore #1"
 date:   2016-06-21 00:05:45
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483653&idx=1&sn=4c1707a49f5c91d8c9b4acf7269a3b14&chksm=9b464cadac31c5bb9072773baad744840112ba33ef817073c192c1abdfb786710e84634b8fff#rd
 comments: true
 share: true

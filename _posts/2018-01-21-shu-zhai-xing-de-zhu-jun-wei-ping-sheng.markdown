@@ -3,8 +3,8 @@ layout: post
 title:  "【书摘】幸得诸君慰平生"
 title_en: "[Book Notes] Lucky to Have You All to Comfort My Life"
 date:   2018-01-21 23:59:55
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483681&idx=1&sn=be20683e1afe2c07343f25e2a15b5a29&chksm=9b464c89ac31c59fb5e34807a2fbf7dea67342516179fbb37d0e04bf65da2deeb31136571650#rd
 comments: true
 share: true

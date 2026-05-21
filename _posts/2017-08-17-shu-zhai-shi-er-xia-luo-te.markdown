@@ -3,8 +3,8 @@ layout: post
 title:  "【书摘】时而夏洛特"
 title_en: "[Book Notes] Sometimes Charlotte"
 date:   2017-08-17 01:48:19
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483674&idx=1&sn=c36ef7622479ea9d52491898fe70b667&chksm=9b464cb2ac31c5a4abcb0d9e8e98b11181ffdb1c9369083324c97b552d790879b87462b3e46c#rd
 comments: true
 share: true

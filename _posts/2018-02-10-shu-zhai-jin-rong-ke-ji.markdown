@@ -3,8 +3,8 @@ layout: post
 title:  "【书摘】金融科技"
 title_en: "[Book Notes] Fintech"
 date:   2018-02-10 19:49:04
-categories: wechat
-tags: [wechat]
+categories: ruxu-reading
+tags: [ruxu-reading]
 source_url: http://mp.weixin.qq.com/s?__biz=MzAxMTA1MDE4Mw==&mid=2247483697&idx=1&sn=404a5a82048f1c3bb8309d730614d885&chksm=9b464c99ac31c58f920064d0ce479f73195276ec2d341204916aac77c8480565341f4568a851#rd
 comments: true
 share: true
